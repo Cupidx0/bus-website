@@ -125,4 +125,4 @@ The converter specifically treats the following elements as arrays:
 - operators
 - servicecodelist
 
-If you need a different JSON structure, you can modify these options in the script. 
+If you need a different JSON structure, you can modify these options in the script. # bus-website
