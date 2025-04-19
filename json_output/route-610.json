@@ -1,0 +1,5445 @@
+{
+  "?xml": {
+    "version": "1.0",
+    "encoding": "UTF-8"
+  },
+  "TransXChange": {
+    "ServicedOrganisations": {
+      "ServicedOrganisation": {
+        "OrganisationCode": "Sch",
+        "Name": "AnySchool",
+        "WorkingDays": {
+          "DateRange": [
+            {
+              "StartDate": "2025-03-03",
+              "EndDate": "2025-03-07"
+            },
+            {
+              "StartDate": "2025-03-10",
+              "EndDate": "2025-03-14"
+            },
+            {
+              "StartDate": "2025-03-17",
+              "EndDate": "2025-03-21"
+            },
+            {
+              "StartDate": "2025-03-24",
+              "EndDate": "2025-03-28"
+            },
+            {
+              "StartDate": "2025-03-31",
+              "EndDate": "2025-04-04"
+            },
+            {
+              "StartDate": "2025-04-22",
+              "EndDate": "2025-04-25"
+            },
+            {
+              "StartDate": "2025-04-28",
+              "EndDate": "2025-05-02"
+            },
+            {
+              "StartDate": "2025-05-06",
+              "EndDate": "2025-05-09"
+            },
+            {
+              "StartDate": "2025-05-12",
+              "EndDate": "2025-05-16"
+            },
+            {
+              "StartDate": "2025-05-19",
+              "EndDate": "2025-05-23"
+            }
+          ]
+        }
+      }
+    },
+    "StopPoints": [
+      {
+        "AnnotatedStopPointRef": [
+          {
+            "StopPointRef": "4400CY0278",
+            "CommonName": "Holy Trinity School",
+            "Location": {
+              "Longitude": -0.208705,
+              "Latitude": 51.106028
+            }
+          },
+          {
+            "StopPointRef": "4400CY0262",
+            "CommonName": "Tilgate, Thomas Bennett Sch",
+            "Location": {
+              "Longitude": -0.190189,
+              "Latitude": 51.101765
+            }
+          },
+          {
+            "StopPointRef": "4400CY0261",
+            "CommonName": "Tilgate, Thomas Bennett Sch",
+            "Location": {
+              "Longitude": -0.189903,
+              "Latitude": 51.10173
+            }
+          },
+          {
+            "StopPointRef": "4400CY0415",
+            "CommonName": "Southgate Ave. South",
+            "Location": {
+              "Longitude": -0.19156,
+              "Latitude": 51.101863
+            }
+          },
+          {
+            "StopPointRef": "4400CY0260",
+            "CommonName": "Canterbury Road",
+            "Location": {
+              "Longitude": -0.185901,
+              "Latitude": 51.099764
+            }
+          },
+          {
+            "StopPointRef": "4400CY0414",
+            "CommonName": "Broadfield Stadium",
+            "Location": {
+              "Longitude": -0.196397,
+              "Latitude": 51.100196
+            }
+          },
+          {
+            "StopPointRef": "4400CY0257",
+            "CommonName": "Nash Road",
+            "Location": {
+              "Longitude": -0.182347,
+              "Latitude": 51.100836
+            }
+          },
+          {
+            "StopPointRef": "4400CY0107",
+            "CommonName": "Coachmans Drive North",
+            "Location": {
+              "Longitude": -0.20042,
+              "Latitude": 51.098745
+            }
+          },
+          {
+            "StopPointRef": "4400CY0255",
+            "CommonName": "Whistler Close",
+            "Location": {
+              "Longitude": -0.177666,
+              "Latitude": 51.102179
+            }
+          },
+          {
+            "StopPointRef": "4400CY0411",
+            "CommonName": "Broadfield Barton North",
+            "Location": {
+              "Longitude": -0.205843,
+              "Latitude": 51.09758
+            }
+          },
+          {
+            "StopPointRef": "4400CY0253",
+            "CommonName": "Weirbrook",
+            "Location": {
+              "Longitude": -0.171114,
+              "Latitude": 51.103532
+            }
+          },
+          {
+            "StopPointRef": "4400CY0097",
+            "CommonName": "Broadfield, Barton",
+            "Location": {
+              "Longitude": -0.206956,
+              "Latitude": 51.097085
+            }
+          },
+          {
+            "StopPointRef": "4400CY0248",
+            "CommonName": "Furnace Green, Charcoal Burner",
+            "Location": {
+              "Longitude": -0.169492,
+              "Latitude": 51.107129
+            }
+          },
+          {
+            "StopPointRef": "4400CY0091",
+            "CommonName": "Pelham Drive",
+            "Location": {
+              "Longitude": -0.209354,
+              "Latitude": 51.0971
+            }
+          },
+          {
+            "StopPointRef": "4400CY0246",
+            "CommonName": "Brantridge Road",
+            "Location": {
+              "Longitude": -0.173975,
+              "Latitude": 51.106668
+            }
+          },
+          {
+            "StopPointRef": "4400CY0016",
+            "CommonName": "Breezehurst Drive East",
+            "Location": {
+              "Longitude": -0.216392,
+              "Latitude": 51.102164
+            }
+          },
+          {
+            "StopPointRef": "4400CY0244",
+            "CommonName": "Loppets Road",
+            "Location": {
+              "Longitude": -0.177988,
+              "Latitude": 51.106548
+            }
+          },
+          {
+            "StopPointRef": "4400CY0018",
+            "CommonName": "Breezehurst Drive Central",
+            "Location": {
+              "Longitude": -0.218904,
+              "Latitude": 51.101721
+            }
+          },
+          {
+            "StopPointRef": "4400CY0267",
+            "CommonName": "Southgate Ave. North",
+            "Location": {
+              "Longitude": -0.182491,
+              "Latitude": 51.10864
+            }
+          },
+          {
+            "StopPointRef": "4400CY0020",
+            "CommonName": "Breezehurst Drive West",
+            "Location": {
+              "Longitude": -0.223732,
+              "Latitude": 51.102255
+            }
+          },
+          {
+            "StopPointRef": "4400CY0420",
+            "CommonName": "Town Centre South",
+            "Location": {
+              "Longitude": -0.182955,
+              "Latitude": 51.112398
+            }
+          },
+          {
+            "StopPointRef": "4400CY0073",
+            "CommonName": "Bewbush, Dorsten Square",
+            "Location": {
+              "Longitude": -0.222965,
+              "Latitude": 51.103586
+            }
+          },
+          {
+            "StopPointRef": "4400CY0296",
+            "CommonName": "Crawley Bus Station",
+            "Location": {
+              "Longitude": -0.186741,
+              "Latitude": 51.113159
+            }
+          },
+          {
+            "StopPointRef": "4400CY0247",
+            "CommonName": "Brantridge Road",
+            "Location": {
+              "Longitude": -0.173319,
+              "Latitude": 51.106866
+            }
+          },
+          {
+            "StopPointRef": "4400CY0019",
+            "CommonName": "Breezehurst Drive Central",
+            "Location": {
+              "Longitude": -0.220089,
+              "Latitude": 51.101567
+            }
+          },
+          {
+            "StopPointRef": "4400CY0015",
+            "CommonName": "Breezehurst Drive East",
+            "Location": {
+              "Longitude": -0.214964,
+              "Latitude": 51.101959
+            }
+          },
+          {
+            "StopPointRef": "4400CY0410",
+            "CommonName": "Broadfield Barton North",
+            "Location": {
+              "Longitude": -0.205758,
+              "Latitude": 51.097787
+            }
+          },
+          {
+            "StopPointRef": "4400CY0413",
+            "CommonName": "Broadfield Stadium",
+            "Location": {
+              "Longitude": -0.196269,
+              "Latitude": 51.100358
+            }
+          },
+          {
+            "StopPointRef": "4400CY0259",
+            "CommonName": "Canterbury Road",
+            "Location": {
+              "Longitude": -0.185715,
+              "Latitude": 51.099629
+            }
+          },
+          {
+            "StopPointRef": "4400CY0076",
+            "CommonName": "Cheals Roundabout",
+            "Location": {
+              "Longitude": -0.206475,
+              "Latitude": 51.105185
+            }
+          },
+          {
+            "StopPointRef": "4400CY0412",
+            "CommonName": "Coachmans Drive North",
+            "Location": {
+              "Longitude": -0.201633,
+              "Latitude": 51.098429
+            }
+          },
+          {
+            "StopPointRef": "4400CY0294",
+            "CommonName": "Crawley Bus Station",
+            "Location": {
+              "Longitude": -0.186612,
+              "Latitude": 51.112979
+            }
+          },
+          {
+            "StopPointRef": "4400CY0252",
+            "CommonName": "Furnace Green, Charcoal Burner",
+            "Location": {
+              "Longitude": -0.168777,
+              "Latitude": 51.106851
+            }
+          },
+          {
+            "StopPointRef": "4400CY0245",
+            "CommonName": "Loppets Road",
+            "Location": {
+              "Longitude": -0.177445,
+              "Latitude": 51.106504
+            }
+          },
+          {
+            "StopPointRef": "4400CY0258",
+            "CommonName": "Nash Road",
+            "Location": {
+              "Longitude": -0.182176,
+              "Latitude": 51.100792
+            }
+          },
+          {
+            "StopPointRef": "4400CY0090",
+            "CommonName": "Pelham Drive",
+            "Location": {
+              "Longitude": -0.210155,
+              "Latitude": 51.097405
+            }
+          },
+          {
+            "StopPointRef": "4400CY0416",
+            "CommonName": "Southgate Ave. South",
+            "Location": {
+              "Longitude": -0.189848,
+              "Latitude": 51.102548
+            }
+          },
+          {
+            "StopPointRef": "4400CY0263",
+            "CommonName": "Southgate Ave. Central",
+            "Location": {
+              "Longitude": -0.185424,
+              "Latitude": 51.104196
+            }
+          },
+          {
+            "StopPointRef": "4400CY0394",
+            "CommonName": "St Wilfrids School",
+            "Location": {
+              "Longitude": -0.203016,
+              "Latitude": 51.10999
+            }
+          },
+          {
+            "StopPointRef": "4400CY0254",
+            "CommonName": "Weirbrook",
+            "Location": {
+              "Longitude": -0.171285,
+              "Latitude": 51.103352
+            }
+          },
+          {
+            "StopPointRef": "4400CY0256",
+            "CommonName": "Whistler Close",
+            "Location": {
+              "Longitude": -0.178409,
+              "Latitude": 51.102062
+            }
+          }
+        ]
+      }
+    ],
+    "RouteSections": [
+      {
+        "RouteSection": [
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "4400CY0278"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0261"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.208634,
+                        "Latitude": 51.106109
+                      },
+                      {
+                        "Longitude": -0.208777,
+                        "Latitude": 51.106163
+                      },
+                      {
+                        "Longitude": -0.20862,
+                        "Latitude": 51.106334
+                      },
+                      {
+                        "Longitude": -0.208535,
+                        "Latitude": 51.106523
+                      },
+                      {
+                        "Longitude": -0.20845,
+                        "Latitude": 51.106721
+                      },
+                      {
+                        "Longitude": -0.20795,
+                        "Latitude": 51.106721
+                      },
+                      {
+                        "Longitude": -0.207622,
+                        "Latitude": 51.106794
+                      },
+                      {
+                        "Longitude": -0.20755,
+                        "Latitude": 51.106677
+                      },
+                      {
+                        "Longitude": -0.207278,
+                        "Latitude": 51.106353
+                      },
+                      {
+                        "Longitude": -0.206892,
+                        "Latitude": 51.106075
+                      },
+                      {
+                        "Longitude": -0.206019,
+                        "Latitude": 51.105644
+                      },
+                      {
+                        "Longitude": -0.205164,
+                        "Latitude": 51.10631
+                      },
+                      {
+                        "Longitude": -0.205107,
+                        "Latitude": 51.106337
+                      },
+                      {
+                        "Longitude": -0.204922,
+                        "Latitude": 51.106446
+                      },
+                      {
+                        "Longitude": -0.204708,
+                        "Latitude": 51.106545
+                      },
+                      {
+                        "Longitude": -0.204608,
+                        "Latitude": 51.10659
+                      },
+                      {
+                        "Longitude": -0.204494,
+                        "Latitude": 51.106734
+                      },
+                      {
+                        "Longitude": -0.20448,
+                        "Latitude": 51.106752
+                      },
+                      {
+                        "Longitude": -0.204437,
+                        "Latitude": 51.106788
+                      },
+                      {
+                        "Longitude": -0.204323,
+                        "Latitude": 51.10686
+                      },
+                      {
+                        "Longitude": -0.204194,
+                        "Latitude": 51.106878
+                      },
+                      {
+                        "Longitude": -0.204052,
+                        "Latitude": 51.106896
+                      },
+                      {
+                        "Longitude": -0.203952,
+                        "Latitude": 51.10686
+                      },
+                      {
+                        "Longitude": -0.203866,
+                        "Latitude": 51.106824
+                      },
+                      {
+                        "Longitude": -0.20378,
+                        "Latitude": 51.106752
+                      },
+                      {
+                        "Longitude": -0.203751,
+                        "Latitude": 51.106653
+                      },
+                      {
+                        "Longitude": -0.20378,
+                        "Latitude": 51.106581
+                      },
+                      {
+                        "Longitude": -0.203822,
+                        "Latitude": 51.106509
+                      },
+                      {
+                        "Longitude": -0.203793,
+                        "Latitude": 51.10633
+                      },
+                      {
+                        "Longitude": -0.203335,
+                        "Latitude": 51.105692
+                      },
+                      {
+                        "Longitude": -0.20292,
+                        "Latitude": 51.105252
+                      },
+                      {
+                        "Longitude": -0.202262,
+                        "Latitude": 51.104749
+                      },
+                      {
+                        "Longitude": -0.202133,
+                        "Latitude": 51.104686
+                      },
+                      {
+                        "Longitude": -0.201661,
+                        "Latitude": 51.104435
+                      },
+                      {
+                        "Longitude": -0.200746,
+                        "Latitude": 51.104049
+                      },
+                      {
+                        "Longitude": -0.196587,
+                        "Latitude": 51.102452
+                      },
+                      {
+                        "Longitude": -0.19643,
+                        "Latitude": 51.10238
+                      },
+                      {
+                        "Longitude": -0.195901,
+                        "Latitude": 51.102138
+                      },
+                      {
+                        "Longitude": -0.195572,
+                        "Latitude": 51.101914
+                      },
+                      {
+                        "Longitude": -0.194743,
+                        "Latitude": 51.101375
+                      },
+                      {
+                        "Longitude": -0.194557,
+                        "Latitude": 51.101258
+                      },
+                      {
+                        "Longitude": -0.194357,
+                        "Latitude": 51.101204
+                      },
+                      {
+                        "Longitude": -0.194214,
+                        "Latitude": 51.101196
+                      },
+                      {
+                        "Longitude": -0.194057,
+                        "Latitude": 51.101151
+                      },
+                      {
+                        "Longitude": -0.193814,
+                        "Latitude": 51.101151
+                      },
+                      {
+                        "Longitude": -0.193672,
+                        "Latitude": 51.10116
+                      },
+                      {
+                        "Longitude": -0.193586,
+                        "Latitude": 51.101178
+                      },
+                      {
+                        "Longitude": -0.193301,
+                        "Latitude": 51.101295
+                      },
+                      {
+                        "Longitude": -0.193215,
+                        "Latitude": 51.101331
+                      },
+                      {
+                        "Longitude": -0.191346,
+                        "Latitude": 51.10198
+                      },
+                      {
+                        "Longitude": -0.190646,
+                        "Latitude": 51.102196
+                      },
+                      {
+                        "Longitude": -0.190461,
+                        "Latitude": 51.10226
+                      },
+                      {
+                        "Longitude": -0.190432,
+                        "Latitude": 51.102215
+                      },
+                      {
+                        "Longitude": -0.190232,
+                        "Latitude": 51.101972
+                      },
+                      {
+                        "Longitude": -0.190003,
+                        "Latitude": 51.101712
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0261"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0260"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.190003,
+                        "Latitude": 51.101712
+                      },
+                      {
+                        "Longitude": -0.189402,
+                        "Latitude": 51.101011
+                      },
+                      {
+                        "Longitude": -0.188729,
+                        "Latitude": 51.100265
+                      },
+                      {
+                        "Longitude": -0.188443,
+                        "Latitude": 51.10005
+                      },
+                      {
+                        "Longitude": -0.188114,
+                        "Latitude": 51.09987
+                      },
+                      {
+                        "Longitude": -0.187971,
+                        "Latitude": 51.099807
+                      },
+                      {
+                        "Longitude": -0.187571,
+                        "Latitude": 51.099709
+                      },
+                      {
+                        "Longitude": -0.187143,
+                        "Latitude": 51.099655
+                      },
+                      {
+                        "Longitude": -0.186657,
+                        "Latitude": 51.099646
+                      },
+                      {
+                        "Longitude": -0.186315,
+                        "Latitude": 51.099656
+                      },
+                      {
+                        "Longitude": -0.186258,
+                        "Latitude": 51.099665
+                      },
+                      {
+                        "Longitude": -0.185886,
+                        "Latitude": 51.099683
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0260"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0257"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.185886,
+                        "Latitude": 51.099683
+                      },
+                      {
+                        "Longitude": -0.185787,
+                        "Latitude": 51.099692
+                      },
+                      {
+                        "Longitude": -0.184987,
+                        "Latitude": 51.09972
+                      },
+                      {
+                        "Longitude": -0.184544,
+                        "Latitude": 51.099738
+                      },
+                      {
+                        "Longitude": -0.184159,
+                        "Latitude": 51.099801
+                      },
+                      {
+                        "Longitude": -0.183474,
+                        "Latitude": 51.100044
+                      },
+                      {
+                        "Longitude": -0.183274,
+                        "Latitude": 51.100179
+                      },
+                      {
+                        "Longitude": -0.183118,
+                        "Latitude": 51.100278
+                      },
+                      {
+                        "Longitude": -0.182675,
+                        "Latitude": 51.100566
+                      },
+                      {
+                        "Longitude": -0.182305,
+                        "Latitude": 51.100809
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0257"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0255"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.182305,
+                        "Latitude": 51.100809
+                      },
+                      {
+                        "Longitude": -0.181577,
+                        "Latitude": 51.101304
+                      },
+                      {
+                        "Longitude": -0.181249,
+                        "Latitude": 51.101529
+                      },
+                      {
+                        "Longitude": -0.180993,
+                        "Latitude": 51.101673
+                      },
+                      {
+                        "Longitude": -0.180721,
+                        "Latitude": 51.101809
+                      },
+                      {
+                        "Longitude": -0.180379,
+                        "Latitude": 51.101917
+                      },
+                      {
+                        "Longitude": -0.179722,
+                        "Latitude": 51.102007
+                      },
+                      {
+                        "Longitude": -0.178423,
+                        "Latitude": 51.102125
+                      },
+                      {
+                        "Longitude": -0.177723,
+                        "Latitude": 51.102179
+                      },
+                      {
+                        "Longitude": -0.177666,
+                        "Latitude": 51.102188
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0255"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0253"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.177666,
+                        "Latitude": 51.102188
+                      },
+                      {
+                        "Longitude": -0.177152,
+                        "Latitude": 51.102234
+                      },
+                      {
+                        "Longitude": -0.176624,
+                        "Latitude": 51.10227
+                      },
+                      {
+                        "Longitude": -0.175939,
+                        "Latitude": 51.102342
+                      },
+                      {
+                        "Longitude": -0.175482,
+                        "Latitude": 51.102379
+                      },
+                      {
+                        "Longitude": -0.175025,
+                        "Latitude": 51.102415
+                      },
+                      {
+                        "Longitude": -0.174954,
+                        "Latitude": 51.102424
+                      },
+                      {
+                        "Longitude": -0.174868,
+                        "Latitude": 51.102424
+                      },
+                      {
+                        "Longitude": -0.174168,
+                        "Latitude": 51.102487
+                      },
+                      {
+                        "Longitude": -0.174097,
+                        "Latitude": 51.102496
+                      },
+                      {
+                        "Longitude": -0.174011,
+                        "Latitude": 51.102505
+                      },
+                      {
+                        "Longitude": -0.173412,
+                        "Latitude": 51.102596
+                      },
+                      {
+                        "Longitude": -0.17324,
+                        "Latitude": 51.102623
+                      },
+                      {
+                        "Longitude": -0.172641,
+                        "Latitude": 51.102785
+                      },
+                      {
+                        "Longitude": -0.171999,
+                        "Latitude": 51.103037
+                      },
+                      {
+                        "Longitude": -0.171114,
+                        "Latitude": 51.103433
+                      },
+                      {
+                        "Longitude": -0.171043,
+                        "Latitude": 51.103469
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0253"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0248"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.171043,
+                        "Latitude": 51.103469
+                      },
+                      {
+                        "Longitude": -0.170301,
+                        "Latitude": 51.103802
+                      },
+                      {
+                        "Longitude": -0.169873,
+                        "Latitude": 51.104019
+                      },
+                      {
+                        "Longitude": -0.169316,
+                        "Latitude": 51.104316
+                      },
+                      {
+                        "Longitude": -0.168831,
+                        "Latitude": 51.104765
+                      },
+                      {
+                        "Longitude": -0.168674,
+                        "Latitude": 51.104909
+                      },
+                      {
+                        "Longitude": -0.168689,
+                        "Latitude": 51.104945
+                      },
+                      {
+                        "Longitude": -0.168689,
+                        "Latitude": 51.104972
+                      },
+                      {
+                        "Longitude": -0.16866,
+                        "Latitude": 51.105017
+                      },
+                      {
+                        "Longitude": -0.168632,
+                        "Latitude": 51.105035
+                      },
+                      {
+                        "Longitude": -0.168603,
+                        "Latitude": 51.105035
+                      },
+                      {
+                        "Longitude": -0.168561,
+                        "Latitude": 51.105251
+                      },
+                      {
+                        "Longitude": -0.168518,
+                        "Latitude": 51.10562
+                      },
+                      {
+                        "Longitude": -0.168533,
+                        "Latitude": 51.105871
+                      },
+                      {
+                        "Longitude": -0.168648,
+                        "Latitude": 51.10624
+                      },
+                      {
+                        "Longitude": -0.168777,
+                        "Latitude": 51.106546
+                      },
+                      {
+                        "Longitude": -0.168992,
+                        "Latitude": 51.107103
+                      },
+                      {
+                        "Longitude": -0.169035,
+                        "Latitude": 51.107166
+                      },
+                      {
+                        "Longitude": -0.169221,
+                        "Latitude": 51.107273
+                      },
+                      {
+                        "Longitude": -0.169278,
+                        "Latitude": 51.107255
+                      },
+                      {
+                        "Longitude": -0.169349,
+                        "Latitude": 51.107255
+                      },
+                      {
+                        "Longitude": -0.169521,
+                        "Latitude": 51.107192
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0248"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0246"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.169521,
+                        "Latitude": 51.107192
+                      },
+                      {
+                        "Longitude": -0.169606,
+                        "Latitude": 51.107192
+                      },
+                      {
+                        "Longitude": -0.169706,
+                        "Latitude": 51.107183
+                      },
+                      {
+                        "Longitude": -0.169892,
+                        "Latitude": 51.107156
+                      },
+                      {
+                        "Longitude": -0.170177,
+                        "Latitude": 51.107102
+                      },
+                      {
+                        "Longitude": -0.170677,
+                        "Latitude": 51.107021
+                      },
+                      {
+                        "Longitude": -0.171519,
+                        "Latitude": 51.106912
+                      },
+                      {
+                        "Longitude": -0.172191,
+                        "Latitude": 51.106876
+                      },
+                      {
+                        "Longitude": -0.172719,
+                        "Latitude": 51.106858
+                      },
+                      {
+                        "Longitude": -0.173333,
+                        "Latitude": 51.10683
+                      },
+                      {
+                        "Longitude": -0.174004,
+                        "Latitude": 51.106731
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0246"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0244"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.174004,
+                        "Latitude": 51.106731
+                      },
+                      {
+                        "Longitude": -0.174018,
+                        "Latitude": 51.106731
+                      },
+                      {
+                        "Longitude": -0.176117,
+                        "Latitude": 51.10637
+                      },
+                      {
+                        "Longitude": -0.176503,
+                        "Latitude": 51.106334
+                      },
+                      {
+                        "Longitude": -0.176845,
+                        "Latitude": 51.106333
+                      },
+                      {
+                        "Longitude": -0.177074,
+                        "Latitude": 51.10636
+                      },
+                      {
+                        "Longitude": -0.177245,
+                        "Latitude": 51.106387
+                      },
+                      {
+                        "Longitude": -0.177531,
+                        "Latitude": 51.106459
+                      },
+                      {
+                        "Longitude": -0.17776,
+                        "Latitude": 51.106549
+                      },
+                      {
+                        "Longitude": -0.177931,
+                        "Latitude": 51.106611
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0244"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0267"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.177931,
+                        "Latitude": 51.106611
+                      },
+                      {
+                        "Longitude": -0.177974,
+                        "Latitude": 51.106629
+                      },
+                      {
+                        "Longitude": -0.178389,
+                        "Latitude": 51.106926
+                      },
+                      {
+                        "Longitude": -0.178747,
+                        "Latitude": 51.107375
+                      },
+                      {
+                        "Longitude": -0.179432,
+                        "Latitude": 51.107186
+                      },
+                      {
+                        "Longitude": -0.179574,
+                        "Latitude": 51.107177
+                      },
+                      {
+                        "Longitude": -0.179632,
+                        "Latitude": 51.107177
+                      },
+                      {
+                        "Longitude": -0.180174,
+                        "Latitude": 51.107149
+                      },
+                      {
+                        "Longitude": -0.180846,
+                        "Latitude": 51.107194
+                      },
+                      {
+                        "Longitude": -0.181488,
+                        "Latitude": 51.107238
+                      },
+                      {
+                        "Longitude": -0.181545,
+                        "Latitude": 51.107247
+                      },
+                      {
+                        "Longitude": -0.181674,
+                        "Latitude": 51.107256
+                      },
+                      {
+                        "Longitude": -0.181974,
+                        "Latitude": 51.107283
+                      },
+                      {
+                        "Longitude": -0.182188,
+                        "Latitude": 51.107301
+                      },
+                      {
+                        "Longitude": -0.182245,
+                        "Latitude": 51.10731
+                      },
+                      {
+                        "Longitude": -0.182417,
+                        "Latitude": 51.107318
+                      },
+                      {
+                        "Longitude": -0.182332,
+                        "Latitude": 51.107912
+                      },
+                      {
+                        "Longitude": -0.182361,
+                        "Latitude": 51.108092
+                      },
+                      {
+                        "Longitude": -0.182362,
+                        "Latitude": 51.108433
+                      },
+                      {
+                        "Longitude": -0.182362,
+                        "Latitude": 51.10864
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0267"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0420"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.182362,
+                        "Latitude": 51.10864
+                      },
+                      {
+                        "Longitude": -0.182348,
+                        "Latitude": 51.108874
+                      },
+                      {
+                        "Longitude": -0.18245,
+                        "Latitude": 51.109665
+                      },
+                      {
+                        "Longitude": -0.182652,
+                        "Latitude": 51.111202
+                      },
+                      {
+                        "Longitude": -0.182696,
+                        "Latitude": 51.111571
+                      },
+                      {
+                        "Longitude": -0.182725,
+                        "Latitude": 51.111741
+                      },
+                      {
+                        "Longitude": -0.182754,
+                        "Latitude": 51.111894
+                      },
+                      {
+                        "Longitude": -0.182826,
+                        "Latitude": 51.112407
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_10"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0420"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0296"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.182826,
+                        "Latitude": 51.112407
+                      },
+                      {
+                        "Longitude": -0.182841,
+                        "Latitude": 51.112569
+                      },
+                      {
+                        "Longitude": -0.182984,
+                        "Latitude": 51.112784
+                      },
+                      {
+                        "Longitude": -0.183098,
+                        "Latitude": 51.112964
+                      },
+                      {
+                        "Longitude": -0.183113,
+                        "Latitude": 51.112991
+                      },
+                      {
+                        "Longitude": -0.183198,
+                        "Latitude": 51.112982
+                      },
+                      {
+                        "Longitude": -0.183298,
+                        "Latitude": 51.112982
+                      },
+                      {
+                        "Longitude": -0.183484,
+                        "Latitude": 51.112982
+                      },
+                      {
+                        "Longitude": -0.18387,
+                        "Latitude": 51.112981
+                      },
+                      {
+                        "Longitude": -0.184212,
+                        "Latitude": 51.112927
+                      },
+                      {
+                        "Longitude": -0.184227,
+                        "Latitude": 51.112909
+                      },
+                      {
+                        "Longitude": -0.184241,
+                        "Latitude": 51.112891
+                      },
+                      {
+                        "Longitude": -0.184255,
+                        "Latitude": 51.112882
+                      },
+                      {
+                        "Longitude": -0.184284,
+                        "Latitude": 51.112882
+                      },
+                      {
+                        "Longitude": -0.184398,
+                        "Latitude": 51.112738
+                      },
+                      {
+                        "Longitude": -0.184512,
+                        "Latitude": 51.112675
+                      },
+                      {
+                        "Longitude": -0.184697,
+                        "Latitude": 51.112594
+                      },
+                      {
+                        "Longitude": -0.18484,
+                        "Latitude": 51.112567
+                      },
+                      {
+                        "Longitude": -0.185126,
+                        "Latitude": 51.112504
+                      },
+                      {
+                        "Longitude": -0.185326,
+                        "Latitude": 51.112495
+                      },
+                      {
+                        "Longitude": -0.185426,
+                        "Latitude": 51.112486
+                      },
+                      {
+                        "Longitude": -0.186397,
+                        "Latitude": 51.112521
+                      },
+                      {
+                        "Longitude": -0.186554,
+                        "Latitude": 51.112521
+                      },
+                      {
+                        "Longitude": -0.186597,
+                        "Latitude": 51.112665
+                      },
+                      {
+                        "Longitude": -0.186683,
+                        "Latitude": 51.112952
+                      },
+                      {
+                        "Longitude": -0.186741,
+                        "Latitude": 51.113159
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_11"
+              }
+            ],
+            "id": "bQN_baZP"
+          },
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "4400CY0262"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0415"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.190089,
+                        "Latitude": 51.101801
+                      },
+                      {
+                        "Longitude": -0.190232,
+                        "Latitude": 51.101972
+                      },
+                      {
+                        "Longitude": -0.190432,
+                        "Latitude": 51.102215
+                      },
+                      {
+                        "Longitude": -0.190461,
+                        "Latitude": 51.10226
+                      },
+                      {
+                        "Longitude": -0.190646,
+                        "Latitude": 51.102196
+                      },
+                      {
+                        "Longitude": -0.191346,
+                        "Latitude": 51.10198
+                      },
+                      {
+                        "Longitude": -0.19156,
+                        "Latitude": 51.101872
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0415"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0414"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.19156,
+                        "Latitude": 51.101872
+                      },
+                      {
+                        "Longitude": -0.191645,
+                        "Latitude": 51.101827
+                      },
+                      {
+                        "Longitude": -0.191717,
+                        "Latitude": 51.101791
+                      },
+                      {
+                        "Longitude": -0.191745,
+                        "Latitude": 51.101773
+                      },
+                      {
+                        "Longitude": -0.191802,
+                        "Latitude": 51.101755
+                      },
+                      {
+                        "Longitude": -0.192601,
+                        "Latitude": 51.101485
+                      },
+                      {
+                        "Longitude": -0.193286,
+                        "Latitude": 51.101223
+                      },
+                      {
+                        "Longitude": -0.193329,
+                        "Latitude": 51.101205
+                      },
+                      {
+                        "Longitude": -0.193743,
+                        "Latitude": 51.101097
+                      },
+                      {
+                        "Longitude": -0.193885,
+                        "Latitude": 51.100989
+                      },
+                      {
+                        "Longitude": -0.1939,
+                        "Latitude": 51.100926
+                      },
+                      {
+                        "Longitude": -0.193928,
+                        "Latitude": 51.100872
+                      },
+                      {
+                        "Longitude": -0.193971,
+                        "Latitude": 51.100809
+                      },
+                      {
+                        "Longitude": -0.194099,
+                        "Latitude": 51.100728
+                      },
+                      {
+                        "Longitude": -0.194256,
+                        "Latitude": 51.100674
+                      },
+                      {
+                        "Longitude": -0.19447,
+                        "Latitude": 51.100665
+                      },
+                      {
+                        "Longitude": -0.194613,
+                        "Latitude": 51.100683
+                      },
+                      {
+                        "Longitude": -0.194884,
+                        "Latitude": 51.100665
+                      },
+                      {
+                        "Longitude": -0.195098,
+                        "Latitude": 51.100637
+                      },
+                      {
+                        "Longitude": -0.195227,
+                        "Latitude": 51.100601
+                      },
+                      {
+                        "Longitude": -0.195598,
+                        "Latitude": 51.100466
+                      },
+                      {
+                        "Longitude": -0.196226,
+                        "Latitude": 51.100259
+                      },
+                      {
+                        "Longitude": -0.196397,
+                        "Latitude": 51.100205
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0414"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0107"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.196397,
+                        "Latitude": 51.100205
+                      },
+                      {
+                        "Longitude": -0.196811,
+                        "Latitude": 51.10007
+                      },
+                      {
+                        "Longitude": -0.196996,
+                        "Latitude": 51.100007
+                      },
+                      {
+                        "Longitude": -0.197296,
+                        "Latitude": 51.099907
+                      },
+                      {
+                        "Longitude": -0.198023,
+                        "Latitude": 51.099673
+                      },
+                      {
+                        "Longitude": -0.198166,
+                        "Latitude": 51.099592
+                      },
+                      {
+                        "Longitude": -0.198223,
+                        "Latitude": 51.099484
+                      },
+                      {
+                        "Longitude": -0.198251,
+                        "Latitude": 51.099349
+                      },
+                      {
+                        "Longitude": -0.198422,
+                        "Latitude": 51.099241
+                      },
+                      {
+                        "Longitude": -0.198608,
+                        "Latitude": 51.099223
+                      },
+                      {
+                        "Longitude": -0.198808,
+                        "Latitude": 51.099286
+                      },
+                      {
+                        "Longitude": -0.199022,
+                        "Latitude": 51.099277
+                      },
+                      {
+                        "Longitude": -0.199935,
+                        "Latitude": 51.098952
+                      },
+                      {
+                        "Longitude": -0.200178,
+                        "Latitude": 51.098871
+                      },
+                      {
+                        "Longitude": -0.200449,
+                        "Latitude": 51.098772
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0107"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0411"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.200449,
+                        "Latitude": 51.098772
+                      },
+                      {
+                        "Longitude": -0.201933,
+                        "Latitude": 51.098249
+                      },
+                      {
+                        "Longitude": -0.20236,
+                        "Latitude": 51.09806
+                      },
+                      {
+                        "Longitude": -0.202688,
+                        "Latitude": 51.097772
+                      },
+                      {
+                        "Longitude": -0.203131,
+                        "Latitude": 51.09787
+                      },
+                      {
+                        "Longitude": -0.203331,
+                        "Latitude": 51.097888
+                      },
+                      {
+                        "Longitude": -0.203702,
+                        "Latitude": 51.097888
+                      },
+                      {
+                        "Longitude": -0.204059,
+                        "Latitude": 51.097869
+                      },
+                      {
+                        "Longitude": -0.204288,
+                        "Latitude": 51.097833
+                      },
+                      {
+                        "Longitude": -0.204516,
+                        "Latitude": 51.097743
+                      },
+                      {
+                        "Longitude": -0.204644,
+                        "Latitude": 51.097689
+                      },
+                      {
+                        "Longitude": -0.204887,
+                        "Latitude": 51.097644
+                      },
+                      {
+                        "Longitude": -0.205072,
+                        "Latitude": 51.097617
+                      },
+                      {
+                        "Longitude": -0.205244,
+                        "Latitude": 51.097644
+                      },
+                      {
+                        "Longitude": -0.205472,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.205843,
+                        "Latitude": 51.097679
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0411"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0097"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.205843,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.205972,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.206529,
+                        "Latitude": 51.097687
+                      },
+                      {
+                        "Longitude": -0.206843,
+                        "Latitude": 51.097795
+                      },
+                      {
+                        "Longitude": -0.207057,
+                        "Latitude": 51.097813
+                      },
+                      {
+                        "Longitude": -0.207686,
+                        "Latitude": 51.097821
+                      },
+                      {
+                        "Longitude": -0.207699,
+                        "Latitude": 51.097488
+                      },
+                      {
+                        "Longitude": -0.207513,
+                        "Latitude": 51.0973
+                      },
+                      {
+                        "Longitude": -0.207456,
+                        "Latitude": 51.097309
+                      },
+                      {
+                        "Longitude": -0.207256,
+                        "Latitude": 51.097291
+                      },
+                      {
+                        "Longitude": -0.207127,
+                        "Latitude": 51.097228
+                      },
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097111
+                      },
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097093
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0097"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0091"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097093
+                      },
+                      {
+                        "Longitude": -0.207084,
+                        "Latitude": 51.097031
+                      },
+                      {
+                        "Longitude": -0.207155,
+                        "Latitude": 51.09695
+                      },
+                      {
+                        "Longitude": -0.207255,
+                        "Latitude": 51.096904
+                      },
+                      {
+                        "Longitude": -0.207455,
+                        "Latitude": 51.096877
+                      },
+                      {
+                        "Longitude": -0.207669,
+                        "Latitude": 51.096967
+                      },
+                      {
+                        "Longitude": -0.208055,
+                        "Latitude": 51.097093
+                      },
+                      {
+                        "Longitude": -0.208769,
+                        "Latitude": 51.097101
+                      },
+                      {
+                        "Longitude": -0.20934,
+                        "Latitude": 51.097154
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0091"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0016"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.20934,
+                        "Latitude": 51.097154
+                      },
+                      {
+                        "Longitude": -0.209497,
+                        "Latitude": 51.097172
+                      },
+                      {
+                        "Longitude": -0.210112,
+                        "Latitude": 51.097324
+                      },
+                      {
+                        "Longitude": -0.210726,
+                        "Latitude": 51.097575
+                      },
+                      {
+                        "Longitude": -0.21147,
+                        "Latitude": 51.098015
+                      },
+                      {
+                        "Longitude": -0.211841,
+                        "Latitude": 51.098096
+                      },
+                      {
+                        "Longitude": -0.212113,
+                        "Latitude": 51.098095
+                      },
+                      {
+                        "Longitude": -0.212241,
+                        "Latitude": 51.098158
+                      },
+                      {
+                        "Longitude": -0.212299,
+                        "Latitude": 51.098239
+                      },
+                      {
+                        "Longitude": -0.212285,
+                        "Latitude": 51.098347
+                      },
+                      {
+                        "Longitude": -0.212342,
+                        "Latitude": 51.098599
+                      },
+                      {
+                        "Longitude": -0.213172,
+                        "Latitude": 51.099182
+                      },
+                      {
+                        "Longitude": -0.213401,
+                        "Latitude": 51.099416
+                      },
+                      {
+                        "Longitude": -0.213702,
+                        "Latitude": 51.099919
+                      },
+                      {
+                        "Longitude": -0.214088,
+                        "Latitude": 51.100125
+                      },
+                      {
+                        "Longitude": -0.214288,
+                        "Latitude": 51.100134
+                      },
+                      {
+                        "Longitude": -0.214403,
+                        "Latitude": 51.100215
+                      },
+                      {
+                        "Longitude": -0.214617,
+                        "Latitude": 51.100359
+                      },
+                      {
+                        "Longitude": -0.214646,
+                        "Latitude": 51.100493
+                      },
+                      {
+                        "Longitude": -0.214618,
+                        "Latitude": 51.10061
+                      },
+                      {
+                        "Longitude": -0.214604,
+                        "Latitude": 51.100655
+                      },
+                      {
+                        "Longitude": -0.214561,
+                        "Latitude": 51.100727
+                      },
+                      {
+                        "Longitude": -0.214418,
+                        "Latitude": 51.100808
+                      },
+                      {
+                        "Longitude": -0.214362,
+                        "Latitude": 51.101042
+                      },
+                      {
+                        "Longitude": -0.214635,
+                        "Latitude": 51.101599
+                      },
+                      {
+                        "Longitude": -0.214978,
+                        "Latitude": 51.101905
+                      },
+                      {
+                        "Longitude": -0.215436,
+                        "Latitude": 51.10212
+                      },
+                      {
+                        "Longitude": -0.216036,
+                        "Latitude": 51.102236
+                      },
+                      {
+                        "Longitude": -0.216393,
+                        "Latitude": 51.102218
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0016"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0018"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.216393,
+                        "Latitude": 51.102218
+                      },
+                      {
+                        "Longitude": -0.216735,
+                        "Latitude": 51.102199
+                      },
+                      {
+                        "Longitude": -0.217891,
+                        "Latitude": 51.101973
+                      },
+                      {
+                        "Longitude": -0.218919,
+                        "Latitude": 51.101757
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0018"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0020"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.218919,
+                        "Latitude": 51.101757
+                      },
+                      {
+                        "Longitude": -0.219247,
+                        "Latitude": 51.101693
+                      },
+                      {
+                        "Longitude": -0.219533,
+                        "Latitude": 51.10163
+                      },
+                      {
+                        "Longitude": -0.219561,
+                        "Latitude": 51.10163
+                      },
+                      {
+                        "Longitude": -0.219647,
+                        "Latitude": 51.101612
+                      },
+                      {
+                        "Longitude": -0.219818,
+                        "Latitude": 51.101576
+                      },
+                      {
+                        "Longitude": -0.220532,
+                        "Latitude": 51.101431
+                      },
+                      {
+                        "Longitude": -0.220931,
+                        "Latitude": 51.101359
+                      },
+                      {
+                        "Longitude": -0.221545,
+                        "Latitude": 51.101232
+                      },
+                      {
+                        "Longitude": -0.222202,
+                        "Latitude": 51.101232
+                      },
+                      {
+                        "Longitude": -0.22253,
+                        "Latitude": 51.101294
+                      },
+                      {
+                        "Longitude": -0.223088,
+                        "Latitude": 51.101491
+                      },
+                      {
+                        "Longitude": -0.223202,
+                        "Latitude": 51.101563
+                      },
+                      {
+                        "Longitude": -0.223245,
+                        "Latitude": 51.101608
+                      },
+                      {
+                        "Longitude": -0.223417,
+                        "Latitude": 51.101788
+                      },
+                      {
+                        "Longitude": -0.223474,
+                        "Latitude": 51.101833
+                      },
+                      {
+                        "Longitude": -0.223517,
+                        "Latitude": 51.101931
+                      },
+                      {
+                        "Longitude": -0.223632,
+                        "Latitude": 51.102129
+                      },
+                      {
+                        "Longitude": -0.223632,
+                        "Latitude": 51.102201
+                      },
+                      {
+                        "Longitude": -0.223647,
+                        "Latitude": 51.102201
+                      },
+                      {
+                        "Longitude": -0.223661,
+                        "Latitude": 51.102264
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0020"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0073"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.223661,
+                        "Latitude": 51.102264
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102462
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102471
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102543
+                      },
+                      {
+                        "Longitude": -0.223905,
+                        "Latitude": 51.102713
+                      },
+                      {
+                        "Longitude": -0.224005,
+                        "Latitude": 51.10274
+                      },
+                      {
+                        "Longitude": -0.224048,
+                        "Latitude": 51.102749
+                      },
+                      {
+                        "Longitude": -0.22422,
+                        "Latitude": 51.102866
+                      },
+                      {
+                        "Longitude": -0.224234,
+                        "Latitude": 51.102974
+                      },
+                      {
+                        "Longitude": -0.224177,
+                        "Latitude": 51.1031
+                      },
+                      {
+                        "Longitude": -0.224163,
+                        "Latitude": 51.103136
+                      },
+                      {
+                        "Longitude": -0.224006,
+                        "Latitude": 51.103208
+                      },
+                      {
+                        "Longitude": -0.223864,
+                        "Latitude": 51.103316
+                      },
+                      {
+                        "Longitude": -0.223821,
+                        "Latitude": 51.103415
+                      },
+                      {
+                        "Longitude": -0.223851,
+                        "Latitude": 51.103882
+                      },
+                      {
+                        "Longitude": -0.223723,
+                        "Latitude": 51.104179
+                      },
+                      {
+                        "Longitude": -0.223652,
+                        "Latitude": 51.104161
+                      },
+                      {
+                        "Longitude": -0.223209,
+                        "Latitude": 51.104045
+                      },
+                      {
+                        "Longitude": -0.223095,
+                        "Latitude": 51.104054
+                      },
+                      {
+                        "Longitude": -0.222979,
+                        "Latitude": 51.103622
+                      },
+                      {
+                        "Longitude": -0.222979,
+                        "Latitude": 51.103586
+                      }
+                    ]
+                  }
+                },
+                "id": "i610_2_10"
+              }
+            ],
+            "id": "Xj4-UwrD"
+          },
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "4400CY0073"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0019"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.222979,
+                        "Latitude": 51.103586
+                      },
+                      {
+                        "Longitude": -0.222979,
+                        "Latitude": 51.103559
+                      },
+                      {
+                        "Longitude": -0.223079,
+                        "Latitude": 51.103343
+                      },
+                      {
+                        "Longitude": -0.223307,
+                        "Latitude": 51.103172
+                      },
+                      {
+                        "Longitude": -0.223435,
+                        "Latitude": 51.103019
+                      },
+                      {
+                        "Longitude": -0.223434,
+                        "Latitude": 51.102948
+                      },
+                      {
+                        "Longitude": -0.223449,
+                        "Latitude": 51.102885
+                      },
+                      {
+                        "Longitude": -0.223491,
+                        "Latitude": 51.102831
+                      },
+                      {
+                        "Longitude": -0.223534,
+                        "Latitude": 51.102795
+                      },
+                      {
+                        "Longitude": -0.223634,
+                        "Latitude": 51.102749
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102543
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102471
+                      },
+                      {
+                        "Longitude": -0.22369,
+                        "Latitude": 51.102462
+                      },
+                      {
+                        "Longitude": -0.223647,
+                        "Latitude": 51.102201
+                      },
+                      {
+                        "Longitude": -0.223632,
+                        "Latitude": 51.102201
+                      },
+                      {
+                        "Longitude": -0.223632,
+                        "Latitude": 51.102129
+                      },
+                      {
+                        "Longitude": -0.223517,
+                        "Latitude": 51.101931
+                      },
+                      {
+                        "Longitude": -0.223474,
+                        "Latitude": 51.101833
+                      },
+                      {
+                        "Longitude": -0.223417,
+                        "Latitude": 51.101788
+                      },
+                      {
+                        "Longitude": -0.223245,
+                        "Latitude": 51.101608
+                      },
+                      {
+                        "Longitude": -0.223202,
+                        "Latitude": 51.101563
+                      },
+                      {
+                        "Longitude": -0.223088,
+                        "Latitude": 51.101491
+                      },
+                      {
+                        "Longitude": -0.22253,
+                        "Latitude": 51.101294
+                      },
+                      {
+                        "Longitude": -0.222202,
+                        "Latitude": 51.101232
+                      },
+                      {
+                        "Longitude": -0.221545,
+                        "Latitude": 51.101232
+                      },
+                      {
+                        "Longitude": -0.220931,
+                        "Latitude": 51.101359
+                      },
+                      {
+                        "Longitude": -0.220532,
+                        "Latitude": 51.101431
+                      },
+                      {
+                        "Longitude": -0.220075,
+                        "Latitude": 51.101522
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0019"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0015"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.220075,
+                        "Latitude": 51.101522
+                      },
+                      {
+                        "Longitude": -0.219818,
+                        "Latitude": 51.101576
+                      },
+                      {
+                        "Longitude": -0.219647,
+                        "Latitude": 51.101612
+                      },
+                      {
+                        "Longitude": -0.219561,
+                        "Latitude": 51.10163
+                      },
+                      {
+                        "Longitude": -0.219533,
+                        "Latitude": 51.10163
+                      },
+                      {
+                        "Longitude": -0.219247,
+                        "Latitude": 51.101693
+                      },
+                      {
+                        "Longitude": -0.217891,
+                        "Latitude": 51.101973
+                      },
+                      {
+                        "Longitude": -0.216735,
+                        "Latitude": 51.102199
+                      },
+                      {
+                        "Longitude": -0.216036,
+                        "Latitude": 51.102236
+                      },
+                      {
+                        "Longitude": -0.215436,
+                        "Latitude": 51.10212
+                      },
+                      {
+                        "Longitude": -0.215007,
+                        "Latitude": 51.101923
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0015"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0090"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.215007,
+                        "Latitude": 51.101923
+                      },
+                      {
+                        "Longitude": -0.214978,
+                        "Latitude": 51.101905
+                      },
+                      {
+                        "Longitude": -0.214635,
+                        "Latitude": 51.101599
+                      },
+                      {
+                        "Longitude": -0.214362,
+                        "Latitude": 51.101042
+                      },
+                      {
+                        "Longitude": -0.214147,
+                        "Latitude": 51.10088
+                      },
+                      {
+                        "Longitude": -0.213933,
+                        "Latitude": 51.100863
+                      },
+                      {
+                        "Longitude": -0.213747,
+                        "Latitude": 51.100818
+                      },
+                      {
+                        "Longitude": -0.213619,
+                        "Latitude": 51.100737
+                      },
+                      {
+                        "Longitude": -0.213561,
+                        "Latitude": 51.100683
+                      },
+                      {
+                        "Longitude": -0.213518,
+                        "Latitude": 51.100647
+                      },
+                      {
+                        "Longitude": -0.21349,
+                        "Latitude": 51.100531
+                      },
+                      {
+                        "Longitude": -0.213489,
+                        "Latitude": 51.100432
+                      },
+                      {
+                        "Longitude": -0.213503,
+                        "Latitude": 51.100378
+                      },
+                      {
+                        "Longitude": -0.213589,
+                        "Latitude": 51.10027
+                      },
+                      {
+                        "Longitude": -0.213702,
+                        "Latitude": 51.100027
+                      },
+                      {
+                        "Longitude": -0.213702,
+                        "Latitude": 51.099919
+                      },
+                      {
+                        "Longitude": -0.213401,
+                        "Latitude": 51.099416
+                      },
+                      {
+                        "Longitude": -0.213172,
+                        "Latitude": 51.099182
+                      },
+                      {
+                        "Longitude": -0.212342,
+                        "Latitude": 51.098599
+                      },
+                      {
+                        "Longitude": -0.212071,
+                        "Latitude": 51.098491
+                      },
+                      {
+                        "Longitude": -0.211842,
+                        "Latitude": 51.098482
+                      },
+                      {
+                        "Longitude": -0.211714,
+                        "Latitude": 51.09842
+                      },
+                      {
+                        "Longitude": -0.211656,
+                        "Latitude": 51.098348
+                      },
+                      {
+                        "Longitude": -0.211642,
+                        "Latitude": 51.09833
+                      },
+                      {
+                        "Longitude": -0.21167,
+                        "Latitude": 51.098213
+                      },
+                      {
+                        "Longitude": -0.21147,
+                        "Latitude": 51.098015
+                      },
+                      {
+                        "Longitude": -0.210726,
+                        "Latitude": 51.097575
+                      },
+                      {
+                        "Longitude": -0.210198,
+                        "Latitude": 51.09736
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0090"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0097"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.210198,
+                        "Latitude": 51.09736
+                      },
+                      {
+                        "Longitude": -0.210112,
+                        "Latitude": 51.097324
+                      },
+                      {
+                        "Longitude": -0.209497,
+                        "Latitude": 51.097172
+                      },
+                      {
+                        "Longitude": -0.208769,
+                        "Latitude": 51.097101
+                      },
+                      {
+                        "Longitude": -0.208055,
+                        "Latitude": 51.097093
+                      },
+                      {
+                        "Longitude": -0.207884,
+                        "Latitude": 51.097102
+                      },
+                      {
+                        "Longitude": -0.207741,
+                        "Latitude": 51.097165
+                      },
+                      {
+                        "Longitude": -0.207642,
+                        "Latitude": 51.097255
+                      },
+                      {
+                        "Longitude": -0.207513,
+                        "Latitude": 51.0973
+                      },
+                      {
+                        "Longitude": -0.207456,
+                        "Latitude": 51.097309
+                      },
+                      {
+                        "Longitude": -0.207256,
+                        "Latitude": 51.097291
+                      },
+                      {
+                        "Longitude": -0.207127,
+                        "Latitude": 51.097228
+                      },
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097111
+                      },
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097093
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0097"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0410"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.20707,
+                        "Latitude": 51.097093
+                      },
+                      {
+                        "Longitude": -0.207084,
+                        "Latitude": 51.097031
+                      },
+                      {
+                        "Longitude": -0.207155,
+                        "Latitude": 51.09695
+                      },
+                      {
+                        "Longitude": -0.207255,
+                        "Latitude": 51.096904
+                      },
+                      {
+                        "Longitude": -0.207455,
+                        "Latitude": 51.096877
+                      },
+                      {
+                        "Longitude": -0.207669,
+                        "Latitude": 51.096967
+                      },
+                      {
+                        "Longitude": -0.207755,
+                        "Latitude": 51.097075
+                      },
+                      {
+                        "Longitude": -0.207741,
+                        "Latitude": 51.097165
+                      },
+                      {
+                        "Longitude": -0.207642,
+                        "Latitude": 51.097255
+                      },
+                      {
+                        "Longitude": -0.207699,
+                        "Latitude": 51.097488
+                      },
+                      {
+                        "Longitude": -0.207686,
+                        "Latitude": 51.097821
+                      },
+                      {
+                        "Longitude": -0.207057,
+                        "Latitude": 51.097813
+                      },
+                      {
+                        "Longitude": -0.206843,
+                        "Latitude": 51.097795
+                      },
+                      {
+                        "Longitude": -0.206529,
+                        "Latitude": 51.097687
+                      },
+                      {
+                        "Longitude": -0.205972,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.205758,
+                        "Latitude": 51.097679
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0410"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0412"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.205758,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.205472,
+                        "Latitude": 51.097679
+                      },
+                      {
+                        "Longitude": -0.205244,
+                        "Latitude": 51.097644
+                      },
+                      {
+                        "Longitude": -0.205072,
+                        "Latitude": 51.097617
+                      },
+                      {
+                        "Longitude": -0.204887,
+                        "Latitude": 51.097644
+                      },
+                      {
+                        "Longitude": -0.204644,
+                        "Latitude": 51.097689
+                      },
+                      {
+                        "Longitude": -0.204516,
+                        "Latitude": 51.097743
+                      },
+                      {
+                        "Longitude": -0.204288,
+                        "Latitude": 51.097833
+                      },
+                      {
+                        "Longitude": -0.204059,
+                        "Latitude": 51.097869
+                      },
+                      {
+                        "Longitude": -0.203702,
+                        "Latitude": 51.097888
+                      },
+                      {
+                        "Longitude": -0.203331,
+                        "Latitude": 51.097888
+                      },
+                      {
+                        "Longitude": -0.203131,
+                        "Latitude": 51.09787
+                      },
+                      {
+                        "Longitude": -0.202688,
+                        "Latitude": 51.097772
+                      },
+                      {
+                        "Longitude": -0.20236,
+                        "Latitude": 51.09806
+                      },
+                      {
+                        "Longitude": -0.201933,
+                        "Latitude": 51.098249
+                      },
+                      {
+                        "Longitude": -0.201576,
+                        "Latitude": 51.098375
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0412"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0413"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.201576,
+                        "Latitude": 51.098375
+                      },
+                      {
+                        "Longitude": -0.200178,
+                        "Latitude": 51.098871
+                      },
+                      {
+                        "Longitude": -0.199935,
+                        "Latitude": 51.098952
+                      },
+                      {
+                        "Longitude": -0.199022,
+                        "Latitude": 51.099277
+                      },
+                      {
+                        "Longitude": -0.198894,
+                        "Latitude": 51.099394
+                      },
+                      {
+                        "Longitude": -0.198866,
+                        "Latitude": 51.099555
+                      },
+                      {
+                        "Longitude": -0.198709,
+                        "Latitude": 51.099636
+                      },
+                      {
+                        "Longitude": -0.198423,
+                        "Latitude": 51.099637
+                      },
+                      {
+                        "Longitude": -0.198023,
+                        "Latitude": 51.099673
+                      },
+                      {
+                        "Longitude": -0.197296,
+                        "Latitude": 51.099907
+                      },
+                      {
+                        "Longitude": -0.196996,
+                        "Latitude": 51.100007
+                      },
+                      {
+                        "Longitude": -0.196811,
+                        "Latitude": 51.10007
+                      },
+                      {
+                        "Longitude": -0.196226,
+                        "Latitude": 51.100259
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0413"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0416"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.196226,
+                        "Latitude": 51.100259
+                      },
+                      {
+                        "Longitude": -0.195598,
+                        "Latitude": 51.100466
+                      },
+                      {
+                        "Longitude": -0.195227,
+                        "Latitude": 51.100601
+                      },
+                      {
+                        "Longitude": -0.195098,
+                        "Latitude": 51.100637
+                      },
+                      {
+                        "Longitude": -0.194785,
+                        "Latitude": 51.100827
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100862
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100889
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100925
+                      },
+                      {
+                        "Longitude": -0.194756,
+                        "Latitude": 51.101006
+                      },
+                      {
+                        "Longitude": -0.194671,
+                        "Latitude": 51.101096
+                      },
+                      {
+                        "Longitude": -0.194543,
+                        "Latitude": 51.101159
+                      },
+                      {
+                        "Longitude": -0.194528,
+                        "Latitude": 51.101168
+                      },
+                      {
+                        "Longitude": -0.194357,
+                        "Latitude": 51.101204
+                      },
+                      {
+                        "Longitude": -0.194214,
+                        "Latitude": 51.101196
+                      },
+                      {
+                        "Longitude": -0.194057,
+                        "Latitude": 51.101151
+                      },
+                      {
+                        "Longitude": -0.193814,
+                        "Latitude": 51.101151
+                      },
+                      {
+                        "Longitude": -0.193672,
+                        "Latitude": 51.10116
+                      },
+                      {
+                        "Longitude": -0.193586,
+                        "Latitude": 51.101178
+                      },
+                      {
+                        "Longitude": -0.193301,
+                        "Latitude": 51.101295
+                      },
+                      {
+                        "Longitude": -0.193215,
+                        "Latitude": 51.101331
+                      },
+                      {
+                        "Longitude": -0.191346,
+                        "Latitude": 51.10198
+                      },
+                      {
+                        "Longitude": -0.190646,
+                        "Latitude": 51.102196
+                      },
+                      {
+                        "Longitude": -0.190461,
+                        "Latitude": 51.10226
+                      },
+                      {
+                        "Longitude": -0.190418,
+                        "Latitude": 51.102269
+                      },
+                      {
+                        "Longitude": -0.19039,
+                        "Latitude": 51.102287
+                      },
+                      {
+                        "Longitude": -0.190019,
+                        "Latitude": 51.102413
+                      },
+                      {
+                        "Longitude": -0.18979,
+                        "Latitude": 51.102494
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0416"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0263"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.18979,
+                        "Latitude": 51.102494
+                      },
+                      {
+                        "Longitude": -0.189576,
+                        "Latitude": 51.102566
+                      },
+                      {
+                        "Longitude": -0.188706,
+                        "Latitude": 51.102863
+                      },
+                      {
+                        "Longitude": -0.188249,
+                        "Latitude": 51.103026
+                      },
+                      {
+                        "Longitude": -0.18745,
+                        "Latitude": 51.103296
+                      },
+                      {
+                        "Longitude": -0.186708,
+                        "Latitude": 51.103548
+                      },
+                      {
+                        "Longitude": -0.186465,
+                        "Latitude": 51.103638
+                      },
+                      {
+                        "Longitude": -0.185937,
+                        "Latitude": 51.103836
+                      },
+                      {
+                        "Longitude": -0.185766,
+                        "Latitude": 51.1039
+                      },
+                      {
+                        "Longitude": -0.185638,
+                        "Latitude": 51.103972
+                      },
+                      {
+                        "Longitude": -0.18541,
+                        "Latitude": 51.104098
+                      },
+                      {
+                        "Longitude": -0.185338,
+                        "Latitude": 51.104134
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0263"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0245"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.185338,
+                        "Latitude": 51.104134
+                      },
+                      {
+                        "Longitude": -0.185267,
+                        "Latitude": 51.10417
+                      },
+                      {
+                        "Longitude": -0.18491,
+                        "Latitude": 51.10435
+                      },
+                      {
+                        "Longitude": -0.184796,
+                        "Latitude": 51.104404
+                      },
+                      {
+                        "Longitude": -0.184725,
+                        "Latitude": 51.104467
+                      },
+                      {
+                        "Longitude": -0.184554,
+                        "Latitude": 51.104584
+                      },
+                      {
+                        "Longitude": -0.184468,
+                        "Latitude": 51.104647
+                      },
+                      {
+                        "Longitude": -0.183969,
+                        "Latitude": 51.105016
+                      },
+                      {
+                        "Longitude": -0.183841,
+                        "Latitude": 51.105124
+                      },
+                      {
+                        "Longitude": -0.183627,
+                        "Latitude": 51.105313
+                      },
+                      {
+                        "Longitude": -0.183399,
+                        "Latitude": 51.105556
+                      },
+                      {
+                        "Longitude": -0.183285,
+                        "Latitude": 51.105691
+                      },
+                      {
+                        "Longitude": -0.183042,
+                        "Latitude": 51.10596
+                      },
+                      {
+                        "Longitude": -0.1829,
+                        "Latitude": 51.106167
+                      },
+                      {
+                        "Longitude": -0.182829,
+                        "Latitude": 51.106284
+                      },
+                      {
+                        "Longitude": -0.182729,
+                        "Latitude": 51.106482
+                      },
+                      {
+                        "Longitude": -0.182644,
+                        "Latitude": 51.106644
+                      },
+                      {
+                        "Longitude": -0.182573,
+                        "Latitude": 51.106788
+                      },
+                      {
+                        "Longitude": -0.182502,
+                        "Latitude": 51.106968
+                      },
+                      {
+                        "Longitude": -0.182402,
+                        "Latitude": 51.107067
+                      },
+                      {
+                        "Longitude": -0.182373,
+                        "Latitude": 51.107103
+                      },
+                      {
+                        "Longitude": -0.182359,
+                        "Latitude": 51.107211
+                      },
+                      {
+                        "Longitude": -0.182245,
+                        "Latitude": 51.10731
+                      },
+                      {
+                        "Longitude": -0.182188,
+                        "Latitude": 51.107301
+                      },
+                      {
+                        "Longitude": -0.181974,
+                        "Latitude": 51.107283
+                      },
+                      {
+                        "Longitude": -0.181674,
+                        "Latitude": 51.107256
+                      },
+                      {
+                        "Longitude": -0.181545,
+                        "Latitude": 51.107247
+                      },
+                      {
+                        "Longitude": -0.181488,
+                        "Latitude": 51.107238
+                      },
+                      {
+                        "Longitude": -0.180846,
+                        "Latitude": 51.107194
+                      },
+                      {
+                        "Longitude": -0.180174,
+                        "Latitude": 51.107149
+                      },
+                      {
+                        "Longitude": -0.179632,
+                        "Latitude": 51.107177
+                      },
+                      {
+                        "Longitude": -0.179574,
+                        "Latitude": 51.107177
+                      },
+                      {
+                        "Longitude": -0.179432,
+                        "Latitude": 51.107186
+                      },
+                      {
+                        "Longitude": -0.178747,
+                        "Latitude": 51.107375
+                      },
+                      {
+                        "Longitude": -0.178389,
+                        "Latitude": 51.106926
+                      },
+                      {
+                        "Longitude": -0.177974,
+                        "Latitude": 51.106629
+                      },
+                      {
+                        "Longitude": -0.17776,
+                        "Latitude": 51.106549
+                      },
+                      {
+                        "Longitude": -0.177531,
+                        "Latitude": 51.106459
+                      },
+                      {
+                        "Longitude": -0.177488,
+                        "Latitude": 51.10645
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_10"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0245"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0247"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.177488,
+                        "Latitude": 51.10645
+                      },
+                      {
+                        "Longitude": -0.177245,
+                        "Latitude": 51.106387
+                      },
+                      {
+                        "Longitude": -0.177074,
+                        "Latitude": 51.10636
+                      },
+                      {
+                        "Longitude": -0.176845,
+                        "Latitude": 51.106333
+                      },
+                      {
+                        "Longitude": -0.176503,
+                        "Latitude": 51.106334
+                      },
+                      {
+                        "Longitude": -0.176117,
+                        "Latitude": 51.10637
+                      },
+                      {
+                        "Longitude": -0.174018,
+                        "Latitude": 51.106731
+                      },
+                      {
+                        "Longitude": -0.173333,
+                        "Latitude": 51.10683
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_11"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0247"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0252"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.173333,
+                        "Latitude": 51.10683
+                      },
+                      {
+                        "Longitude": -0.172719,
+                        "Latitude": 51.106858
+                      },
+                      {
+                        "Longitude": -0.172191,
+                        "Latitude": 51.106876
+                      },
+                      {
+                        "Longitude": -0.171519,
+                        "Latitude": 51.106912
+                      },
+                      {
+                        "Longitude": -0.170677,
+                        "Latitude": 51.107021
+                      },
+                      {
+                        "Longitude": -0.170177,
+                        "Latitude": 51.107102
+                      },
+                      {
+                        "Longitude": -0.169892,
+                        "Latitude": 51.107156
+                      },
+                      {
+                        "Longitude": -0.169706,
+                        "Latitude": 51.107183
+                      },
+                      {
+                        "Longitude": -0.169621,
+                        "Latitude": 51.107246
+                      },
+                      {
+                        "Longitude": -0.169492,
+                        "Latitude": 51.107354
+                      },
+                      {
+                        "Longitude": -0.169464,
+                        "Latitude": 51.107381
+                      },
+                      {
+                        "Longitude": -0.169421,
+                        "Latitude": 51.107444
+                      },
+                      {
+                        "Longitude": -0.169392,
+                        "Latitude": 51.107471
+                      },
+                      {
+                        "Longitude": -0.169307,
+                        "Latitude": 51.107489
+                      },
+                      {
+                        "Longitude": -0.169235,
+                        "Latitude": 51.107489
+                      },
+                      {
+                        "Longitude": -0.169164,
+                        "Latitude": 51.107435
+                      },
+                      {
+                        "Longitude": -0.169121,
+                        "Latitude": 51.107408
+                      },
+                      {
+                        "Longitude": -0.169107,
+                        "Latitude": 51.107372
+                      },
+                      {
+                        "Longitude": -0.169049,
+                        "Latitude": 51.107292
+                      },
+                      {
+                        "Longitude": -0.168992,
+                        "Latitude": 51.107103
+                      },
+                      {
+                        "Longitude": -0.168892,
+                        "Latitude": 51.106833
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_12"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0252"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0254"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.168892,
+                        "Latitude": 51.106833
+                      },
+                      {
+                        "Longitude": -0.168777,
+                        "Latitude": 51.106546
+                      },
+                      {
+                        "Longitude": -0.168648,
+                        "Latitude": 51.10624
+                      },
+                      {
+                        "Longitude": -0.168533,
+                        "Latitude": 51.105871
+                      },
+                      {
+                        "Longitude": -0.168518,
+                        "Latitude": 51.10562
+                      },
+                      {
+                        "Longitude": -0.168561,
+                        "Latitude": 51.105251
+                      },
+                      {
+                        "Longitude": -0.168603,
+                        "Latitude": 51.105035
+                      },
+                      {
+                        "Longitude": -0.16856,
+                        "Latitude": 51.105026
+                      },
+                      {
+                        "Longitude": -0.168532,
+                        "Latitude": 51.104999
+                      },
+                      {
+                        "Longitude": -0.168503,
+                        "Latitude": 51.104954
+                      },
+                      {
+                        "Longitude": -0.168517,
+                        "Latitude": 51.104918
+                      },
+                      {
+                        "Longitude": -0.16856,
+                        "Latitude": 51.104891
+                      },
+                      {
+                        "Longitude": -0.168589,
+                        "Latitude": 51.104882
+                      },
+                      {
+                        "Longitude": -0.168632,
+                        "Latitude": 51.104891
+                      },
+                      {
+                        "Longitude": -0.168674,
+                        "Latitude": 51.104909
+                      },
+                      {
+                        "Longitude": -0.168831,
+                        "Latitude": 51.104765
+                      },
+                      {
+                        "Longitude": -0.169316,
+                        "Latitude": 51.104316
+                      },
+                      {
+                        "Longitude": -0.169873,
+                        "Latitude": 51.104019
+                      },
+                      {
+                        "Longitude": -0.170301,
+                        "Latitude": 51.103802
+                      },
+                      {
+                        "Longitude": -0.171114,
+                        "Latitude": 51.103433
+                      },
+                      {
+                        "Longitude": -0.171285,
+                        "Latitude": 51.103352
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_13"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0254"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0256"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.171285,
+                        "Latitude": 51.103352
+                      },
+                      {
+                        "Longitude": -0.171999,
+                        "Latitude": 51.103037
+                      },
+                      {
+                        "Longitude": -0.172641,
+                        "Latitude": 51.102785
+                      },
+                      {
+                        "Longitude": -0.17324,
+                        "Latitude": 51.102623
+                      },
+                      {
+                        "Longitude": -0.173412,
+                        "Latitude": 51.102596
+                      },
+                      {
+                        "Longitude": -0.174011,
+                        "Latitude": 51.102505
+                      },
+                      {
+                        "Longitude": -0.174097,
+                        "Latitude": 51.102496
+                      },
+                      {
+                        "Longitude": -0.174168,
+                        "Latitude": 51.102487
+                      },
+                      {
+                        "Longitude": -0.174868,
+                        "Latitude": 51.102424
+                      },
+                      {
+                        "Longitude": -0.174954,
+                        "Latitude": 51.102424
+                      },
+                      {
+                        "Longitude": -0.175025,
+                        "Latitude": 51.102415
+                      },
+                      {
+                        "Longitude": -0.175482,
+                        "Latitude": 51.102379
+                      },
+                      {
+                        "Longitude": -0.175939,
+                        "Latitude": 51.102342
+                      },
+                      {
+                        "Longitude": -0.176624,
+                        "Latitude": 51.10227
+                      },
+                      {
+                        "Longitude": -0.177152,
+                        "Latitude": 51.102234
+                      },
+                      {
+                        "Longitude": -0.177723,
+                        "Latitude": 51.102179
+                      },
+                      {
+                        "Longitude": -0.178423,
+                        "Latitude": 51.102125
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_14"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0256"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0258"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.178423,
+                        "Latitude": 51.102125
+                      },
+                      {
+                        "Longitude": -0.179722,
+                        "Latitude": 51.102007
+                      },
+                      {
+                        "Longitude": -0.180379,
+                        "Latitude": 51.101917
+                      },
+                      {
+                        "Longitude": -0.180721,
+                        "Latitude": 51.101809
+                      },
+                      {
+                        "Longitude": -0.180993,
+                        "Latitude": 51.101673
+                      },
+                      {
+                        "Longitude": -0.181249,
+                        "Latitude": 51.101529
+                      },
+                      {
+                        "Longitude": -0.181577,
+                        "Latitude": 51.101304
+                      },
+                      {
+                        "Longitude": -0.182262,
+                        "Latitude": 51.100845
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_15"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0258"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0259"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.182262,
+                        "Latitude": 51.100845
+                      },
+                      {
+                        "Longitude": -0.182675,
+                        "Latitude": 51.100566
+                      },
+                      {
+                        "Longitude": -0.183118,
+                        "Latitude": 51.100278
+                      },
+                      {
+                        "Longitude": -0.183274,
+                        "Latitude": 51.100179
+                      },
+                      {
+                        "Longitude": -0.183474,
+                        "Latitude": 51.100044
+                      },
+                      {
+                        "Longitude": -0.184159,
+                        "Latitude": 51.099801
+                      },
+                      {
+                        "Longitude": -0.184544,
+                        "Latitude": 51.099738
+                      },
+                      {
+                        "Longitude": -0.184987,
+                        "Latitude": 51.09972
+                      },
+                      {
+                        "Longitude": -0.185715,
+                        "Latitude": 51.099692
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_16"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0259"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0262"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.185715,
+                        "Latitude": 51.099692
+                      },
+                      {
+                        "Longitude": -0.185787,
+                        "Latitude": 51.099692
+                      },
+                      {
+                        "Longitude": -0.185886,
+                        "Latitude": 51.099683
+                      },
+                      {
+                        "Longitude": -0.186243,
+                        "Latitude": 51.09962
+                      },
+                      {
+                        "Longitude": -0.186315,
+                        "Latitude": 51.099602
+                      },
+                      {
+                        "Longitude": -0.186443,
+                        "Latitude": 51.099602
+                      },
+                      {
+                        "Longitude": -0.186657,
+                        "Latitude": 51.099646
+                      },
+                      {
+                        "Longitude": -0.187143,
+                        "Latitude": 51.099655
+                      },
+                      {
+                        "Longitude": -0.187571,
+                        "Latitude": 51.099709
+                      },
+                      {
+                        "Longitude": -0.187971,
+                        "Latitude": 51.099807
+                      },
+                      {
+                        "Longitude": -0.188114,
+                        "Latitude": 51.09987
+                      },
+                      {
+                        "Longitude": -0.188443,
+                        "Latitude": 51.10005
+                      },
+                      {
+                        "Longitude": -0.188729,
+                        "Latitude": 51.100265
+                      },
+                      {
+                        "Longitude": -0.189402,
+                        "Latitude": 51.101011
+                      },
+                      {
+                        "Longitude": -0.190003,
+                        "Latitude": 51.101712
+                      },
+                      {
+                        "Longitude": -0.190089,
+                        "Latitude": 51.101801
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_17"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0262"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0415"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.190089,
+                        "Latitude": 51.101801
+                      },
+                      {
+                        "Longitude": -0.190232,
+                        "Latitude": 51.101972
+                      },
+                      {
+                        "Longitude": -0.190432,
+                        "Latitude": 51.102215
+                      },
+                      {
+                        "Longitude": -0.190461,
+                        "Latitude": 51.10226
+                      },
+                      {
+                        "Longitude": -0.190646,
+                        "Latitude": 51.102196
+                      },
+                      {
+                        "Longitude": -0.191346,
+                        "Latitude": 51.10198
+                      },
+                      {
+                        "Longitude": -0.19156,
+                        "Latitude": 51.101872
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_18"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0415"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0076"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.19156,
+                        "Latitude": 51.101872
+                      },
+                      {
+                        "Longitude": -0.191645,
+                        "Latitude": 51.101827
+                      },
+                      {
+                        "Longitude": -0.191717,
+                        "Latitude": 51.101791
+                      },
+                      {
+                        "Longitude": -0.191745,
+                        "Latitude": 51.101773
+                      },
+                      {
+                        "Longitude": -0.192601,
+                        "Latitude": 51.101485
+                      },
+                      {
+                        "Longitude": -0.192644,
+                        "Latitude": 51.101467
+                      },
+                      {
+                        "Longitude": -0.193286,
+                        "Latitude": 51.101223
+                      },
+                      {
+                        "Longitude": -0.193329,
+                        "Latitude": 51.101205
+                      },
+                      {
+                        "Longitude": -0.193743,
+                        "Latitude": 51.101097
+                      },
+                      {
+                        "Longitude": -0.193885,
+                        "Latitude": 51.100989
+                      },
+                      {
+                        "Longitude": -0.1939,
+                        "Latitude": 51.100926
+                      },
+                      {
+                        "Longitude": -0.193928,
+                        "Latitude": 51.100872
+                      },
+                      {
+                        "Longitude": -0.193971,
+                        "Latitude": 51.100809
+                      },
+                      {
+                        "Longitude": -0.194099,
+                        "Latitude": 51.100728
+                      },
+                      {
+                        "Longitude": -0.194256,
+                        "Latitude": 51.100674
+                      },
+                      {
+                        "Longitude": -0.19447,
+                        "Latitude": 51.100665
+                      },
+                      {
+                        "Longitude": -0.194613,
+                        "Latitude": 51.100683
+                      },
+                      {
+                        "Longitude": -0.194742,
+                        "Latitude": 51.100764
+                      },
+                      {
+                        "Longitude": -0.194785,
+                        "Latitude": 51.100827
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100862
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100889
+                      },
+                      {
+                        "Longitude": -0.194799,
+                        "Latitude": 51.100925
+                      },
+                      {
+                        "Longitude": -0.194756,
+                        "Latitude": 51.101006
+                      },
+                      {
+                        "Longitude": -0.194828,
+                        "Latitude": 51.101186
+                      },
+                      {
+                        "Longitude": -0.194928,
+                        "Latitude": 51.101294
+                      },
+                      {
+                        "Longitude": -0.194943,
+                        "Latitude": 51.101321
+                      },
+                      {
+                        "Longitude": -0.195686,
+                        "Latitude": 51.101842
+                      },
+                      {
+                        "Longitude": -0.195715,
+                        "Latitude": 51.101851
+                      },
+                      {
+                        "Longitude": -0.196373,
+                        "Latitude": 51.102183
+                      },
+                      {
+                        "Longitude": -0.196973,
+                        "Latitude": 51.102443
+                      },
+                      {
+                        "Longitude": -0.197159,
+                        "Latitude": 51.102524
+                      },
+                      {
+                        "Longitude": -0.201518,
+                        "Latitude": 51.104201
+                      },
+                      {
+                        "Longitude": -0.202133,
+                        "Latitude": 51.104515
+                      },
+                      {
+                        "Longitude": -0.202318,
+                        "Latitude": 51.104614
+                      },
+                      {
+                        "Longitude": -0.202991,
+                        "Latitude": 51.105081
+                      },
+                      {
+                        "Longitude": -0.203348,
+                        "Latitude": 51.105422
+                      },
+                      {
+                        "Longitude": -0.203549,
+                        "Latitude": 51.105701
+                      },
+                      {
+                        "Longitude": -0.20395,
+                        "Latitude": 51.106249
+                      },
+                      {
+                        "Longitude": -0.204165,
+                        "Latitude": 51.10641
+                      },
+                      {
+                        "Longitude": -0.20425,
+                        "Latitude": 51.106428
+                      },
+                      {
+                        "Longitude": -0.204322,
+                        "Latitude": 51.106446
+                      },
+                      {
+                        "Longitude": -0.204608,
+                        "Latitude": 51.106464
+                      },
+                      {
+                        "Longitude": -0.204693,
+                        "Latitude": 51.106437
+                      },
+                      {
+                        "Longitude": -0.204879,
+                        "Latitude": 51.106338
+                      },
+                      {
+                        "Longitude": -0.204964,
+                        "Latitude": 51.106284
+                      },
+                      {
+                        "Longitude": -0.205335,
+                        "Latitude": 51.106059
+                      },
+                      {
+                        "Longitude": -0.205791,
+                        "Latitude": 51.105591
+                      },
+                      {
+                        "Longitude": -0.205962,
+                        "Latitude": 51.105339
+                      },
+                      {
+                        "Longitude": -0.206175,
+                        "Latitude": 51.105033
+                      },
+                      {
+                        "Longitude": -0.206246,
+                        "Latitude": 51.104934
+                      },
+                      {
+                        "Longitude": -0.206645,
+                        "Latitude": 51.104367
+                      },
+                      {
+                        "Longitude": -0.206858,
+                        "Latitude": 51.10407
+                      },
+                      {
+                        "Longitude": -0.206915,
+                        "Latitude": 51.103953
+                      },
+                      {
+                        "Longitude": -0.206929,
+                        "Latitude": 51.103935
+                      },
+                      {
+                        "Longitude": -0.206944,
+                        "Latitude": 51.10389
+                      },
+                      {
+                        "Longitude": -0.207014,
+                        "Latitude": 51.103486
+                      },
+                      {
+                        "Longitude": -0.206942,
+                        "Latitude": 51.103423
+                      },
+                      {
+                        "Longitude": -0.206942,
+                        "Latitude": 51.103414
+                      },
+                      {
+                        "Longitude": -0.206842,
+                        "Latitude": 51.103315
+                      },
+                      {
+                        "Longitude": -0.20687,
+                        "Latitude": 51.103153
+                      },
+                      {
+                        "Longitude": -0.207041,
+                        "Latitude": 51.103009
+                      },
+                      {
+                        "Longitude": -0.20717,
+                        "Latitude": 51.102973
+                      },
+                      {
+                        "Longitude": -0.207241,
+                        "Latitude": 51.102955
+                      },
+                      {
+                        "Longitude": -0.20747,
+                        "Latitude": 51.102973
+                      },
+                      {
+                        "Longitude": -0.20757,
+                        "Latitude": 51.103
+                      },
+                      {
+                        "Longitude": -0.207655,
+                        "Latitude": 51.103027
+                      },
+                      {
+                        "Longitude": -0.207713,
+                        "Latitude": 51.103045
+                      },
+                      {
+                        "Longitude": -0.20787,
+                        "Latitude": 51.103134
+                      },
+                      {
+                        "Longitude": -0.207956,
+                        "Latitude": 51.103233
+                      },
+                      {
+                        "Longitude": -0.207956,
+                        "Latitude": 51.103323
+                      },
+                      {
+                        "Longitude": -0.207956,
+                        "Latitude": 51.103422
+                      },
+                      {
+                        "Longitude": -0.207885,
+                        "Latitude": 51.103512
+                      },
+                      {
+                        "Longitude": -0.207742,
+                        "Latitude": 51.103584
+                      },
+                      {
+                        "Longitude": -0.207671,
+                        "Latitude": 51.103611
+                      },
+                      {
+                        "Longitude": -0.2075,
+                        "Latitude": 51.10371
+                      },
+                      {
+                        "Longitude": -0.207471,
+                        "Latitude": 51.103728
+                      },
+                      {
+                        "Longitude": -0.2073,
+                        "Latitude": 51.103863
+                      },
+                      {
+                        "Longitude": -0.206447,
+                        "Latitude": 51.105114
+                      },
+                      {
+                        "Longitude": -0.206404,
+                        "Latitude": 51.105168
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_19"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400CY0076"
+                },
+                "To": {
+                  "StopPointRef": "4400CY0278"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.206404,
+                        "Latitude": 51.105168
+                      },
+                      {
+                        "Longitude": -0.206062,
+                        "Latitude": 51.105599
+                      },
+                      {
+                        "Longitude": -0.206019,
+                        "Latitude": 51.105644
+                      },
+                      {
+                        "Longitude": -0.206892,
+                        "Latitude": 51.106075
+                      },
+                      {
+                        "Longitude": -0.207278,
+                        "Latitude": 51.106353
+                      },
+                      {
+                        "Longitude": -0.20755,
+                        "Latitude": 51.106677
+                      },
+                      {
+                        "Longitude": -0.207622,
+                        "Latitude": 51.106794
+                      },
+                      {
+                        "Longitude": -0.20795,
+                        "Latitude": 51.106721
+                      },
+                      {
+                        "Longitude": -0.208078,
+                        "Latitude": 51.10638
+                      },
+                      {
+                        "Longitude": -0.208348,
+                        "Latitude": 51.106065
+                      },
+                      {
+                        "Longitude": -0.208477,
+                        "Latitude": 51.106047
+                      },
+                      {
+                        "Longitude": -0.208634,
+                        "Latitude": 51.106109
+                      }
+                    ]
+                  }
+                },
+                "id": "o610_1_20"
+              }
+            ],
+            "id": "h1r12FNs"
+          }
+        ]
+      }
+    ],
+    "Routes": [
+      {
+        "Route": [
+          {
+            "PrivateCode": "i610",
+            "Description": "Holy Trinity School - Crawley Bus Station",
+            "RouteSectionRef": "bQN_baZP",
+            "id": "88898"
+          },
+          {
+            "PrivateCode": "i610_2",
+            "Description": "Tilgate, Thomas Bennett Sch - Bewbush, Dorsten Sq",
+            "RouteSectionRef": "Xj4-UwrD",
+            "id": "88922"
+          },
+          {
+            "PrivateCode": "o610_1",
+            "Description": "Bewbush - Holy Trinity School",
+            "RouteSectionRef": "h1r12FNs",
+            "id": "89022"
+          }
+        ]
+      }
+    ],
+    "JourneyPatternSections": {
+      "JourneyPatternSection": [
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0262",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400CY0415",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i610_2_1",
+              "RunTime": "PT0M0S",
+              "id": "k.FNPAKA"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0415",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400CY0414",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "i610_2_2",
+              "RunTime": "PT2M0S",
+              "id": "SFl-SJ24"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0414",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400CY0107",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "i610_2_3",
+              "RunTime": "PT1M0S",
+              "id": "zQS2k-B4"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0107",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400CY0411",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "i610_2_4",
+              "RunTime": "PT2M0S",
+              "id": "WLmkWYo:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0411",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400CY0097",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "i610_2_5",
+              "RunTime": "PT1M0S",
+              "id": "rVB4SJMS"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0097",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400CY0091",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "i610_2_6",
+              "RunTime": "PT0M0S",
+              "id": "ACp_Kjqt"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0091",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400CY0016",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "i610_2_7",
+              "RunTime": "PT2M0S",
+              "id": "WxNI_i44"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0016",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400CY0018",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "18"
+              },
+              "RouteLinkRef": "i610_2_8",
+              "RunTime": "PT1M0S",
+              "id": "GFjOp3NK"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0018",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "18"
+              },
+              "To": {
+                "StopPointRef": "4400CY0020",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "20"
+              },
+              "RouteLinkRef": "i610_2_9",
+              "RunTime": "PT1M0S",
+              "id": "nKcX21bk"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Bewbush",
+                "StopPointRef": "4400CY0020",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "20"
+              },
+              "To": {
+                "StopPointRef": "4400CY0073",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "22"
+              },
+              "RouteLinkRef": "i610_2_10",
+              "RunTime": "PT1M0S",
+              "id": "ifhbP-dF"
+            }
+          ],
+          "id": "123"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0278",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400CY0261",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i610_1",
+              "RunTime": "PT5M0S",
+              "id": "Uq87lsgZ"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0261",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400CY0260",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "i610_2",
+              "RunTime": "PT1M0S",
+              "id": "cwpUzy8h"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0260",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400CY0257",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "i610_3",
+              "RunTime": "PT0M0S",
+              "id": "f2DVWsxQ"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0257",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400CY0255",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "i610_4",
+              "RunTime": "PT2M0S",
+              "id": "Uz_Lxw9I"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0255",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400CY0253",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "i610_5",
+              "RunTime": "PT1M0S",
+              "id": "coOComp5"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0253",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400CY0248",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "i610_6",
+              "RunTime": "PT2M0S",
+              "id": "oVif3:F."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0248",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400CY0246",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "i610_7",
+              "RunTime": "PT0M0S",
+              "id": "YGrzBObb"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0246",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400CY0244",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "i610_8",
+              "RunTime": "PT1M0S",
+              "id": "CRm_EIML"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0244",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "17"
+              },
+              "To": {
+                "StopPointRef": "4400CY0267",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "19"
+              },
+              "RouteLinkRef": "i610_9",
+              "RunTime": "PT2M0S",
+              "id": "F8hh.PKX"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0267",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "19"
+              },
+              "To": {
+                "StopPointRef": "4400CY0420",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "21"
+              },
+              "RouteLinkRef": "i610_10",
+              "RunTime": "PT1M0S",
+              "id": "On_MbVrl"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400CY0420",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "21"
+              },
+              "To": {
+                "StopPointRef": "4400CY0296",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "23"
+              },
+              "RouteLinkRef": "i610_11",
+              "RunTime": "PT2M0S",
+              "id": "KED9CiUh"
+            }
+          ],
+          "id": "124"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0073",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400CY0019",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o610_1_1",
+              "RunTime": "PT1M0S",
+              "id": "m66x9q.:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0019",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400CY0015",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o610_1_2",
+              "RunTime": "PT1M0S",
+              "id": "HPBHL2LP"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0015",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400CY0090",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o610_1_3",
+              "RunTime": "PT3M0S",
+              "id": "FWagzKs1"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0090",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400CY0097",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o610_1_4",
+              "RunTime": "PT1M0S",
+              "id": "eshdXEqo"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0097",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400CY0410",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o610_1_5",
+              "RunTime": "PT1M0S",
+              "id": "zLmlmtZ."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0410",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400CY0412",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o610_1_6",
+              "RunTime": "PT1M0S",
+              "id": "clmJOcfm"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0412",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400CY0413",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o610_1_7",
+              "RunTime": "PT2M0S",
+              "id": "rdXSE-Ug"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0413",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400CY0416",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o610_1_8",
+              "RunTime": "PT1M0S",
+              "id": "EZ-Ev_fw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0416",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400CY0263",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o610_1_9",
+              "RunTime": "PT1M0S",
+              "id": "RB_3ElkL"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0263",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400CY0245",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o610_1_10",
+              "RunTime": "PT3M0S",
+              "id": "rZOd7fJ-"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0245",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400CY0247",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o610_1_11",
+              "RunTime": "PT1M0S",
+              "id": "U-xl-LNR"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0247",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400CY0252",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o610_1_12",
+              "RunTime": "PT2M0S",
+              "id": "slU3YFig"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0252",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400CY0254",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o610_1_13",
+              "RunTime": "PT1M0S",
+              "id": "lsgOgyvG"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0254",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400CY0256",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o610_1_14",
+              "RunTime": "PT2M0S",
+              "id": "atda-Uuw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0256",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400CY0258",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o610_1_15",
+              "RunTime": "PT1M0S",
+              "id": "gs_Zc1gu"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0258",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400CY0259",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o610_1_16",
+              "RunTime": "PT1M0S",
+              "id": "d9rb11x6"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0259",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "17"
+              },
+              "To": {
+                "StopPointRef": "4400CY0262",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "18"
+              },
+              "RouteLinkRef": "o610_1_17",
+              "RunTime": "PT2M0S",
+              "id": "QidLanSg"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0262",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "18"
+              },
+              "To": {
+                "StopPointRef": "4400CY0415",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "19"
+              },
+              "RouteLinkRef": "o610_1_18",
+              "RunTime": "PT0M0S",
+              "id": "UlfXscXw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0415",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "19"
+              },
+              "To": {
+                "StopPointRef": "4400CY0076",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "20"
+              },
+              "RouteLinkRef": "o610_1_19",
+              "RunTime": "PT6M0S",
+              "id": "vu:uBf:F"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Holy Trinity School",
+                "StopPointRef": "4400CY0076",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "20"
+              },
+              "To": {
+                "StopPointRef": "4400CY0278",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "21"
+              },
+              "RouteLinkRef": "o610_1_20",
+              "RunTime": "PT2M0S",
+              "id": "RqrRVgVd"
+            }
+          ],
+          "id": "125"
+        }
+      ]
+    },
+    "Operators": [
+      {
+        "LicensedOperator": {
+          "OperatorCode": "MB",
+          "OperatorShortName": "Metrobus",
+          "OperatorNameOnLicence": "Metrobus",
+          "LicenceNumber": "PK0001213",
+          "LicenceClassification": "standardNational",
+          "EnquiryTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "ContactTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "OperatorAddresses": {
+            "CorrespondenceAddress": {
+              "apd:Line": [
+                "Wheatstone Close",
+                "Crawley",
+                "West Sussex",
+                "RH10 9UA"
+              ]
+            }
+          },
+          "EmailAddress": "info@metrobus.co.uk",
+          "Garages": {
+            "Garage": [
+              {
+                "GarageCode": "CY",
+                "GarageName": "Crawley Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528686,
+                    "Northing": 139187,
+                    "Longitude": -0.161995,
+                    "Latitude": 51.137504
+                  },
+                  "id": "L1"
+                }
+              },
+              {
+                "GarageCode": "TLR",
+                "GarageName": "Tunbridge Wells, London Road A26 stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558171,
+                    "Northing": 139559,
+                    "Longitude": 0.25929,
+                    "Latitude": 51.133468
+                  },
+                  "id": "L2"
+                }
+              },
+              {
+                "GarageCode": "TWY",
+                "GarageName": "Tunbridge Wells, Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 557939,
+                    "Northing": 138477,
+                    "Longitude": 0.255514,
+                    "Latitude": 51.123806
+                  },
+                  "id": "L3"
+                }
+              },
+              {
+                "GarageCode": "HHH",
+                "GarageName": "Haywards Heath, Prin Roy Hosp",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 534059,
+                    "Northing": 123162,
+                    "Longitude": -0.091175,
+                    "Latitude": 50.992254
+                  },
+                  "id": "L4"
+                }
+              },
+              {
+                "GarageCode": "RMW",
+                "GarageName": "Redhill, Marketfield Way",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528018,
+                    "Northing": 150493,
+                    "Longitude": -0.16751,
+                    "Latitude": 51.239263
+                  },
+                  "id": "L5"
+                }
+              },
+              {
+                "GarageCode": "RPS",
+                "GarageName": "Redhill, Prezzo Stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527983,
+                    "Northing": 150810,
+                    "Longitude": -0.167901,
+                    "Latitude": 51.242122
+                  },
+                  "id": "L6"
+                }
+              },
+              {
+                "GarageCode": "CBS",
+                "GarageName": "Crawley Bus Stn layover",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527023,
+                    "Northing": 136449,
+                    "Longitude": -0.186713,
+                    "Latitude": 51.113267
+                  },
+                  "id": "L7"
+                }
+              },
+              {
+                "GarageCode": "EPS",
+                "GarageName": "Epsom Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 520697,
+                    "Northing": 160871,
+                    "Longitude": -0.268824,
+                    "Latitude": 51.334133
+                  },
+                  "id": "L8"
+                }
+              },
+              {
+                "GarageCode": "MR",
+                "GarageName": "Gatwick Road North, Northbound Stop",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528501,
+                    "Northing": 139279,
+                    "Longitude": -0.164611,
+                    "Latitude": 51.138374
+                  },
+                  "id": "L9"
+                }
+              },
+              {
+                "GarageCode": "CP",
+                "GarageName": "Copthorne Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 533712,
+                    "Northing": 139410,
+                    "Longitude": -0.090113,
+                    "Latitude": 51.138358
+                  },
+                  "id": "L10"
+                }
+              },
+              {
+                "GarageCode": "OSW",
+                "GarageName": "Oxted, Station Road West",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539296,
+                    "Northing": 152868,
+                    "Longitude": -0.005129,
+                    "Latitude": 51.257967
+                  },
+                  "id": "L11"
+                }
+              },
+              {
+                "GarageCode": "RRC",
+                "GarageName": "Reigate, Red Cross",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 525074,
+                    "Northing": 150341,
+                    "Longitude": -0.209716,
+                    "Latitude": 51.238547
+                  },
+                  "id": "L12"
+                }
+              },
+              {
+                "GarageCode": "WHR",
+                "GarageName": "Westerham, Hartley Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 544807,
+                    "Northing": 154860,
+                    "Longitude": 0.074598,
+                    "Latitude": 51.274491
+                  },
+                  "id": "L13"
+                }
+              },
+              {
+                "GarageCode": "EGK",
+                "GarageName": "East Grinstead, King Street",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539417,
+                    "Northing": 138275,
+                    "Longitude": -0.009063,
+                    "Latitude": 51.126799
+                  },
+                  "id": "L14"
+                }
+              },
+              {
+                "GarageCode": "WMS",
+                "GarageName": "Warlingham Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 536476,
+                    "Northing": 158256,
+                    "Longitude": -0.043457,
+                    "Latitude": 51.30707
+                  },
+                  "id": "L15"
+                }
+              },
+              {
+                "GarageCode": "OCO",
+                "GarageName": "Oxted, Council Offices",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539638,
+                    "Northing": 152752,
+                    "Longitude": -0.000274,
+                    "Latitude": 51.256839
+                  },
+                  "id": "L16"
+                }
+              },
+              {
+                "GarageCode": "LWM",
+                "GarageName": "Lingfield, War Memorial",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538707,
+                    "Northing": 143561,
+                    "Longitude": -0.017167,
+                    "Latitude": 51.174472
+                  },
+                  "id": "L17"
+                }
+              },
+              {
+                "GarageCode": "HBS",
+                "GarageName": "Horsham Bus Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 516934,
+                    "Northing": 130598,
+                    "Longitude": -0.332669,
+                    "Latitude": 51.062823
+                  },
+                  "id": "L18"
+                }
+              },
+              {
+                "GarageCode": "EGS",
+                "GarageName": "East Grinstead Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538859,
+                    "Northing": 138237,
+                    "Longitude": -0.01705,
+                    "Latitude": 51.126589
+                  },
+                  "id": "L19"
+                }
+              },
+              {
+                "GarageCode": "DS",
+                "GarageName": "Dorking Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 517030,
+                    "Northing": 150395,
+                    "Longitude": -0.324877,
+                    "Latitude": 51.240742
+                  },
+                  "id": "L20"
+                }
+              },
+              {
+                "GarageCode": "TMR",
+                "GarageName": "Tunbridge Wells, Meadow Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558498,
+                    "Northing": 139844,
+                    "Longitude": 0.264096,
+                    "Latitude": 51.135935
+                  },
+                  "id": "L21"
+                }
+              }
+            ]
+          },
+          "id": "MB"
+        }
+      }
+    ],
+    "Services": [
+      {
+        "Service": {
+          "ServiceCode": "SER610",
+          "Lines": {
+            "Line": {
+              "LineName": 610,
+              "id": "AHy6BQN-"
+            }
+          },
+          "OperatingPeriod": {
+            "StartDate": "2025-03-01",
+            "EndDate": "2025-05-30"
+          },
+          "ServiceClassification": {
+            "NormalStopping": ""
+          },
+          "RegisteredOperatorRef": "MB",
+          "StopRequirements": {
+            "NoNewStopsRequired": ""
+          },
+          "Description": "Holy Trinity School - Crawley Bus Station",
+          "StandardService": {
+            "Origin": "Holy Trinity School",
+            "Destination": "Crawley Bus Station",
+            "UseAllStopPoints": true,
+            "JourneyPattern": [
+              {
+                "DestinationDisplay": "Crawley Bus Station",
+                "Direction": "inbound",
+                "Description": "Holy Trinity School - Crawley Bus Station",
+                "RouteRef": 88898,
+                "JourneyPatternSectionRefs": 124,
+                "id": "88898:1465:762:1020:124"
+              },
+              {
+                "DestinationDisplay": "Bewbush, Dorsten Square",
+                "Direction": "inbound",
+                "Description": "Tilgate, Thomas Bennett Sch - Bewbush, Dorsten Sq",
+                "RouteRef": 88922,
+                "JourneyPatternSectionRefs": 123,
+                "id": "88922:2988:275:660:123"
+              },
+              {
+                "DestinationDisplay": "Holy Trinity School",
+                "Direction": "outbound",
+                "Description": "Bewbush - Holy Trinity School",
+                "RouteRef": 89022,
+                "JourneyPatternSectionRefs": 125,
+                "id": "89022:275:1465:1980:125"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "VehicleJourneys": {
+      "VehicleJourney": [
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 132
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 610,
+              "JourneyCode": 1
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "284157.132.w",
+          "ServiceRef": "SER610",
+          "LineRef": "AHy6BQN-",
+          "JourneyPatternRef": [
+            "88922:2988:275:660:123"
+          ],
+          "StartDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT5M0S",
+              "From": {
+                "GarageRef": "CBS"
+              },
+              "To": {
+                "StopPointRef": "4400CY0262"
+              }
+            }
+          },
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT7M0S",
+              "From": {
+                "StopPointRef": "4400CY0073"
+              },
+              "To": {
+                "StopPointRef": "4400CY0394"
+              }
+            }
+          },
+          "DepartureTime": "15:10:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 44
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 610,
+              "JourneyCode": 3
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "284190.44.w",
+          "ServiceRef": "SER610",
+          "LineRef": "AHy6BQN-",
+          "JourneyPatternRef": [
+            "88898:1465:762:1020:124"
+          ],
+          "StartDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT10M0S",
+              "From": {
+                "GarageRef": "CBS"
+              },
+              "To": {
+                "StopPointRef": "4400CY0278"
+              }
+            }
+          },
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400CY0296"
+              },
+              "To": {
+                "StopPointRef": "4400CY0294"
+              }
+            }
+          },
+          "DepartureTime": "15:32:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 229
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 610,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "507468.229.w",
+          "ServiceRef": "SER610",
+          "LineRef": "AHy6BQN-",
+          "JourneyPatternRef": [
+            "89022:275:1465:1980:125"
+          ],
+          "StartDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT17M0S",
+              "From": {
+                "GarageRef": "CY"
+              },
+              "To": {
+                "StopPointRef": "4400CY0073"
+              }
+            }
+          },
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT12M0S",
+              "From": {
+                "StopPointRef": "4400CY0278"
+              },
+              "To": {
+                "StopPointRef": "4400CY0294"
+              }
+            }
+          },
+          "DepartureTime": "08:05:00",
+          "SequenceNumber": "1"
+        }
+      ]
+    },
+    "ModificationDateTime": "2025-02-27T17:53:13+00:00",
+    "xmlns": "http://www.transxchange.org.uk/",
+    "Modification": "new",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "RevisionNumber": "0",
+    "xml:lang": "en",
+    "CreationDateTime": "2025-02-27T17:53:13+00:00",
+    "xmlns:apd": "http://www.govtalk.gov.uk/people/AddressAndPersonalDetails",
+    "xsi:schemaLocation": "http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.4/TransXChange_general.xsd",
+    "FileName": "metrobus-610.xml",
+    "RegistrationDocument": "false",
+    "SchemaVersion": "2.4"
+  }
+}

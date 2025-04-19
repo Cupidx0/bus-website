@@ -1,0 +1,4257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransXChange xmlns:apd="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails" FileName="metrobus-51.xml" SchemaVersion="2.4" RegistrationDocument="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CreationDateTime="2025-02-27T17:49:39+00:00" Modification="new" xml:lang="en" xmlns="http://www.transxchange.org.uk/" ModificationDateTime="2025-02-27T17:49:39+00:00" RevisionNumber="0" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.4/TransXChange_general.xsd"> <!-- ExportProgramVersion="4.184" -->
+
+   <ServicedOrganisations>
+   <ServicedOrganisation>
+   <OrganisationCode>Sch</OrganisationCode>
+   <Name>AnySchool</Name>
+   <WorkingDays>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-22</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-06</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   </WorkingDays>
+   </ServicedOrganisation>
+   </ServicedOrganisations>
+   <StopPoints>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO1134</StopPointRef>
+   <CommonName>Horsham Bus Station</CommonName>
+   <Location>
+   <Longitude>-0.332797</Longitude>
+   <Latitude>51.062688</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0059</StopPointRef>
+   <CommonName>Horsham, Bishopric</CommonName>
+   <Location>
+   <Longitude>-0.333916</Longitude>
+   <Latitude>51.063998</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0058</StopPointRef>
+   <CommonName>Rushams Road</CommonName>
+   <Location>
+   <Longitude>-0.336645</Longitude>
+   <Latitude>51.064667</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <CommonName>Merryfield Drive, The Coot</CommonName>
+   <Location>
+   <Longitude>-0.340843</Longitude>
+   <Latitude>51.067931</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <CommonName>Bishopric</CommonName>
+   <Location>
+   <Longitude>-0.334117</Longitude>
+   <Latitude>51.064196</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <CommonName>Blunts Way</CommonName>
+   <Location>
+   <Longitude>-0.331106</Longitude>
+   <Latitude>51.069632</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <CommonName>Collingwood Road</CommonName>
+   <Location>
+   <Longitude>-0.329786</Longitude>
+   <Latitude>51.073914</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <CommonName>Cootes Avenue</CommonName>
+   <Location>
+   <Longitude>-0.337696</Longitude>
+   <Latitude>51.071821</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <CommonName>Farm Avenue</CommonName>
+   <Location>
+   <Longitude>-0.336552</Longitude>
+   <Latitude>51.068704</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <CommonName>Greenway Academy</CommonName>
+   <Location>
+   <Longitude>-0.338711</Longitude>
+   <Latitude>51.069526</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO1130</StopPointRef>
+   <CommonName>Horsham Bus Station</CommonName>
+   <LocalityName>Horsham</LocalityName>
+   <Location>
+   <Longitude>-0.332683</Longitude>
+   <Latitude>51.062832</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO1132</StopPointRef>
+   <CommonName>Horsham Bus Station</CommonName>
+   <LocalityName>Horsham</LocalityName>
+   <Location>
+   <Longitude>-0.332740</Longitude>
+   <Latitude>51.062760</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <CommonName>Merryfield Drive, The Coot</CommonName>
+   <Location>
+   <Longitude>-0.340740</Longitude>
+   <Latitude>51.067338</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <CommonName>Merryfield Drive</CommonName>
+   <Location>
+   <Longitude>-0.340945</Longitude>
+   <Latitude>51.065710</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <CommonName>Percy Road</CommonName>
+   <Location>
+   <Longitude>-0.333255</Longitude>
+   <Latitude>51.068486</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <CommonName>Redford Avenue, Saxon Crescent</CommonName>
+   <Location>
+   <Longitude>-0.333522</Longitude>
+   <Latitude>51.076001</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <CommonName>Rushams Road</CommonName>
+   <Location>
+   <Longitude>-0.336946</Longitude>
+   <Latitude>51.064954</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <CommonName>Spencers Place</CommonName>
+   <Location>
+   <Longitude>-0.336977</Longitude>
+   <Latitude>51.073612</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <CommonName>Swindon Road</CommonName>
+   <Location>
+   <Longitude>-0.330961</Longitude>
+   <Latitude>51.072051</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <CommonName>The Dog &amp; Bacon</CommonName>
+   <Location>
+   <Longitude>-0.329394</Longitude>
+   <Latitude>51.075317</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   <AnnotatedStopPointRef>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <CommonName>Vale Drive</CommonName>
+   <Location>
+   <Longitude>-0.334037</Longitude>
+   <Latitude>51.067990</Latitude>
+   </Location>
+   </AnnotatedStopPointRef>
+   </StopPoints>
+   <RouteSections>
+   <RouteSection id="bQN_baZP">
+   <RouteLink id="i51_1_1">
+   <From>
+   <StopPointRef>4400HO1134</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0059</StopPointRef>
+   </To>
+   <Direction>inbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.332825</Longitude>
+   <Latitude>51.062697</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332627</Longitude>
+   <Latitude>51.062922</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332241</Longitude>
+   <Latitude>51.062824</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332341</Longitude>
+   <Latitude>51.062797</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332426</Longitude>
+   <Latitude>51.062752</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332526</Longitude>
+   <Latitude>51.062670</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332568</Longitude>
+   <Latitude>51.062643</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332682</Longitude>
+   <Latitude>51.062544</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332753</Longitude>
+   <Latitude>51.062526</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332810</Longitude>
+   <Latitude>51.062508</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332839</Longitude>
+   <Latitude>51.062499</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332981</Longitude>
+   <Latitude>51.062517</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333181</Longitude>
+   <Latitude>51.062480</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333736</Longitude>
+   <Latitude>51.062174</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334005</Longitude>
+   <Latitude>51.061849</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334261</Longitude>
+   <Latitude>51.061633</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334218</Longitude>
+   <Latitude>51.061561</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334218</Longitude>
+   <Latitude>51.061552</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334217</Longitude>
+   <Latitude>51.061507</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334246</Longitude>
+   <Latitude>51.061462</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334288</Longitude>
+   <Latitude>51.061426</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334388</Longitude>
+   <Latitude>51.061408</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334531</Longitude>
+   <Latitude>51.061426</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334603</Longitude>
+   <Latitude>51.061488</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334632</Longitude>
+   <Latitude>51.061560</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334617</Longitude>
+   <Latitude>51.061605</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334876</Longitude>
+   <Latitude>51.061946</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334934</Longitude>
+   <Latitude>51.062108</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334921</Longitude>
+   <Latitude>51.062306</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334950</Longitude>
+   <Latitude>51.062396</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334864</Longitude>
+   <Latitude>51.062459</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334537</Longitude>
+   <Latitude>51.062648</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334125</Longitude>
+   <Latitude>51.062955</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334082</Longitude>
+   <Latitude>51.062991</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333699</Longitude>
+   <Latitude>51.063414</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333543</Longitude>
+   <Latitude>51.063594</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333288</Longitude>
+   <Latitude>51.063865</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333388</Longitude>
+   <Latitude>51.063891</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333488</Longitude>
+   <Latitude>51.063891</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333845</Longitude>
+   <Latitude>51.064016</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333874</Longitude>
+   <Latitude>51.064025</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="i51_1_2">
+   <From>
+   <StopPointRef>4400HO0059</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0058</StopPointRef>
+   </To>
+   <Direction>inbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.333874</Longitude>
+   <Latitude>51.064025</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333917</Longitude>
+   <Latitude>51.064079</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334003</Longitude>
+   <Latitude>51.064115</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334889</Longitude>
+   <Latitude>51.064383</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334946</Longitude>
+   <Latitude>51.064401</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335832</Longitude>
+   <Latitude>51.064633</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336631</Longitude>
+   <Latitude>51.064766</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="i51_1_3">
+   <From>
+   <StopPointRef>4400HO0058</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0063</StopPointRef>
+   </To>
+   <Direction>inbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.336631</Longitude>
+   <Latitude>51.064766</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337203</Longitude>
+   <Latitude>51.064962</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337775</Longitude>
+   <Latitude>51.065168</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338261</Longitude>
+   <Latitude>51.065293</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339774</Longitude>
+   <Latitude>51.065523</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340288</Longitude>
+   <Latitude>51.065594</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341216</Longitude>
+   <Latitude>51.065664</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341104</Longitude>
+   <Latitude>51.065979</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341090</Longitude>
+   <Latitude>51.066051</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341048</Longitude>
+   <Latitude>51.066195</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340893</Longitude>
+   <Latitude>51.066645</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340796</Longitude>
+   <Latitude>51.067086</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340839</Longitude>
+   <Latitude>51.067283</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340869</Longitude>
+   <Latitude>51.067553</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340842</Longitude>
+   <Latitude>51.067787</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340786</Longitude>
+   <Latitude>51.067922</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   </RouteSection>
+   <RouteSection id="Xj4-UwrD">
+   <RouteLink id="o51_3_1">
+   <From>
+   <StopPointRef>4400HO0063</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0081</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.340786</Longitude>
+   <Latitude>51.067922</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340645</Longitude>
+   <Latitude>51.068219</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340361</Longitude>
+   <Latitude>51.068615</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340149</Longitude>
+   <Latitude>51.068930</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339696</Longitude>
+   <Latitude>51.069551</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339568</Longitude>
+   <Latitude>51.069713</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338753</Longitude>
+   <Latitude>51.069463</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_2">
+   <From>
+   <StopPointRef>4400HO0081</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0080</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.338753</Longitude>
+   <Latitude>51.069463</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337367</Longitude>
+   <Latitude>51.069035</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336738</Longitude>
+   <Latitude>51.068730</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336609</Longitude>
+   <Latitude>51.068659</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_3">
+   <From>
+   <StopPointRef>4400HO0080</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0078</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.336609</Longitude>
+   <Latitude>51.068659</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336523</Longitude>
+   <Latitude>51.068623</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336123</Longitude>
+   <Latitude>51.068435</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335851</Longitude>
+   <Latitude>51.068337</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335551</Longitude>
+   <Latitude>51.068220</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334893</Longitude>
+   <Latitude>51.068015</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334051</Longitude>
+   <Latitude>51.067927</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_4">
+   <From>
+   <StopPointRef>4400HO0078</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0071</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.334051</Longitude>
+   <Latitude>51.067927</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333780</Longitude>
+   <Latitude>51.067900</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333169</Longitude>
+   <Latitude>51.068450</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_5">
+   <From>
+   <StopPointRef>4400HO0071</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0074</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.333169</Longitude>
+   <Latitude>51.068450</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332856</Longitude>
+   <Latitude>51.068729</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332260</Longitude>
+   <Latitude>51.069243</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332061</Longitude>
+   <Latitude>51.069396</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332004</Longitude>
+   <Latitude>51.069414</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.331861</Longitude>
+   <Latitude>51.069460</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.331077</Longitude>
+   <Latitude>51.069578</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_6">
+   <From>
+   <StopPointRef>4400HO0074</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0087</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.331077</Longitude>
+   <Latitude>51.069578</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330635</Longitude>
+   <Latitude>51.069615</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330036</Longitude>
+   <Latitude>51.069616</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330050</Longitude>
+   <Latitude>51.069715</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330539</Longitude>
+   <Latitude>51.070442</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330626</Longitude>
+   <Latitude>51.070658</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330857</Longitude>
+   <Latitude>51.071179</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.331002</Longitude>
+   <Latitude>51.071637</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330861</Longitude>
+   <Latitude>51.072033</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_7">
+   <From>
+   <StopPointRef>4400HO0087</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1142</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.330861</Longitude>
+   <Latitude>51.072033</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330721</Longitude>
+   <Latitude>51.072420</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330664</Longitude>
+   <Latitude>51.072528</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330182</Longitude>
+   <Latitude>51.073239</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329927</Longitude>
+   <Latitude>51.073626</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329871</Longitude>
+   <Latitude>51.073725</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329729</Longitude>
+   <Latitude>51.073896</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_8">
+   <From>
+   <StopPointRef>4400HO1142</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0075</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.329729</Longitude>
+   <Latitude>51.073896</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329573</Longitude>
+   <Latitude>51.074067</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.328948</Longitude>
+   <Latitude>51.074671</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329063</Longitude>
+   <Latitude>51.074806</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329120</Longitude>
+   <Latitude>51.074877</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329135</Longitude>
+   <Latitude>51.074922</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329150</Longitude>
+   <Latitude>51.075012</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329150</Longitude>
+   <Latitude>51.075129</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329136</Longitude>
+   <Latitude>51.075174</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329108</Longitude>
+   <Latitude>51.075282</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329237</Longitude>
+   <Latitude>51.075390</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_9">
+   <From>
+   <StopPointRef>4400HO0075</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0070</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.329237</Longitude>
+   <Latitude>51.075390</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.329896</Longitude>
+   <Latitude>51.075919</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.330641</Longitude>
+   <Latitude>51.076511</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.331401</Longitude>
+   <Latitude>51.077049</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332382</Longitude>
+   <Latitude>51.076453</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332738</Longitude>
+   <Latitude>51.076282</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333322</Longitude>
+   <Latitude>51.076110</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333551</Longitude>
+   <Latitude>51.076082</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_10">
+   <From>
+   <StopPointRef>4400HO0070</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0067</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.333551</Longitude>
+   <Latitude>51.076082</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333793</Longitude>
+   <Latitude>51.076046</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334449</Longitude>
+   <Latitude>51.076017</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334849</Longitude>
+   <Latitude>51.075963</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335362</Longitude>
+   <Latitude>51.075854</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335547</Longitude>
+   <Latitude>51.075790</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335761</Longitude>
+   <Latitude>51.075718</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336074</Longitude>
+   <Latitude>51.075556</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336472</Longitude>
+   <Latitude>51.075249</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336798</Longitude>
+   <Latitude>51.074853</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336840</Longitude>
+   <Latitude>51.074727</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336897</Longitude>
+   <Latitude>51.074574</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336980</Longitude>
+   <Latitude>51.074142</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337022</Longitude>
+   <Latitude>51.073944</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337091</Longitude>
+   <Latitude>51.073629</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_11">
+   <From>
+   <StopPointRef>4400HO0067</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0065</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.337091</Longitude>
+   <Latitude>51.073629</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337331</Longitude>
+   <Latitude>51.072964</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337796</Longitude>
+   <Latitude>51.071839</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_12">
+   <From>
+   <StopPointRef>4400HO0065</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0062</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.337796</Longitude>
+   <Latitude>51.071839</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337852</Longitude>
+   <Latitude>51.071695</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338050</Longitude>
+   <Latitude>51.071434</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338064</Longitude>
+   <Latitude>51.071398</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338562</Longitude>
+   <Latitude>51.070965</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339029</Longitude>
+   <Latitude>51.070380</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339568</Longitude>
+   <Latitude>51.069713</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339696</Longitude>
+   <Latitude>51.069551</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340149</Longitude>
+   <Latitude>51.068930</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340361</Longitude>
+   <Latitude>51.068615</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340645</Longitude>
+   <Latitude>51.068219</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340842</Longitude>
+   <Latitude>51.067787</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340869</Longitude>
+   <Latitude>51.067553</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340840</Longitude>
+   <Latitude>51.067337</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_13">
+   <From>
+   <StopPointRef>4400HO0062</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0056</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.340840</Longitude>
+   <Latitude>51.067337</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340839</Longitude>
+   <Latitude>51.067283</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340796</Longitude>
+   <Latitude>51.067086</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340893</Longitude>
+   <Latitude>51.066645</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341048</Longitude>
+   <Latitude>51.066195</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341090</Longitude>
+   <Latitude>51.066051</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341104</Longitude>
+   <Latitude>51.065979</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.341216</Longitude>
+   <Latitude>51.065664</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340959</Longitude>
+   <Latitude>51.065647</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_14">
+   <From>
+   <StopPointRef>4400HO0056</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO0057</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.340959</Longitude>
+   <Latitude>51.065647</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.340288</Longitude>
+   <Latitude>51.065594</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.339774</Longitude>
+   <Latitude>51.065523</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.338261</Longitude>
+   <Latitude>51.065293</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337775</Longitude>
+   <Latitude>51.065168</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337203</Longitude>
+   <Latitude>51.064962</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.337003</Longitude>
+   <Latitude>51.064891</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_15">
+   <From>
+   <StopPointRef>4400HO0057</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1149</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.337003</Longitude>
+   <Latitude>51.064891</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.336631</Longitude>
+   <Latitude>51.064766</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.335832</Longitude>
+   <Latitude>51.064633</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334946</Longitude>
+   <Latitude>51.064401</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334889</Longitude>
+   <Latitude>51.064383</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334146</Longitude>
+   <Latitude>51.064160</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   <RouteLink id="o51_3_16">
+   <From>
+   <StopPointRef>4400HO1149</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </To>
+   <Direction>outbound</Direction>
+   <Track>
+   <Mapping>
+   <Location>
+   <Longitude>-0.334146</Longitude>
+   <Latitude>51.064160</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334003</Longitude>
+   <Latitude>51.064115</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333917</Longitude>
+   <Latitude>51.064079</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333831</Longitude>
+   <Latitude>51.064079</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333803</Longitude>
+   <Latitude>51.064070</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333460</Longitude>
+   <Latitude>51.063954</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333388</Longitude>
+   <Latitude>51.063891</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333288</Longitude>
+   <Latitude>51.063865</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333145</Longitude>
+   <Latitude>51.063811</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333415</Longitude>
+   <Latitude>51.063541</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333642</Longitude>
+   <Latitude>51.063307</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333926</Longitude>
+   <Latitude>51.063000</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334565</Longitude>
+   <Latitude>51.062531</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334650</Longitude>
+   <Latitude>51.062396</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334650</Longitude>
+   <Latitude>51.062334</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334735</Longitude>
+   <Latitude>51.062279</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334806</Longitude>
+   <Latitude>51.062099</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334762</Longitude>
+   <Latitude>51.061965</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334647</Longitude>
+   <Latitude>51.061812</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334390</Longitude>
+   <Latitude>51.061669</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334361</Longitude>
+   <Latitude>51.061669</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334261</Longitude>
+   <Latitude>51.061633</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.334005</Longitude>
+   <Latitude>51.061849</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333736</Longitude>
+   <Latitude>51.062174</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.333181</Longitude>
+   <Latitude>51.062480</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332981</Longitude>
+   <Latitude>51.062517</Latitude>
+   </Location>
+   <Location>
+   <Longitude>-0.332769</Longitude>
+   <Latitude>51.062769</Latitude>
+   </Location>
+   </Mapping>
+   </Track>
+   </RouteLink>
+   </RouteSection>
+   </RouteSections>
+   <Routes>
+   <Route id="48934">
+   <PrivateCode>i51_1</PrivateCode>
+   <Description>Horsham Bus Station - Merryfield Drive, The Coot</Description>
+   <RouteSectionRef>bQN_baZP</RouteSectionRef>
+   </Route>
+   <Route id="49116">
+   <PrivateCode>o51_3</PrivateCode>
+   <Description>Merryfield Drive, The Coot - Horsham Bus Station</Description>
+   <RouteSectionRef>Xj4-UwrD</RouteSectionRef>
+   </Route>
+   </Routes>
+   <JourneyPatternSections>
+   <JourneyPatternSection id="123">
+   <JourneyPatternTimingLink id="h1r12FNs">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1134</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="k.FNPAKA">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="SFl-SJ24">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_3</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="124">
+   <JourneyPatternTimingLink id="zQS2k-B4">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1134</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="WLmkWYo:">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="rVB4SJMS">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_3</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="125">
+   <JourneyPatternTimingLink id="ACp_Kjqt">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1134</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="WxNI_i44">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="GFjOp3NK">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_3</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="126">
+   <JourneyPatternTimingLink id="nKcX21bk">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1134</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="ifhbP-dF">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0059</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Uq87lsgZ">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>The Common</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0058</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>i51_1_3</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="127">
+   <JourneyPatternTimingLink id="cwpUzy8h">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="f2DVWsxQ">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Uz_Lxw9I">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="coOComp5">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="oVif3:F.">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="YGrzBObb">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="CRm_EIML">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="F8hh.PKX">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="On_MbVrl">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="KED9CiUh">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="m66x9q.:">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="HPBHL2LP">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="FWagzKs1">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="eshdXEqo">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="zLmlmtZ.">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="clmJOcfm">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="128">
+   <JourneyPatternTimingLink id="rdXSE-Ug">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="EZ-Ev_fw">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="RB_3ElkL">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="rZOd7fJ-">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="U-xl-LNR">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="slU3YFig">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="lsgOgyvG">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="atda-Uuw">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="gs_Zc1gu">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="d9rb11x6">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="QidLanSg">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="UlfXscXw">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="vu:uBf:F">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="RqrRVgVd">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="AHy6BQN-">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Ri6:XGwv">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="129">
+   <JourneyPatternTimingLink id="WpV7IQBo">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Wru0poYe">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="d:17x_hU">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="zRaETk07">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="UszR4ykl">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="MjWYIxFs">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="H1sIhyFE">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="DcGJjWNa">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="CRGG9P8r">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="pmaZeCj8">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="oKIoRdhd">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="YkosKl41">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="f1p3E3zY">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="pgd.io.V">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="DuGrd3Sl">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="BE9IXL5j">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="130">
+   <JourneyPatternTimingLink id="y4puby0o">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="FM.H3gzc">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="sD.rmd.R">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="DvEaE.yY">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="SUxbm1fV">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="ba0Dfc25">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="C-WYuc8-">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="dvXOZ.K6">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="fKCiopoR">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="ZMPUJKq_">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="aTfzJ5sK">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="NerBdQa5">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="gQOsmcI1">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="hSlA-u6y">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="KHZi_hJI">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="FAKsOODv">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="131">
+   <JourneyPatternTimingLink id="UnckIdaH">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="VePpZEoW">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="G0l4zjaG">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="wEDrqaK9">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="ApTwqw7E">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="luPS157M">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="iLSIaGLq">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Sy7M5oPc">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="X.ZNY7hn">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="TSXOUjR9">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="qnm.nwKp">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="p_yumqR.">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="TbE8K.8:">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="nvqD:VZU">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="kO4w1euS">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="tNIZpYVh">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   <JourneyPatternSection id="132">
+   <JourneyPatternTimingLink id="VIv0IU9V">
+   <From SequenceNumber="1">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0063</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="2">
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_1</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="HykGq6tS">
+   <From SequenceNumber="2">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0081</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="3">
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_2</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="uAF2CBq9">
+   <From SequenceNumber="3">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0080</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="4">
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_3</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="vdiArYNn">
+   <From SequenceNumber="4">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0078</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="5">
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_4</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="pIU_AsvD">
+   <From SequenceNumber="5">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0071</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="6">
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_5</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="Q.gY8xLi">
+   <From SequenceNumber="6">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0074</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="7">
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_6</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="MGpRpjYx">
+   <From SequenceNumber="7">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0087</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="8">
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_7</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="oU6yA7ot">
+   <From SequenceNumber="8">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1142</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="9">
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_8</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="RHeTWU-t">
+   <From SequenceNumber="9">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0075</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="10">
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_9</RouteLinkRef>
+   <RunTime>PT2M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="vo85wTJD">
+   <From SequenceNumber="10">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0070</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="11">
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_10</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="S84KOY9Q">
+   <From SequenceNumber="11">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0067</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="12">
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_11</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="m51f0egi">
+   <From SequenceNumber="12">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0065</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="13">
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_12</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="lapWbIDj">
+   <From SequenceNumber="13">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0062</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </From>
+   <To SequenceNumber="14">
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_13</RouteLinkRef>
+   <RunTime>PT0M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="x:9YSpLK">
+   <From SequenceNumber="14">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0056</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="15">
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_14</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="geBTlnow">
+   <From SequenceNumber="15">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO0057</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="16">
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_15</RouteLinkRef>
+   <RunTime>PT1M0S</RunTime>
+   </JourneyPatternTimingLink>
+   <JourneyPatternTimingLink id="rgVy:q2Z">
+   <From SequenceNumber="16">
+   <DynamicDestinationDisplay>Town Centre</DynamicDestinationDisplay>
+   <StopPointRef>4400HO1149</StopPointRef>
+   <TimingStatus>OTH</TimingStatus>
+   </From>
+   <To SequenceNumber="17">
+   <StopPointRef>4400HO1132</StopPointRef>
+   <TimingStatus>PTP</TimingStatus>
+   </To>
+   <RouteLinkRef>o51_3_16</RouteLinkRef>
+   <RunTime>PT3M0S</RunTime>
+   </JourneyPatternTimingLink>
+   </JourneyPatternSection>
+   </JourneyPatternSections>
+   <Operators>
+   <LicensedOperator id="MB">
+   <OperatorCode>MB</OperatorCode>
+   <OperatorShortName>Metrobus</OperatorShortName>
+   <OperatorNameOnLicence>Metrobus</OperatorNameOnLicence>
+   <LicenceNumber>PK0001213</LicenceNumber>
+   <LicenceClassification>standardNational</LicenceClassification>
+   <EnquiryTelephoneNumber>
+   <TelNationalNumber>01293 449191</TelNationalNumber>
+   </EnquiryTelephoneNumber>
+   <ContactTelephoneNumber>
+   <TelNationalNumber>01293 449191</TelNationalNumber>
+   </ContactTelephoneNumber>
+   <OperatorAddresses>
+   <CorrespondenceAddress>
+   <apd:Line>Wheatstone Close</apd:Line>
+   <apd:Line>Crawley</apd:Line>
+   <apd:Line>West Sussex</apd:Line>
+   <apd:Line>RH10 9UA</apd:Line>
+   </CorrespondenceAddress>
+   </OperatorAddresses>
+   <EmailAddress>info@metrobus.co.uk</EmailAddress>
+   <Garages>
+   <Garage>
+   <GarageCode>CY</GarageCode>
+   <GarageName>Crawley Depot</GarageName>
+   <Location id="L1">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>528686</Easting>
+   <Northing>139187</Northing>
+   <Longitude>-0.161995</Longitude>
+   <Latitude>51.137504</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>TLR</GarageCode>
+   <GarageName>Tunbridge Wells, London Road A26 stand</GarageName>
+   <Location id="L2">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>558171</Easting>
+   <Northing>139559</Northing>
+   <Longitude>0.259290</Longitude>
+   <Latitude>51.133468</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>TWY</GarageCode>
+   <GarageName>Tunbridge Wells, Sainsburys</GarageName>
+   <Location id="L3">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>557939</Easting>
+   <Northing>138477</Northing>
+   <Longitude>0.255514</Longitude>
+   <Latitude>51.123806</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>HHH</GarageCode>
+   <GarageName>Haywards Heath, Prin Roy Hosp</GarageName>
+   <Location id="L4">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>534059</Easting>
+   <Northing>123162</Northing>
+   <Longitude>-0.091175</Longitude>
+   <Latitude>50.992254</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>RMW</GarageCode>
+   <GarageName>Redhill, Marketfield Way</GarageName>
+   <Location id="L5">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>528018</Easting>
+   <Northing>150493</Northing>
+   <Longitude>-0.167510</Longitude>
+   <Latitude>51.239263</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>RPS</GarageCode>
+   <GarageName>Redhill, Prezzo Stand</GarageName>
+   <Location id="L6">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>527983</Easting>
+   <Northing>150810</Northing>
+   <Longitude>-0.167901</Longitude>
+   <Latitude>51.242122</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>CBS</GarageCode>
+   <GarageName>Crawley Bus Stn layover</GarageName>
+   <Location id="L7">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>527023</Easting>
+   <Northing>136449</Northing>
+   <Longitude>-0.186713</Longitude>
+   <Latitude>51.113267</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>EPS</GarageCode>
+   <GarageName>Epsom Station</GarageName>
+   <Location id="L8">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>520697</Easting>
+   <Northing>160871</Northing>
+   <Longitude>-0.268824</Longitude>
+   <Latitude>51.334133</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>MR</GarageCode>
+   <GarageName>Gatwick Road North, Northbound Stop</GarageName>
+   <Location id="L9">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>528501</Easting>
+   <Northing>139279</Northing>
+   <Longitude>-0.164611</Longitude>
+   <Latitude>51.138374</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>CP</GarageCode>
+   <GarageName>Copthorne Depot</GarageName>
+   <Location id="L10">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>533712</Easting>
+   <Northing>139410</Northing>
+   <Longitude>-0.090113</Longitude>
+   <Latitude>51.138358</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>OSW</GarageCode>
+   <GarageName>Oxted, Station Road West</GarageName>
+   <Location id="L11">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>539296</Easting>
+   <Northing>152868</Northing>
+   <Longitude>-0.005129</Longitude>
+   <Latitude>51.257967</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>RRC</GarageCode>
+   <GarageName>Reigate, Red Cross</GarageName>
+   <Location id="L12">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>525074</Easting>
+   <Northing>150341</Northing>
+   <Longitude>-0.209716</Longitude>
+   <Latitude>51.238547</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>WHR</GarageCode>
+   <GarageName>Westerham, Hartley Road</GarageName>
+   <Location id="L13">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>544807</Easting>
+   <Northing>154860</Northing>
+   <Longitude>0.074598</Longitude>
+   <Latitude>51.274491</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>EGK</GarageCode>
+   <GarageName>East Grinstead, King Street</GarageName>
+   <Location id="L14">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>539417</Easting>
+   <Northing>138275</Northing>
+   <Longitude>-0.009063</Longitude>
+   <Latitude>51.126799</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>WMS</GarageCode>
+   <GarageName>Warlingham Sainsburys</GarageName>
+   <Location id="L15">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>536476</Easting>
+   <Northing>158256</Northing>
+   <Longitude>-0.043457</Longitude>
+   <Latitude>51.307070</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>OCO</GarageCode>
+   <GarageName>Oxted, Council Offices</GarageName>
+   <Location id="L16">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>539638</Easting>
+   <Northing>152752</Northing>
+   <Longitude>-0.000274</Longitude>
+   <Latitude>51.256839</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>LWM</GarageCode>
+   <GarageName>Lingfield, War Memorial</GarageName>
+   <Location id="L17">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>538707</Easting>
+   <Northing>143561</Northing>
+   <Longitude>-0.017167</Longitude>
+   <Latitude>51.174472</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>HBS</GarageCode>
+   <GarageName>Horsham Bus Station</GarageName>
+   <Location id="L18">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>516934</Easting>
+   <Northing>130598</Northing>
+   <Longitude>-0.332669</Longitude>
+   <Latitude>51.062823</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>EGS</GarageCode>
+   <GarageName>East Grinstead Station</GarageName>
+   <Location id="L19">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>538859</Easting>
+   <Northing>138237</Northing>
+   <Longitude>-0.017050</Longitude>
+   <Latitude>51.126589</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>DS</GarageCode>
+   <GarageName>Dorking Station</GarageName>
+   <Location id="L20">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>517030</Easting>
+   <Northing>150395</Northing>
+   <Longitude>-0.324877</Longitude>
+   <Latitude>51.240742</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   <Garage>
+   <GarageCode>TMR</GarageCode>
+   <GarageName>Tunbridge Wells, Meadow Road</GarageName>
+   <Location id="L21">
+   <Translation>
+   <GridType>UKOS</GridType>
+   <Easting>558498</Easting>
+   <Northing>139844</Northing>
+   <Longitude>0.264096</Longitude>
+   <Latitude>51.135935</Latitude>
+   </Translation>
+   </Location>
+   </Garage>
+   </Garages>
+   </LicensedOperator>
+   </Operators>
+   <Services>
+   <Service>
+   <ServiceCode>SER51</ServiceCode>
+   <Lines>
+   <Line id="HaFZG_Ft">
+   <LineName>51</LineName>
+   </Line>
+   </Lines>
+   <OperatingPeriod>
+   <StartDate>2025-03-01</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </OperatingPeriod>
+   <ServiceClassification>
+   <NormalStopping/>
+   </ServiceClassification>
+   <RegisteredOperatorRef>MB</RegisteredOperatorRef>
+   <StopRequirements>
+   <NoNewStopsRequired/>
+   </StopRequirements>
+   <Description>Horsham Bus Station - Merryfield Drive, The Coot</Description>
+   <StandardService>
+   <Origin>Horsham Bus Station</Origin>
+   <Destination>Merryfield Drive, The Coot</Destination>
+   <UseAllStopPoints>true</UseAllStopPoints>
+   <JourneyPattern id="48934:1487:1901:240:123">
+   <DestinationDisplay>Merryfield Drive, The Coot</DestinationDisplay>
+   <Direction>inbound</Direction>
+   <Description>Horsham Bus Station - Merryfield Drive, The Coot</Description>
+   <RouteRef>48934</RouteRef>
+   <JourneyPatternSectionRefs>123</JourneyPatternSectionRefs>
+   </JourneyPattern>
+   <JourneyPattern id="49116:1901:1518:840:128">
+   <DestinationDisplay>Horsham Bus Station</DestinationDisplay>
+   <Direction>outbound</Direction>
+   <Description>Merryfield Drive, The Coot - Horsham Bus Station</Description>
+   <RouteRef>49116</RouteRef>
+   <JourneyPatternSectionRefs>128</JourneyPatternSectionRefs>
+   </JourneyPattern>
+   <JourneyPattern id="49116:1901:1518:900:127">
+   <DestinationDisplay>Horsham Bus Station</DestinationDisplay>
+   <Direction>outbound</Direction>
+   <Description>Merryfield Drive, The Coot - Horsham Bus Station</Description>
+   <RouteRef>49116</RouteRef>
+   <JourneyPatternSectionRefs>127</JourneyPatternSectionRefs>
+   </JourneyPattern>
+   </StandardService>
+   </Service>
+   </Services>
+   <VehicleJourneys>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>t/0000001</Description>
+   <BlockNumber>44</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>3</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Saturday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276417.44.t</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>10:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>t/0000001</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>7</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Saturday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276425.41.t</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>12:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>v/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>3</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <ServicedOrganisationDayType>
+   <DaysOfNonOperation>
+   <WorkingDays>
+   <ServicedOrganisationRef>Sch</ServicedOrganisationRef>
+   </WorkingDays>
+   </DaysOfNonOperation>
+   </ServicedOrganisationDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-18</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-26</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276434.41.v</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>10:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>w/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>3</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-04-07</StartDate>
+   <EndDate>2025-04-11</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-14</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-05</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276434.41.w</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>10:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>v/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>7</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <ServicedOrganisationDayType>
+   <DaysOfNonOperation>
+   <WorkingDays>
+   <ServicedOrganisationRef>Sch</ServicedOrganisationRef>
+   </WorkingDays>
+   </DaysOfNonOperation>
+   </ServicedOrganisationDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-18</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-26</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276442.41.v</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>12:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>w/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>7</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-04-07</StartDate>
+   <EndDate>2025-04-11</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-14</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-05</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>276442.41.w</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>48934:1487:1901:240:123</JourneyPatternRef>
+   <DepartureTime>12:52:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>t/0000001</Description>
+   <BlockNumber>44</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>2</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Saturday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502782.44.t</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:900:127</JourneyPatternRef>
+   <DepartureTime>09:31:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>t/0000001</Description>
+   <BlockNumber>44</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>4</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Saturday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502816.44.t</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>10:56:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="3">
+   <Operational>
+   <Block>
+   <Description>t/0000001</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>8</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Saturday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502850.41.t</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>12:56:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>v/0111110</Description>
+   <BlockNumber>43</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>2</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <ServicedOrganisationDayType>
+   <DaysOfNonOperation>
+   <WorkingDays>
+   <ServicedOrganisationRef>Sch</ServicedOrganisationRef>
+   </WorkingDays>
+   </DaysOfNonOperation>
+   </ServicedOrganisationDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-18</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-26</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502885.43.v</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:900:127</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>09:31:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="1">
+   <Operational>
+   <Block>
+   <Description>w/0111110</Description>
+   <BlockNumber>44</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>2</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-04-07</StartDate>
+   <EndDate>2025-04-11</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-14</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-05</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502885.44.w</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:900:127</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>09:31:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>v/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>4</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <ServicedOrganisationDayType>
+   <DaysOfNonOperation>
+   <WorkingDays>
+   <ServicedOrganisationRef>Sch</ServicedOrganisationRef>
+   </WorkingDays>
+   </DaysOfNonOperation>
+   </ServicedOrganisationDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-18</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-26</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502919.41.v</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <DepartureTime>10:56:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="2">
+   <Operational>
+   <Block>
+   <Description>w/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>4</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-04-07</StartDate>
+   <EndDate>2025-04-11</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-14</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-05</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502919.41.w</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <DepartureTime>10:56:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="3">
+   <Operational>
+   <Block>
+   <Description>v/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>8</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <ServicedOrganisationDayType>
+   <DaysOfNonOperation>
+   <WorkingDays>
+   <ServicedOrganisationRef>Sch</ServicedOrganisationRef>
+   </WorkingDays>
+   </DaysOfNonOperation>
+   </ServicedOrganisationDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-03-03</StartDate>
+   <EndDate>2025-03-07</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-10</StartDate>
+   <EndDate>2025-03-14</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-17</StartDate>
+   <EndDate>2025-03-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-24</StartDate>
+   <EndDate>2025-03-28</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-03-31</StartDate>
+   <EndDate>2025-04-04</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-18</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-25</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-28</StartDate>
+   <EndDate>2025-05-02</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-09</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-12</StartDate>
+   <EndDate>2025-05-16</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-19</StartDate>
+   <EndDate>2025-05-23</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-26</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502953.41.v</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>12:56:00</DepartureTime>
+   </VehicleJourney>
+   <VehicleJourney SequenceNumber="3">
+   <Operational>
+   <Block>
+   <Description>w/0111110</Description>
+   <BlockNumber>41</BlockNumber>
+   </Block>
+   <TicketMachine>
+   <TicketMachineServiceCode>51</TicketMachineServiceCode>
+   <JourneyCode>8</JourneyCode>
+   </TicketMachine>
+   </Operational>
+   <OperatingProfile>
+   <RegularDayType>
+   <DaysOfWeek>
+   <Monday/>
+   <Tuesday/>
+   <Wednesday/>
+   <Thursday/>
+   <Friday/>
+   </DaysOfWeek>
+   </RegularDayType>
+   <SpecialDaysOperation>
+   <DaysOfNonOperation>
+   <DateRange>
+   <StartDate>2025-04-07</StartDate>
+   <EndDate>2025-04-11</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-14</StartDate>
+   <EndDate>2025-04-18</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-04-21</StartDate>
+   <EndDate>2025-04-21</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-05</StartDate>
+   <EndDate>2025-05-05</EndDate>
+   </DateRange>
+   <DateRange>
+   <StartDate>2025-05-26</StartDate>
+   <EndDate>2025-05-30</EndDate>
+   </DateRange>
+   </DaysOfNonOperation>
+   </SpecialDaysOperation>
+   <BankHolidayOperation>
+   <DaysOfNonOperation>
+   <ChristmasDay/>
+   <BoxingDay/>
+   <GoodFriday/>
+   <NewYearsDay/>
+   <LateSummerBankHolidayNotScotland/>
+   <MayDay/>
+   <EasterMonday/>
+   <SpringBank/>
+   <ChristmasDayHoliday/>
+   <BoxingDayHoliday/>
+   <NewYearsDayHoliday/>
+   <ChristmasEve/>
+   <NewYearsEve/>
+   </DaysOfNonOperation>
+   </BankHolidayOperation>
+   </OperatingProfile>
+   <GarageRef>CY</GarageRef>
+   <VehicleJourneyCode>502953.41.w</VehicleJourneyCode>
+   <ServiceRef>SER51</ServiceRef>
+   <LineRef>HaFZG_Ft</LineRef>
+   <JourneyPatternRef>49116:1901:1518:840:128</JourneyPatternRef>
+   <EndDeadRun>
+   <PositioningLink>
+   <RunTime>PT0M0S</RunTime>
+   <From>
+   <StopPointRef>4400HO1132</StopPointRef>
+   </From>
+   <To>
+   <StopPointRef>4400HO1130</StopPointRef>
+   </To>
+   </PositioningLink>
+   </EndDeadRun>
+   <DepartureTime>12:56:00</DepartureTime>
+   </VehicleJourney>
+   </VehicleJourneys>
+</TransXChange>

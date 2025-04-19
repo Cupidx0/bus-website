@@ -1,0 +1,4806 @@
+{
+  "?xml": {
+    "version": "1.0",
+    "encoding": "UTF-8"
+  },
+  "TransXChange": {
+    "ServicedOrganisations": {
+      "ServicedOrganisation": {
+        "OrganisationCode": "Sch",
+        "Name": "AnySchool",
+        "WorkingDays": {
+          "DateRange": [
+            {
+              "StartDate": "2025-03-03",
+              "EndDate": "2025-03-07"
+            },
+            {
+              "StartDate": "2025-03-10",
+              "EndDate": "2025-03-14"
+            },
+            {
+              "StartDate": "2025-03-17",
+              "EndDate": "2025-03-21"
+            },
+            {
+              "StartDate": "2025-03-24",
+              "EndDate": "2025-03-28"
+            },
+            {
+              "StartDate": "2025-03-31",
+              "EndDate": "2025-04-04"
+            },
+            {
+              "StartDate": "2025-04-22",
+              "EndDate": "2025-04-25"
+            },
+            {
+              "StartDate": "2025-04-28",
+              "EndDate": "2025-05-02"
+            },
+            {
+              "StartDate": "2025-05-06",
+              "EndDate": "2025-05-09"
+            },
+            {
+              "StartDate": "2025-05-12",
+              "EndDate": "2025-05-16"
+            },
+            {
+              "StartDate": "2025-05-19",
+              "EndDate": "2025-05-23"
+            }
+          ]
+        }
+      }
+    },
+    "StopPoints": [
+      {
+        "AnnotatedStopPointRef": [
+          {
+            "StopPointRef": "4400HO1134",
+            "CommonName": "Horsham Bus Station",
+            "Location": {
+              "Longitude": -0.332797,
+              "Latitude": 51.062688
+            }
+          },
+          {
+            "StopPointRef": "4400HO0059",
+            "CommonName": "Horsham, Bishopric",
+            "Location": {
+              "Longitude": -0.333916,
+              "Latitude": 51.063998
+            }
+          },
+          {
+            "StopPointRef": "4400HO0058",
+            "CommonName": "Rushams Road",
+            "Location": {
+              "Longitude": -0.336645,
+              "Latitude": 51.064667
+            }
+          },
+          {
+            "StopPointRef": "4400HO0063",
+            "CommonName": "Merryfield Drive, The Coot",
+            "Location": {
+              "Longitude": -0.340843,
+              "Latitude": 51.067931
+            }
+          },
+          {
+            "StopPointRef": "4400HO1149",
+            "CommonName": "Bishopric",
+            "Location": {
+              "Longitude": -0.334117,
+              "Latitude": 51.064196
+            }
+          },
+          {
+            "StopPointRef": "4400HO0074",
+            "CommonName": "Blunts Way",
+            "Location": {
+              "Longitude": -0.331106,
+              "Latitude": 51.069632
+            }
+          },
+          {
+            "StopPointRef": "4400HO1142",
+            "CommonName": "Collingwood Road",
+            "Location": {
+              "Longitude": -0.329786,
+              "Latitude": 51.073914
+            }
+          },
+          {
+            "StopPointRef": "4400HO0065",
+            "CommonName": "Cootes Avenue",
+            "Location": {
+              "Longitude": -0.337696,
+              "Latitude": 51.071821
+            }
+          },
+          {
+            "StopPointRef": "4400HO0080",
+            "CommonName": "Farm Avenue",
+            "Location": {
+              "Longitude": -0.336552,
+              "Latitude": 51.068704
+            }
+          },
+          {
+            "StopPointRef": "4400HO0081",
+            "CommonName": "Greenway Academy",
+            "Location": {
+              "Longitude": -0.338711,
+              "Latitude": 51.069526
+            }
+          },
+          {
+            "StopPointRef": "4400HO1130",
+            "CommonName": "Horsham Bus Station",
+            "LocalityName": "Horsham",
+            "Location": {
+              "Longitude": -0.332683,
+              "Latitude": 51.062832
+            }
+          },
+          {
+            "StopPointRef": "4400HO1132",
+            "CommonName": "Horsham Bus Station",
+            "LocalityName": "Horsham",
+            "Location": {
+              "Longitude": -0.33274,
+              "Latitude": 51.06276
+            }
+          },
+          {
+            "StopPointRef": "4400HO0062",
+            "CommonName": "Merryfield Drive, The Coot",
+            "Location": {
+              "Longitude": -0.34074,
+              "Latitude": 51.067338
+            }
+          },
+          {
+            "StopPointRef": "4400HO0056",
+            "CommonName": "Merryfield Drive",
+            "Location": {
+              "Longitude": -0.340945,
+              "Latitude": 51.06571
+            }
+          },
+          {
+            "StopPointRef": "4400HO0071",
+            "CommonName": "Percy Road",
+            "Location": {
+              "Longitude": -0.333255,
+              "Latitude": 51.068486
+            }
+          },
+          {
+            "StopPointRef": "4400HO0070",
+            "CommonName": "Redford Avenue, Saxon Crescent",
+            "Location": {
+              "Longitude": -0.333522,
+              "Latitude": 51.076001
+            }
+          },
+          {
+            "StopPointRef": "4400HO0057",
+            "CommonName": "Rushams Road",
+            "Location": {
+              "Longitude": -0.336946,
+              "Latitude": 51.064954
+            }
+          },
+          {
+            "StopPointRef": "4400HO0067",
+            "CommonName": "Spencers Place",
+            "Location": {
+              "Longitude": -0.336977,
+              "Latitude": 51.073612
+            }
+          },
+          {
+            "StopPointRef": "4400HO0087",
+            "CommonName": "Swindon Road",
+            "Location": {
+              "Longitude": -0.330961,
+              "Latitude": 51.072051
+            }
+          },
+          {
+            "StopPointRef": "4400HO0075",
+            "CommonName": "The Dog & Bacon",
+            "Location": {
+              "Longitude": -0.329394,
+              "Latitude": 51.075317
+            }
+          },
+          {
+            "StopPointRef": "4400HO0078",
+            "CommonName": "Vale Drive",
+            "Location": {
+              "Longitude": -0.334037,
+              "Latitude": 51.06799
+            }
+          }
+        ]
+      }
+    ],
+    "RouteSections": [
+      {
+        "RouteSection": [
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "4400HO1134"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0059"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.332825,
+                        "Latitude": 51.062697
+                      },
+                      {
+                        "Longitude": -0.332627,
+                        "Latitude": 51.062922
+                      },
+                      {
+                        "Longitude": -0.332241,
+                        "Latitude": 51.062824
+                      },
+                      {
+                        "Longitude": -0.332341,
+                        "Latitude": 51.062797
+                      },
+                      {
+                        "Longitude": -0.332426,
+                        "Latitude": 51.062752
+                      },
+                      {
+                        "Longitude": -0.332526,
+                        "Latitude": 51.06267
+                      },
+                      {
+                        "Longitude": -0.332568,
+                        "Latitude": 51.062643
+                      },
+                      {
+                        "Longitude": -0.332682,
+                        "Latitude": 51.062544
+                      },
+                      {
+                        "Longitude": -0.332753,
+                        "Latitude": 51.062526
+                      },
+                      {
+                        "Longitude": -0.33281,
+                        "Latitude": 51.062508
+                      },
+                      {
+                        "Longitude": -0.332839,
+                        "Latitude": 51.062499
+                      },
+                      {
+                        "Longitude": -0.332981,
+                        "Latitude": 51.062517
+                      },
+                      {
+                        "Longitude": -0.333181,
+                        "Latitude": 51.06248
+                      },
+                      {
+                        "Longitude": -0.333736,
+                        "Latitude": 51.062174
+                      },
+                      {
+                        "Longitude": -0.334005,
+                        "Latitude": 51.061849
+                      },
+                      {
+                        "Longitude": -0.334261,
+                        "Latitude": 51.061633
+                      },
+                      {
+                        "Longitude": -0.334218,
+                        "Latitude": 51.061561
+                      },
+                      {
+                        "Longitude": -0.334218,
+                        "Latitude": 51.061552
+                      },
+                      {
+                        "Longitude": -0.334217,
+                        "Latitude": 51.061507
+                      },
+                      {
+                        "Longitude": -0.334246,
+                        "Latitude": 51.061462
+                      },
+                      {
+                        "Longitude": -0.334288,
+                        "Latitude": 51.061426
+                      },
+                      {
+                        "Longitude": -0.334388,
+                        "Latitude": 51.061408
+                      },
+                      {
+                        "Longitude": -0.334531,
+                        "Latitude": 51.061426
+                      },
+                      {
+                        "Longitude": -0.334603,
+                        "Latitude": 51.061488
+                      },
+                      {
+                        "Longitude": -0.334632,
+                        "Latitude": 51.06156
+                      },
+                      {
+                        "Longitude": -0.334617,
+                        "Latitude": 51.061605
+                      },
+                      {
+                        "Longitude": -0.334876,
+                        "Latitude": 51.061946
+                      },
+                      {
+                        "Longitude": -0.334934,
+                        "Latitude": 51.062108
+                      },
+                      {
+                        "Longitude": -0.334921,
+                        "Latitude": 51.062306
+                      },
+                      {
+                        "Longitude": -0.33495,
+                        "Latitude": 51.062396
+                      },
+                      {
+                        "Longitude": -0.334864,
+                        "Latitude": 51.062459
+                      },
+                      {
+                        "Longitude": -0.334537,
+                        "Latitude": 51.062648
+                      },
+                      {
+                        "Longitude": -0.334125,
+                        "Latitude": 51.062955
+                      },
+                      {
+                        "Longitude": -0.334082,
+                        "Latitude": 51.062991
+                      },
+                      {
+                        "Longitude": -0.333699,
+                        "Latitude": 51.063414
+                      },
+                      {
+                        "Longitude": -0.333543,
+                        "Latitude": 51.063594
+                      },
+                      {
+                        "Longitude": -0.333288,
+                        "Latitude": 51.063865
+                      },
+                      {
+                        "Longitude": -0.333388,
+                        "Latitude": 51.063891
+                      },
+                      {
+                        "Longitude": -0.333488,
+                        "Latitude": 51.063891
+                      },
+                      {
+                        "Longitude": -0.333845,
+                        "Latitude": 51.064016
+                      },
+                      {
+                        "Longitude": -0.333874,
+                        "Latitude": 51.064025
+                      }
+                    ]
+                  }
+                },
+                "id": "i51_1_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0059"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0058"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.333874,
+                        "Latitude": 51.064025
+                      },
+                      {
+                        "Longitude": -0.333917,
+                        "Latitude": 51.064079
+                      },
+                      {
+                        "Longitude": -0.334003,
+                        "Latitude": 51.064115
+                      },
+                      {
+                        "Longitude": -0.334889,
+                        "Latitude": 51.064383
+                      },
+                      {
+                        "Longitude": -0.334946,
+                        "Latitude": 51.064401
+                      },
+                      {
+                        "Longitude": -0.335832,
+                        "Latitude": 51.064633
+                      },
+                      {
+                        "Longitude": -0.336631,
+                        "Latitude": 51.064766
+                      }
+                    ]
+                  }
+                },
+                "id": "i51_1_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0058"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0063"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.336631,
+                        "Latitude": 51.064766
+                      },
+                      {
+                        "Longitude": -0.337203,
+                        "Latitude": 51.064962
+                      },
+                      {
+                        "Longitude": -0.337775,
+                        "Latitude": 51.065168
+                      },
+                      {
+                        "Longitude": -0.338261,
+                        "Latitude": 51.065293
+                      },
+                      {
+                        "Longitude": -0.339774,
+                        "Latitude": 51.065523
+                      },
+                      {
+                        "Longitude": -0.340288,
+                        "Latitude": 51.065594
+                      },
+                      {
+                        "Longitude": -0.341216,
+                        "Latitude": 51.065664
+                      },
+                      {
+                        "Longitude": -0.341104,
+                        "Latitude": 51.065979
+                      },
+                      {
+                        "Longitude": -0.34109,
+                        "Latitude": 51.066051
+                      },
+                      {
+                        "Longitude": -0.341048,
+                        "Latitude": 51.066195
+                      },
+                      {
+                        "Longitude": -0.340893,
+                        "Latitude": 51.066645
+                      },
+                      {
+                        "Longitude": -0.340796,
+                        "Latitude": 51.067086
+                      },
+                      {
+                        "Longitude": -0.340839,
+                        "Latitude": 51.067283
+                      },
+                      {
+                        "Longitude": -0.340869,
+                        "Latitude": 51.067553
+                      },
+                      {
+                        "Longitude": -0.340842,
+                        "Latitude": 51.067787
+                      },
+                      {
+                        "Longitude": -0.340786,
+                        "Latitude": 51.067922
+                      }
+                    ]
+                  }
+                },
+                "id": "i51_1_3"
+              }
+            ],
+            "id": "bQN_baZP"
+          },
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "4400HO0063"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0081"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.340786,
+                        "Latitude": 51.067922
+                      },
+                      {
+                        "Longitude": -0.340645,
+                        "Latitude": 51.068219
+                      },
+                      {
+                        "Longitude": -0.340361,
+                        "Latitude": 51.068615
+                      },
+                      {
+                        "Longitude": -0.340149,
+                        "Latitude": 51.06893
+                      },
+                      {
+                        "Longitude": -0.339696,
+                        "Latitude": 51.069551
+                      },
+                      {
+                        "Longitude": -0.339568,
+                        "Latitude": 51.069713
+                      },
+                      {
+                        "Longitude": -0.338753,
+                        "Latitude": 51.069463
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0081"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0080"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.338753,
+                        "Latitude": 51.069463
+                      },
+                      {
+                        "Longitude": -0.337367,
+                        "Latitude": 51.069035
+                      },
+                      {
+                        "Longitude": -0.336738,
+                        "Latitude": 51.06873
+                      },
+                      {
+                        "Longitude": -0.336609,
+                        "Latitude": 51.068659
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0080"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0078"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.336609,
+                        "Latitude": 51.068659
+                      },
+                      {
+                        "Longitude": -0.336523,
+                        "Latitude": 51.068623
+                      },
+                      {
+                        "Longitude": -0.336123,
+                        "Latitude": 51.068435
+                      },
+                      {
+                        "Longitude": -0.335851,
+                        "Latitude": 51.068337
+                      },
+                      {
+                        "Longitude": -0.335551,
+                        "Latitude": 51.06822
+                      },
+                      {
+                        "Longitude": -0.334893,
+                        "Latitude": 51.068015
+                      },
+                      {
+                        "Longitude": -0.334051,
+                        "Latitude": 51.067927
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0078"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0071"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.334051,
+                        "Latitude": 51.067927
+                      },
+                      {
+                        "Longitude": -0.33378,
+                        "Latitude": 51.0679
+                      },
+                      {
+                        "Longitude": -0.333169,
+                        "Latitude": 51.06845
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0071"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0074"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.333169,
+                        "Latitude": 51.06845
+                      },
+                      {
+                        "Longitude": -0.332856,
+                        "Latitude": 51.068729
+                      },
+                      {
+                        "Longitude": -0.33226,
+                        "Latitude": 51.069243
+                      },
+                      {
+                        "Longitude": -0.332061,
+                        "Latitude": 51.069396
+                      },
+                      {
+                        "Longitude": -0.332004,
+                        "Latitude": 51.069414
+                      },
+                      {
+                        "Longitude": -0.331861,
+                        "Latitude": 51.06946
+                      },
+                      {
+                        "Longitude": -0.331077,
+                        "Latitude": 51.069578
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0074"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0087"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.331077,
+                        "Latitude": 51.069578
+                      },
+                      {
+                        "Longitude": -0.330635,
+                        "Latitude": 51.069615
+                      },
+                      {
+                        "Longitude": -0.330036,
+                        "Latitude": 51.069616
+                      },
+                      {
+                        "Longitude": -0.33005,
+                        "Latitude": 51.069715
+                      },
+                      {
+                        "Longitude": -0.330539,
+                        "Latitude": 51.070442
+                      },
+                      {
+                        "Longitude": -0.330626,
+                        "Latitude": 51.070658
+                      },
+                      {
+                        "Longitude": -0.330857,
+                        "Latitude": 51.071179
+                      },
+                      {
+                        "Longitude": -0.331002,
+                        "Latitude": 51.071637
+                      },
+                      {
+                        "Longitude": -0.330861,
+                        "Latitude": 51.072033
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0087"
+                },
+                "To": {
+                  "StopPointRef": "4400HO1142"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.330861,
+                        "Latitude": 51.072033
+                      },
+                      {
+                        "Longitude": -0.330721,
+                        "Latitude": 51.07242
+                      },
+                      {
+                        "Longitude": -0.330664,
+                        "Latitude": 51.072528
+                      },
+                      {
+                        "Longitude": -0.330182,
+                        "Latitude": 51.073239
+                      },
+                      {
+                        "Longitude": -0.329927,
+                        "Latitude": 51.073626
+                      },
+                      {
+                        "Longitude": -0.329871,
+                        "Latitude": 51.073725
+                      },
+                      {
+                        "Longitude": -0.329729,
+                        "Latitude": 51.073896
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO1142"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0075"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.329729,
+                        "Latitude": 51.073896
+                      },
+                      {
+                        "Longitude": -0.329573,
+                        "Latitude": 51.074067
+                      },
+                      {
+                        "Longitude": -0.328948,
+                        "Latitude": 51.074671
+                      },
+                      {
+                        "Longitude": -0.329063,
+                        "Latitude": 51.074806
+                      },
+                      {
+                        "Longitude": -0.32912,
+                        "Latitude": 51.074877
+                      },
+                      {
+                        "Longitude": -0.329135,
+                        "Latitude": 51.074922
+                      },
+                      {
+                        "Longitude": -0.32915,
+                        "Latitude": 51.075012
+                      },
+                      {
+                        "Longitude": -0.32915,
+                        "Latitude": 51.075129
+                      },
+                      {
+                        "Longitude": -0.329136,
+                        "Latitude": 51.075174
+                      },
+                      {
+                        "Longitude": -0.329108,
+                        "Latitude": 51.075282
+                      },
+                      {
+                        "Longitude": -0.329237,
+                        "Latitude": 51.07539
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0075"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0070"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.329237,
+                        "Latitude": 51.07539
+                      },
+                      {
+                        "Longitude": -0.329896,
+                        "Latitude": 51.075919
+                      },
+                      {
+                        "Longitude": -0.330641,
+                        "Latitude": 51.076511
+                      },
+                      {
+                        "Longitude": -0.331401,
+                        "Latitude": 51.077049
+                      },
+                      {
+                        "Longitude": -0.332382,
+                        "Latitude": 51.076453
+                      },
+                      {
+                        "Longitude": -0.332738,
+                        "Latitude": 51.076282
+                      },
+                      {
+                        "Longitude": -0.333322,
+                        "Latitude": 51.07611
+                      },
+                      {
+                        "Longitude": -0.333551,
+                        "Latitude": 51.076082
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0070"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0067"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.333551,
+                        "Latitude": 51.076082
+                      },
+                      {
+                        "Longitude": -0.333793,
+                        "Latitude": 51.076046
+                      },
+                      {
+                        "Longitude": -0.334449,
+                        "Latitude": 51.076017
+                      },
+                      {
+                        "Longitude": -0.334849,
+                        "Latitude": 51.075963
+                      },
+                      {
+                        "Longitude": -0.335362,
+                        "Latitude": 51.075854
+                      },
+                      {
+                        "Longitude": -0.335547,
+                        "Latitude": 51.07579
+                      },
+                      {
+                        "Longitude": -0.335761,
+                        "Latitude": 51.075718
+                      },
+                      {
+                        "Longitude": -0.336074,
+                        "Latitude": 51.075556
+                      },
+                      {
+                        "Longitude": -0.336472,
+                        "Latitude": 51.075249
+                      },
+                      {
+                        "Longitude": -0.336798,
+                        "Latitude": 51.074853
+                      },
+                      {
+                        "Longitude": -0.33684,
+                        "Latitude": 51.074727
+                      },
+                      {
+                        "Longitude": -0.336897,
+                        "Latitude": 51.074574
+                      },
+                      {
+                        "Longitude": -0.33698,
+                        "Latitude": 51.074142
+                      },
+                      {
+                        "Longitude": -0.337022,
+                        "Latitude": 51.073944
+                      },
+                      {
+                        "Longitude": -0.337091,
+                        "Latitude": 51.073629
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_10"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0067"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0065"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.337091,
+                        "Latitude": 51.073629
+                      },
+                      {
+                        "Longitude": -0.337331,
+                        "Latitude": 51.072964
+                      },
+                      {
+                        "Longitude": -0.337796,
+                        "Latitude": 51.071839
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_11"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0065"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0062"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.337796,
+                        "Latitude": 51.071839
+                      },
+                      {
+                        "Longitude": -0.337852,
+                        "Latitude": 51.071695
+                      },
+                      {
+                        "Longitude": -0.33805,
+                        "Latitude": 51.071434
+                      },
+                      {
+                        "Longitude": -0.338064,
+                        "Latitude": 51.071398
+                      },
+                      {
+                        "Longitude": -0.338562,
+                        "Latitude": 51.070965
+                      },
+                      {
+                        "Longitude": -0.339029,
+                        "Latitude": 51.07038
+                      },
+                      {
+                        "Longitude": -0.339568,
+                        "Latitude": 51.069713
+                      },
+                      {
+                        "Longitude": -0.339696,
+                        "Latitude": 51.069551
+                      },
+                      {
+                        "Longitude": -0.340149,
+                        "Latitude": 51.06893
+                      },
+                      {
+                        "Longitude": -0.340361,
+                        "Latitude": 51.068615
+                      },
+                      {
+                        "Longitude": -0.340645,
+                        "Latitude": 51.068219
+                      },
+                      {
+                        "Longitude": -0.340842,
+                        "Latitude": 51.067787
+                      },
+                      {
+                        "Longitude": -0.340869,
+                        "Latitude": 51.067553
+                      },
+                      {
+                        "Longitude": -0.34084,
+                        "Latitude": 51.067337
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_12"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0062"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0056"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.34084,
+                        "Latitude": 51.067337
+                      },
+                      {
+                        "Longitude": -0.340839,
+                        "Latitude": 51.067283
+                      },
+                      {
+                        "Longitude": -0.340796,
+                        "Latitude": 51.067086
+                      },
+                      {
+                        "Longitude": -0.340893,
+                        "Latitude": 51.066645
+                      },
+                      {
+                        "Longitude": -0.341048,
+                        "Latitude": 51.066195
+                      },
+                      {
+                        "Longitude": -0.34109,
+                        "Latitude": 51.066051
+                      },
+                      {
+                        "Longitude": -0.341104,
+                        "Latitude": 51.065979
+                      },
+                      {
+                        "Longitude": -0.341216,
+                        "Latitude": 51.065664
+                      },
+                      {
+                        "Longitude": -0.340959,
+                        "Latitude": 51.065647
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_13"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0056"
+                },
+                "To": {
+                  "StopPointRef": "4400HO0057"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.340959,
+                        "Latitude": 51.065647
+                      },
+                      {
+                        "Longitude": -0.340288,
+                        "Latitude": 51.065594
+                      },
+                      {
+                        "Longitude": -0.339774,
+                        "Latitude": 51.065523
+                      },
+                      {
+                        "Longitude": -0.338261,
+                        "Latitude": 51.065293
+                      },
+                      {
+                        "Longitude": -0.337775,
+                        "Latitude": 51.065168
+                      },
+                      {
+                        "Longitude": -0.337203,
+                        "Latitude": 51.064962
+                      },
+                      {
+                        "Longitude": -0.337003,
+                        "Latitude": 51.064891
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_14"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO0057"
+                },
+                "To": {
+                  "StopPointRef": "4400HO1149"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.337003,
+                        "Latitude": 51.064891
+                      },
+                      {
+                        "Longitude": -0.336631,
+                        "Latitude": 51.064766
+                      },
+                      {
+                        "Longitude": -0.335832,
+                        "Latitude": 51.064633
+                      },
+                      {
+                        "Longitude": -0.334946,
+                        "Latitude": 51.064401
+                      },
+                      {
+                        "Longitude": -0.334889,
+                        "Latitude": 51.064383
+                      },
+                      {
+                        "Longitude": -0.334146,
+                        "Latitude": 51.06416
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_15"
+              },
+              {
+                "From": {
+                  "StopPointRef": "4400HO1149"
+                },
+                "To": {
+                  "StopPointRef": "4400HO1132"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": -0.334146,
+                        "Latitude": 51.06416
+                      },
+                      {
+                        "Longitude": -0.334003,
+                        "Latitude": 51.064115
+                      },
+                      {
+                        "Longitude": -0.333917,
+                        "Latitude": 51.064079
+                      },
+                      {
+                        "Longitude": -0.333831,
+                        "Latitude": 51.064079
+                      },
+                      {
+                        "Longitude": -0.333803,
+                        "Latitude": 51.06407
+                      },
+                      {
+                        "Longitude": -0.33346,
+                        "Latitude": 51.063954
+                      },
+                      {
+                        "Longitude": -0.333388,
+                        "Latitude": 51.063891
+                      },
+                      {
+                        "Longitude": -0.333288,
+                        "Latitude": 51.063865
+                      },
+                      {
+                        "Longitude": -0.333145,
+                        "Latitude": 51.063811
+                      },
+                      {
+                        "Longitude": -0.333415,
+                        "Latitude": 51.063541
+                      },
+                      {
+                        "Longitude": -0.333642,
+                        "Latitude": 51.063307
+                      },
+                      {
+                        "Longitude": -0.333926,
+                        "Latitude": 51.063
+                      },
+                      {
+                        "Longitude": -0.334565,
+                        "Latitude": 51.062531
+                      },
+                      {
+                        "Longitude": -0.33465,
+                        "Latitude": 51.062396
+                      },
+                      {
+                        "Longitude": -0.33465,
+                        "Latitude": 51.062334
+                      },
+                      {
+                        "Longitude": -0.334735,
+                        "Latitude": 51.062279
+                      },
+                      {
+                        "Longitude": -0.334806,
+                        "Latitude": 51.062099
+                      },
+                      {
+                        "Longitude": -0.334762,
+                        "Latitude": 51.061965
+                      },
+                      {
+                        "Longitude": -0.334647,
+                        "Latitude": 51.061812
+                      },
+                      {
+                        "Longitude": -0.33439,
+                        "Latitude": 51.061669
+                      },
+                      {
+                        "Longitude": -0.334361,
+                        "Latitude": 51.061669
+                      },
+                      {
+                        "Longitude": -0.334261,
+                        "Latitude": 51.061633
+                      },
+                      {
+                        "Longitude": -0.334005,
+                        "Latitude": 51.061849
+                      },
+                      {
+                        "Longitude": -0.333736,
+                        "Latitude": 51.062174
+                      },
+                      {
+                        "Longitude": -0.333181,
+                        "Latitude": 51.06248
+                      },
+                      {
+                        "Longitude": -0.332981,
+                        "Latitude": 51.062517
+                      },
+                      {
+                        "Longitude": -0.332769,
+                        "Latitude": 51.062769
+                      }
+                    ]
+                  }
+                },
+                "id": "o51_3_16"
+              }
+            ],
+            "id": "Xj4-UwrD"
+          }
+        ]
+      }
+    ],
+    "Routes": [
+      {
+        "Route": [
+          {
+            "PrivateCode": "i51_1",
+            "Description": "Horsham Bus Station - Merryfield Drive, The Coot",
+            "RouteSectionRef": "bQN_baZP",
+            "id": "48934"
+          },
+          {
+            "PrivateCode": "o51_3",
+            "Description": "Merryfield Drive, The Coot - Horsham Bus Station",
+            "RouteSectionRef": "Xj4-UwrD",
+            "id": "49116"
+          }
+        ]
+      }
+    ],
+    "JourneyPatternSections": {
+      "JourneyPatternSection": [
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO1134",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "i51_1_1",
+              "RunTime": "PT1M0S",
+              "id": "h1r12FNs"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i51_1_2",
+              "RunTime": "PT1M0S",
+              "id": "k.FNPAKA"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i51_1_3",
+              "RunTime": "PT2M0S",
+              "id": "SFl-SJ24"
+            }
+          ],
+          "id": "123"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO1134",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "i51_1_1",
+              "RunTime": "PT1M0S",
+              "id": "zQS2k-B4"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i51_1_2",
+              "RunTime": "PT1M0S",
+              "id": "WLmkWYo:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i51_1_3",
+              "RunTime": "PT2M0S",
+              "id": "rVB4SJMS"
+            }
+          ],
+          "id": "124"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO1134",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "i51_1_1",
+              "RunTime": "PT1M0S",
+              "id": "ACp_Kjqt"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i51_1_2",
+              "RunTime": "PT1M0S",
+              "id": "WxNI_i44"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i51_1_3",
+              "RunTime": "PT2M0S",
+              "id": "GFjOp3NK"
+            }
+          ],
+          "id": "125"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO1134",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "i51_1_1",
+              "RunTime": "PT1M0S",
+              "id": "nKcX21bk"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0059",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i51_1_2",
+              "RunTime": "PT1M0S",
+              "id": "ifhbP-dF"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "The Common",
+                "StopPointRef": "4400HO0058",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i51_1_3",
+              "RunTime": "PT2M0S",
+              "id": "Uq87lsgZ"
+            }
+          ],
+          "id": "126"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT1M0S",
+              "id": "cwpUzy8h"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT0M0S",
+              "id": "f2DVWsxQ"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "Uz_Lxw9I"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "coOComp5"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "oVif3:F."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "YGrzBObb"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT1M0S",
+              "id": "CRm_EIML"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "F8hh.PKX"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "On_MbVrl"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "KED9CiUh"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "m66x9q.:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "HPBHL2LP"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "FWagzKs1"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "eshdXEqo"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "zLmlmtZ."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "clmJOcfm"
+            }
+          ],
+          "id": "127"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT0M0S",
+              "id": "rdXSE-Ug"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT1M0S",
+              "id": "EZ-Ev_fw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "RB_3ElkL"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "rZOd7fJ-"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "U-xl-LNR"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "slU3YFig"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT0M0S",
+              "id": "lsgOgyvG"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "atda-Uuw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "gs_Zc1gu"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "d9rb11x6"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "QidLanSg"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "UlfXscXw"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "vu:uBf:F"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "RqrRVgVd"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "AHy6BQN-"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "Ri6:XGwv"
+            }
+          ],
+          "id": "128"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT0M0S",
+              "id": "WpV7IQBo"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT1M0S",
+              "id": "Wru0poYe"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "d:17x_hU"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "zRaETk07"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "UszR4ykl"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "MjWYIxFs"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT0M0S",
+              "id": "H1sIhyFE"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "DcGJjWNa"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "CRGG9P8r"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "pmaZeCj8"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "oKIoRdhd"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "YkosKl41"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "f1p3E3zY"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "pgd.io.V"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "DuGrd3Sl"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "BE9IXL5j"
+            }
+          ],
+          "id": "129"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT1M0S",
+              "id": "y4puby0o"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT0M0S",
+              "id": "FM.H3gzc"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "sD.rmd.R"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "DvEaE.yY"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "SUxbm1fV"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "ba0Dfc25"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT1M0S",
+              "id": "C-WYuc8-"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "dvXOZ.K6"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "fKCiopoR"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "ZMPUJKq_"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "aTfzJ5sK"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "NerBdQa5"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "gQOsmcI1"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "hSlA-u6y"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "KHZi_hJI"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "FAKsOODv"
+            }
+          ],
+          "id": "130"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT0M0S",
+              "id": "UnckIdaH"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT1M0S",
+              "id": "VePpZEoW"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "G0l4zjaG"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "wEDrqaK9"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "ApTwqw7E"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "luPS157M"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT0M0S",
+              "id": "iLSIaGLq"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "Sy7M5oPc"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "X.ZNY7hn"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "TSXOUjR9"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "qnm.nwKp"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "p_yumqR."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "TbE8K.8:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "nvqD:VZU"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "kO4w1euS"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "tNIZpYVh"
+            }
+          ],
+          "id": "131"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0063",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o51_3_1",
+              "RunTime": "PT0M0S",
+              "id": "VIv0IU9V"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0081",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o51_3_2",
+              "RunTime": "PT1M0S",
+              "id": "HykGq6tS"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0080",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o51_3_3",
+              "RunTime": "PT1M0S",
+              "id": "uAF2CBq9"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0078",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o51_3_4",
+              "RunTime": "PT0M0S",
+              "id": "vdiArYNn"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0071",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o51_3_5",
+              "RunTime": "PT1M0S",
+              "id": "pIU_AsvD"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0074",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o51_3_6",
+              "RunTime": "PT1M0S",
+              "id": "Q.gY8xLi"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0087",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o51_3_7",
+              "RunTime": "PT0M0S",
+              "id": "MGpRpjYx"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1142",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o51_3_8",
+              "RunTime": "PT1M0S",
+              "id": "oU6yA7ot"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0075",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o51_3_9",
+              "RunTime": "PT2M0S",
+              "id": "RHeTWU-t"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0070",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o51_3_10",
+              "RunTime": "PT0M0S",
+              "id": "vo85wTJD"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0067",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "o51_3_11",
+              "RunTime": "PT1M0S",
+              "id": "S84KOY9Q"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0065",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "o51_3_12",
+              "RunTime": "PT1M0S",
+              "id": "m51f0egi"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0062",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "o51_3_13",
+              "RunTime": "PT0M0S",
+              "id": "lapWbIDj"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0056",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "14"
+              },
+              "To": {
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "RouteLinkRef": "o51_3_14",
+              "RunTime": "PT1M0S",
+              "id": "x:9YSpLK"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO0057",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "15"
+              },
+              "To": {
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "RouteLinkRef": "o51_3_15",
+              "RunTime": "PT1M0S",
+              "id": "geBTlnow"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "4400HO1149",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "16"
+              },
+              "To": {
+                "StopPointRef": "4400HO1132",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "17"
+              },
+              "RouteLinkRef": "o51_3_16",
+              "RunTime": "PT3M0S",
+              "id": "rgVy:q2Z"
+            }
+          ],
+          "id": "132"
+        }
+      ]
+    },
+    "Operators": [
+      {
+        "LicensedOperator": {
+          "OperatorCode": "MB",
+          "OperatorShortName": "Metrobus",
+          "OperatorNameOnLicence": "Metrobus",
+          "LicenceNumber": "PK0001213",
+          "LicenceClassification": "standardNational",
+          "EnquiryTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "ContactTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "OperatorAddresses": {
+            "CorrespondenceAddress": {
+              "apd:Line": [
+                "Wheatstone Close",
+                "Crawley",
+                "West Sussex",
+                "RH10 9UA"
+              ]
+            }
+          },
+          "EmailAddress": "info@metrobus.co.uk",
+          "Garages": {
+            "Garage": [
+              {
+                "GarageCode": "CY",
+                "GarageName": "Crawley Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528686,
+                    "Northing": 139187,
+                    "Longitude": -0.161995,
+                    "Latitude": 51.137504
+                  },
+                  "id": "L1"
+                }
+              },
+              {
+                "GarageCode": "TLR",
+                "GarageName": "Tunbridge Wells, London Road A26 stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558171,
+                    "Northing": 139559,
+                    "Longitude": 0.25929,
+                    "Latitude": 51.133468
+                  },
+                  "id": "L2"
+                }
+              },
+              {
+                "GarageCode": "TWY",
+                "GarageName": "Tunbridge Wells, Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 557939,
+                    "Northing": 138477,
+                    "Longitude": 0.255514,
+                    "Latitude": 51.123806
+                  },
+                  "id": "L3"
+                }
+              },
+              {
+                "GarageCode": "HHH",
+                "GarageName": "Haywards Heath, Prin Roy Hosp",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 534059,
+                    "Northing": 123162,
+                    "Longitude": -0.091175,
+                    "Latitude": 50.992254
+                  },
+                  "id": "L4"
+                }
+              },
+              {
+                "GarageCode": "RMW",
+                "GarageName": "Redhill, Marketfield Way",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528018,
+                    "Northing": 150493,
+                    "Longitude": -0.16751,
+                    "Latitude": 51.239263
+                  },
+                  "id": "L5"
+                }
+              },
+              {
+                "GarageCode": "RPS",
+                "GarageName": "Redhill, Prezzo Stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527983,
+                    "Northing": 150810,
+                    "Longitude": -0.167901,
+                    "Latitude": 51.242122
+                  },
+                  "id": "L6"
+                }
+              },
+              {
+                "GarageCode": "CBS",
+                "GarageName": "Crawley Bus Stn layover",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527023,
+                    "Northing": 136449,
+                    "Longitude": -0.186713,
+                    "Latitude": 51.113267
+                  },
+                  "id": "L7"
+                }
+              },
+              {
+                "GarageCode": "EPS",
+                "GarageName": "Epsom Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 520697,
+                    "Northing": 160871,
+                    "Longitude": -0.268824,
+                    "Latitude": 51.334133
+                  },
+                  "id": "L8"
+                }
+              },
+              {
+                "GarageCode": "MR",
+                "GarageName": "Gatwick Road North, Northbound Stop",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528501,
+                    "Northing": 139279,
+                    "Longitude": -0.164611,
+                    "Latitude": 51.138374
+                  },
+                  "id": "L9"
+                }
+              },
+              {
+                "GarageCode": "CP",
+                "GarageName": "Copthorne Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 533712,
+                    "Northing": 139410,
+                    "Longitude": -0.090113,
+                    "Latitude": 51.138358
+                  },
+                  "id": "L10"
+                }
+              },
+              {
+                "GarageCode": "OSW",
+                "GarageName": "Oxted, Station Road West",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539296,
+                    "Northing": 152868,
+                    "Longitude": -0.005129,
+                    "Latitude": 51.257967
+                  },
+                  "id": "L11"
+                }
+              },
+              {
+                "GarageCode": "RRC",
+                "GarageName": "Reigate, Red Cross",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 525074,
+                    "Northing": 150341,
+                    "Longitude": -0.209716,
+                    "Latitude": 51.238547
+                  },
+                  "id": "L12"
+                }
+              },
+              {
+                "GarageCode": "WHR",
+                "GarageName": "Westerham, Hartley Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 544807,
+                    "Northing": 154860,
+                    "Longitude": 0.074598,
+                    "Latitude": 51.274491
+                  },
+                  "id": "L13"
+                }
+              },
+              {
+                "GarageCode": "EGK",
+                "GarageName": "East Grinstead, King Street",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539417,
+                    "Northing": 138275,
+                    "Longitude": -0.009063,
+                    "Latitude": 51.126799
+                  },
+                  "id": "L14"
+                }
+              },
+              {
+                "GarageCode": "WMS",
+                "GarageName": "Warlingham Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 536476,
+                    "Northing": 158256,
+                    "Longitude": -0.043457,
+                    "Latitude": 51.30707
+                  },
+                  "id": "L15"
+                }
+              },
+              {
+                "GarageCode": "OCO",
+                "GarageName": "Oxted, Council Offices",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539638,
+                    "Northing": 152752,
+                    "Longitude": -0.000274,
+                    "Latitude": 51.256839
+                  },
+                  "id": "L16"
+                }
+              },
+              {
+                "GarageCode": "LWM",
+                "GarageName": "Lingfield, War Memorial",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538707,
+                    "Northing": 143561,
+                    "Longitude": -0.017167,
+                    "Latitude": 51.174472
+                  },
+                  "id": "L17"
+                }
+              },
+              {
+                "GarageCode": "HBS",
+                "GarageName": "Horsham Bus Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 516934,
+                    "Northing": 130598,
+                    "Longitude": -0.332669,
+                    "Latitude": 51.062823
+                  },
+                  "id": "L18"
+                }
+              },
+              {
+                "GarageCode": "EGS",
+                "GarageName": "East Grinstead Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538859,
+                    "Northing": 138237,
+                    "Longitude": -0.01705,
+                    "Latitude": 51.126589
+                  },
+                  "id": "L19"
+                }
+              },
+              {
+                "GarageCode": "DS",
+                "GarageName": "Dorking Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 517030,
+                    "Northing": 150395,
+                    "Longitude": -0.324877,
+                    "Latitude": 51.240742
+                  },
+                  "id": "L20"
+                }
+              },
+              {
+                "GarageCode": "TMR",
+                "GarageName": "Tunbridge Wells, Meadow Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558498,
+                    "Northing": 139844,
+                    "Longitude": 0.264096,
+                    "Latitude": 51.135935
+                  },
+                  "id": "L21"
+                }
+              }
+            ]
+          },
+          "id": "MB"
+        }
+      }
+    ],
+    "Services": [
+      {
+        "Service": {
+          "ServiceCode": "SER51",
+          "Lines": {
+            "Line": {
+              "LineName": 51,
+              "id": "HaFZG_Ft"
+            }
+          },
+          "OperatingPeriod": {
+            "StartDate": "2025-03-01",
+            "EndDate": "2025-05-30"
+          },
+          "ServiceClassification": {
+            "NormalStopping": ""
+          },
+          "RegisteredOperatorRef": "MB",
+          "StopRequirements": {
+            "NoNewStopsRequired": ""
+          },
+          "Description": "Horsham Bus Station - Merryfield Drive, The Coot",
+          "StandardService": {
+            "Origin": "Horsham Bus Station",
+            "Destination": "Merryfield Drive, The Coot",
+            "UseAllStopPoints": true,
+            "JourneyPattern": [
+              {
+                "DestinationDisplay": "Merryfield Drive, The Coot",
+                "Direction": "inbound",
+                "Description": "Horsham Bus Station - Merryfield Drive, The Coot",
+                "RouteRef": 48934,
+                "JourneyPatternSectionRefs": 123,
+                "id": "48934:1487:1901:240:123"
+              },
+              {
+                "DestinationDisplay": "Horsham Bus Station",
+                "Direction": "outbound",
+                "Description": "Merryfield Drive, The Coot - Horsham Bus Station",
+                "RouteRef": 49116,
+                "JourneyPatternSectionRefs": 128,
+                "id": "49116:1901:1518:840:128"
+              },
+              {
+                "DestinationDisplay": "Horsham Bus Station",
+                "Direction": "outbound",
+                "Description": "Merryfield Drive, The Coot - Horsham Bus Station",
+                "RouteRef": 49116,
+                "JourneyPatternSectionRefs": 127,
+                "id": "49116:1901:1518:900:127"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "VehicleJourneys": {
+      "VehicleJourney": [
+        {
+          "Operational": {
+            "Block": {
+              "Description": "t/0000001",
+              "BlockNumber": 44
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 3
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Saturday": ""
+              }
+            },
+            "SpecialDaysOperation": "",
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276417.44.t",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "10:52:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "t/0000001",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 7
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Saturday": ""
+              }
+            },
+            "SpecialDaysOperation": "",
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276425.41.t",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "12:52:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 3
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276434.41.v",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "10:52:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 3
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276434.41.w",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "10:52:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 7
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276442.41.v",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "12:52:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 7
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "276442.41.w",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "48934:1487:1901:240:123"
+          ],
+          "DepartureTime": "12:52:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "t/0000001",
+              "BlockNumber": 44
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Saturday": ""
+              }
+            },
+            "SpecialDaysOperation": "",
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502782.44.t",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:900:127"
+          ],
+          "DepartureTime": "09:31:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "t/0000001",
+              "BlockNumber": 44
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 4
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Saturday": ""
+              }
+            },
+            "SpecialDaysOperation": "",
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502816.44.t",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "10:56:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "t/0000001",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 8
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Saturday": ""
+              }
+            },
+            "SpecialDaysOperation": "",
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502850.41.t",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "12:56:00",
+          "SequenceNumber": "3"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 43
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502885.43.v",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:900:127"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "09:31:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 44
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502885.44.w",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:900:127"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "09:31:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 4
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502919.41.v",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "DepartureTime": "10:56:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 4
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502919.41.w",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "DepartureTime": "10:56:00",
+          "SequenceNumber": "2"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 8
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502953.41.v",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "12:56:00",
+          "SequenceNumber": "3"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 41
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 51,
+              "JourneyCode": 8
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "502953.41.w",
+          "ServiceRef": "SER51",
+          "LineRef": "HaFZG_Ft",
+          "JourneyPatternRef": [
+            "49116:1901:1518:840:128"
+          ],
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT0M0S",
+              "From": {
+                "StopPointRef": "4400HO1132"
+              },
+              "To": {
+                "StopPointRef": "4400HO1130"
+              }
+            }
+          },
+          "DepartureTime": "12:56:00",
+          "SequenceNumber": "3"
+        }
+      ]
+    },
+    "xmlns:apd": "http://www.govtalk.gov.uk/people/AddressAndPersonalDetails",
+    "FileName": "metrobus-51.xml",
+    "SchemaVersion": "2.4",
+    "RegistrationDocument": "false",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "CreationDateTime": "2025-02-27T17:49:39+00:00",
+    "Modification": "new",
+    "xml:lang": "en",
+    "xmlns": "http://www.transxchange.org.uk/",
+    "ModificationDateTime": "2025-02-27T17:49:39+00:00",
+    "RevisionNumber": "0",
+    "xsi:schemaLocation": "http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.4/TransXChange_general.xsd"
+  }
+}

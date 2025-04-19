@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!-- Add MapTiler SDK -->
+    <script src="https://cdn.maptiler.com/maptiler-sdk-js/v3.0.1/maptiler-sdk.umd.min.js"></script>
+    <link href="https://cdn.maptiler.com/maptiler-sdk-js/v3.0.1/maptiler-sdk.css" rel="stylesheet" />
+    <!-- Add Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Bus Route Finder</title>
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-bus"></i><i class="fa-solid fa-city"></i> Bus Route Finder</h1>
+        <label for="goingto">Where to:</label>
+        <input type="text" name="goingto" id="goingto" placeholder="Enter your destination" required>
+        <button type="submit" id="gotto"><i class="fas fa-search"></i> Search</button>
+        <button type="submit" id="getlocation"><i class="fas fa-location-arrow"></i> Get My Location</button>
+        <div class="bus-routes">
+            <label for="busRouteSelect">Bus Routes:</label>
+            <select id="busRouteSelect">
+                <option value="">Select a bus route</option>
+            </select>
+        </div>
+        <div id="result">Enter a destination or use your current location</div>
+    </div>
+    <div id="mapholder">
+        <div id="map"></div>
+    </div>
+    <footer>
+        <div class="darkmode">
+            <label class="switch">
+                <input type="checkbox" style="color: blueviolet;" onclick="darkMode()" title="Toggle dark mode" aria-label="Toggle dark mode">
+                <span class="slider round"></span>
+            </label>
+        </div>
+        <p>Copyright &copy; <span id='year'></span> Godwin. All rights reserved.</p>
+    </footer>
+    <!-- Load data first -->
+    <script src="all-bus-routes-data.js"></script>
+    <script src="helper-functions.js"></script>
+    <!-- Load initialization script -->
+    <script>
+        // Verify data is loaded and initialize
+        window.addEventListener('DOMContentLoaded', () => {
+            // Debug checks
+            const select = document.getElementById('busRouteSelect');
+            console.log('DOM Elements:', {
+                selectElement: select,
+                resultElement: document.getElementById('result')
+            });
+            console.log('Bus Data:', {
+                routes: window.busRoutes,
+                stops: window.busStops
+            });
+            
+            // Verify bus data and DOM elements
+            if (!select) {
+                console.error('Bus route select element not found');
+                return;
+            }
+            
+            if (!window.busRoutes || !Array.isArray(window.busRoutes)) {
+                console.error('Bus routes data not properly loaded');
+                select.innerHTML = '<option value="">No routes available</option>';
+                return;
+            }
+            
+            // Initialize if everything is available
+            if (typeof populateBusRoutes === 'function') {
+                populateBusRoutes();
+            } else {
+                console.error('populateBusRoutes function not found');
+            }
+        });
+    </script>
+    <!-- Load main application script -->
+    <script src="script.js"></script>
+</body>
+</html>

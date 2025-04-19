@@ -1,0 +1,15 @@
+{
+  "name": "metrobus-xml-to-json",
+  "version": "1.0.0",
+  "description": "Convert MetroBus XML data to JSON format",
+  "main": "xml_to_json.js",
+  "scripts": {
+    "convert": "node xml_to_json.js",
+    "extract": "node extract_routes.js",
+    "generate-js": "node generate_js_data.js",
+    "process-all": "npm run convert && npm run extract && npm run generate-js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4"
+  }
+} 

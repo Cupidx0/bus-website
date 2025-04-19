@@ -1,0 +1,2781 @@
+{
+  "?xml": {
+    "version": "1.0",
+    "encoding": "UTF-8"
+  },
+  "TransXChange": {
+    "ServicedOrganisations": {
+      "ServicedOrganisation": {
+        "OrganisationCode": "Sch",
+        "Name": "AnySchool",
+        "WorkingDays": {
+          "DateRange": [
+            {
+              "StartDate": "2025-03-03",
+              "EndDate": "2025-03-07"
+            },
+            {
+              "StartDate": "2025-03-10",
+              "EndDate": "2025-03-14"
+            },
+            {
+              "StartDate": "2025-03-17",
+              "EndDate": "2025-03-21"
+            },
+            {
+              "StartDate": "2025-03-24",
+              "EndDate": "2025-03-28"
+            },
+            {
+              "StartDate": "2025-03-31",
+              "EndDate": "2025-04-04"
+            },
+            {
+              "StartDate": "2025-04-22",
+              "EndDate": "2025-04-25"
+            },
+            {
+              "StartDate": "2025-04-28",
+              "EndDate": "2025-05-02"
+            },
+            {
+              "StartDate": "2025-05-06",
+              "EndDate": "2025-05-09"
+            },
+            {
+              "StartDate": "2025-05-12",
+              "EndDate": "2025-05-16"
+            },
+            {
+              "StartDate": "2025-05-19",
+              "EndDate": "2025-05-23"
+            }
+          ]
+        }
+      }
+    },
+    "StopPoints": [
+      {
+        "AnnotatedStopPointRef": [
+          {
+            "StopPointRef": "2400A013900A",
+            "CommonName": "Tunbridge Wells Station",
+            "Location": {
+              "Longitude": 0.263399,
+              "Latitude": 51.13083
+            }
+          },
+          {
+            "StopPointRef": "2400A013940A",
+            "CommonName": "Tunbridge Wells, War Memorial",
+            "Location": {
+              "Longitude": 0.263488,
+              "Latitude": 51.133104
+            }
+          },
+          {
+            "StopPointRef": 2400103192,
+            "CommonName": "Tunbridge Wells, Royal Vic Place",
+            "Location": {
+              "Longitude": 0.263639,
+              "Latitude": 51.134201
+            }
+          },
+          {
+            "StopPointRef": "2400A008110A",
+            "CommonName": "Grosvenor Road",
+            "Location": {
+              "Longitude": 0.262963,
+              "Latitude": 51.135417
+            }
+          },
+          {
+            "StopPointRef": 2400104113,
+            "CommonName": "Royal Wells Hotel",
+            "Location": {
+              "Longitude": 0.25908,
+              "Latitude": 51.134116
+            }
+          },
+          {
+            "StopPointRef": 2400103070,
+            "CommonName": "Molyneux Park Road",
+            "Location": {
+              "Longitude": 0.255789,
+              "Latitude": 51.133479
+            }
+          },
+          {
+            "StopPointRef": 2400100164,
+            "CommonName": "Earl's Road",
+            "Location": {
+              "Longitude": 0.251502,
+              "Latitude": 51.135326
+            }
+          },
+          {
+            "StopPointRef": 2400100168,
+            "CommonName": "Court Road",
+            "Location": {
+              "Longitude": 0.24873,
+              "Latitude": 51.137312
+            }
+          },
+          {
+            "StopPointRef": "2400A072140A",
+            "CommonName": "Molyneux Park, Coniston Avenue",
+            "Location": {
+              "Longitude": 0.245991,
+              "Latitude": 51.137985
+            }
+          },
+          {
+            "StopPointRef": "2400A072130A",
+            "CommonName": "Molyneux Park, Coniston Avenue",
+            "Location": {
+              "Longitude": 0.246351,
+              "Latitude": 51.138254
+            }
+          },
+          {
+            "StopPointRef": "2400A073090A",
+            "CommonName": "Rose Hill School",
+            "Location": {
+              "Longitude": 0.248602,
+              "Latitude": 51.139227
+            }
+          },
+          {
+            "StopPointRef": 2400103072,
+            "CommonName": "Derwent Drive",
+            "Location": {
+              "Longitude": 0.249952,
+              "Latitude": 51.140149
+            }
+          },
+          {
+            "StopPointRef": 2400103074,
+            "CommonName": "Huntleys Park",
+            "Location": {
+              "Longitude": 0.251747,
+              "Latitude": 51.141331
+            }
+          },
+          {
+            "StopPointRef": 240097763,
+            "CommonName": "Culverden Down, Bennett Sch",
+            "Location": {
+              "Longitude": 0.251157,
+              "Latitude": 51.142618
+            }
+          },
+          {
+            "StopPointRef": 2400100549,
+            "CommonName": "Connaught Way",
+            "Location": {
+              "Longitude": 0.253836,
+              "Latitude": 51.137836
+            }
+          },
+          {
+            "StopPointRef": 2400103062,
+            "CommonName": "Connaught Way",
+            "Location": {
+              "Longitude": 0.253248,
+              "Latitude": 51.139456
+            }
+          },
+          {
+            "StopPointRef": 2400103076,
+            "CommonName": "Culverden Park",
+            "Location": {
+              "Longitude": 0.255012,
+              "Latitude": 51.142076
+            }
+          },
+          {
+            "StopPointRef": 2400103188,
+            "CommonName": "Grosvenor Road",
+            "Location": {
+              "Longitude": 0.262768,
+              "Latitude": 51.13602
+            }
+          },
+          {
+            "StopPointRef": 2400103060,
+            "CommonName": "Mount Ephraim",
+            "Location": {
+              "Longitude": 0.259517,
+              "Latitude": 51.135212
+            }
+          },
+          {
+            "StopPointRef": 2400103064,
+            "CommonName": "Royal Chase",
+            "Location": {
+              "Longitude": 0.256111,
+              "Latitude": 51.136409
+            }
+          },
+          {
+            "StopPointRef": "2400A073630A",
+            "CommonName": "Tunbridge Wells, Royal Vic Place",
+            "Location": {
+              "Longitude": 0.263824,
+              "Latitude": 51.134101
+            }
+          }
+        ]
+      }
+    ],
+    "RouteSections": [
+      {
+        "RouteSection": [
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "2400A013900A"
+                },
+                "To": {
+                  "StopPointRef": "2400A013940A"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.263399,
+                        "Latitude": 51.13083
+                      },
+                      {
+                        "Longitude": 0.263386,
+                        "Latitude": 51.131055
+                      },
+                      {
+                        "Longitude": 0.263375,
+                        "Latitude": 51.131522
+                      },
+                      {
+                        "Longitude": 0.263368,
+                        "Latitude": 51.132404
+                      },
+                      {
+                        "Longitude": 0.263502,
+                        "Latitude": 51.133104
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A013940A"
+                },
+                "To": {
+                  "StopPointRef": 2400103192
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.263502,
+                        "Latitude": 51.133104
+                      },
+                      {
+                        "Longitude": 0.263547,
+                        "Latitude": 51.133329
+                      },
+                      {
+                        "Longitude": 0.263562,
+                        "Latitude": 51.133455
+                      },
+                      {
+                        "Longitude": 0.263636,
+                        "Latitude": 51.133787
+                      },
+                      {
+                        "Longitude": 0.263681,
+                        "Latitude": 51.134039
+                      },
+                      {
+                        "Longitude": 0.263739,
+                        "Latitude": 51.134192
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103192
+                },
+                "To": {
+                  "StopPointRef": "2400A008110A"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.263739,
+                        "Latitude": 51.134192
+                      },
+                      {
+                        "Longitude": 0.263812,
+                        "Latitude": 51.134362
+                      },
+                      {
+                        "Longitude": 0.263813,
+                        "Latitude": 51.134452
+                      },
+                      {
+                        "Longitude": 0.263785,
+                        "Latitude": 51.134506
+                      },
+                      {
+                        "Longitude": 0.263473,
+                        "Latitude": 51.134885
+                      },
+                      {
+                        "Longitude": 0.263431,
+                        "Latitude": 51.134948
+                      },
+                      {
+                        "Longitude": 0.263289,
+                        "Latitude": 51.135119
+                      },
+                      {
+                        "Longitude": 0.263162,
+                        "Latitude": 51.135272
+                      },
+                      {
+                        "Longitude": 0.263035,
+                        "Latitude": 51.135434
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A008110A"
+                },
+                "To": {
+                  "StopPointRef": 2400104113
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.263035,
+                        "Latitude": 51.135434
+                      },
+                      {
+                        "Longitude": 0.262936,
+                        "Latitude": 51.135561
+                      },
+                      {
+                        "Longitude": 0.262851,
+                        "Latitude": 51.135651
+                      },
+                      {
+                        "Longitude": 0.262794,
+                        "Latitude": 51.13575
+                      },
+                      {
+                        "Longitude": 0.262667,
+                        "Latitude": 51.13593
+                      },
+                      {
+                        "Longitude": 0.262526,
+                        "Latitude": 51.136155
+                      },
+                      {
+                        "Longitude": 0.262314,
+                        "Latitude": 51.136489
+                      },
+                      {
+                        "Longitude": 0.262045,
+                        "Latitude": 51.136777
+                      },
+                      {
+                        "Longitude": 0.262002,
+                        "Latitude": 51.136831
+                      },
+                      {
+                        "Longitude": 0.26196,
+                        "Latitude": 51.136876
+                      },
+                      {
+                        "Longitude": 0.261917,
+                        "Latitude": 51.136921
+                      },
+                      {
+                        "Longitude": 0.26179,
+                        "Latitude": 51.137066
+                      },
+                      {
+                        "Longitude": 0.261719,
+                        "Latitude": 51.137138
+                      },
+                      {
+                        "Longitude": 0.261705,
+                        "Latitude": 51.137129
+                      },
+                      {
+                        "Longitude": 0.26169,
+                        "Latitude": 51.137129
+                      },
+                      {
+                        "Longitude": 0.261676,
+                        "Latitude": 51.13712
+                      },
+                      {
+                        "Longitude": 0.261647,
+                        "Latitude": 51.13712
+                      },
+                      {
+                        "Longitude": 0.261633,
+                        "Latitude": 51.137129
+                      },
+                      {
+                        "Longitude": 0.261619,
+                        "Latitude": 51.137138
+                      },
+                      {
+                        "Longitude": 0.261605,
+                        "Latitude": 51.137138
+                      },
+                      {
+                        "Longitude": 0.261185,
+                        "Latitude": 51.13642
+                      },
+                      {
+                        "Longitude": 0.261054,
+                        "Latitude": 51.136223
+                      },
+                      {
+                        "Longitude": 0.260779,
+                        "Latitude": 51.135765
+                      },
+                      {
+                        "Longitude": 0.260376,
+                        "Latitude": 51.135344
+                      },
+                      {
+                        "Longitude": 0.260203,
+                        "Latitude": 51.135182
+                      },
+                      {
+                        "Longitude": 0.259973,
+                        "Latitude": 51.134985
+                      },
+                      {
+                        "Longitude": 0.259182,
+                        "Latitude": 51.134394
+                      },
+                      {
+                        "Longitude": 0.258981,
+                        "Latitude": 51.134269
+                      },
+                      {
+                        "Longitude": 0.258924,
+                        "Latitude": 51.134233
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400104113
+                },
+                "To": {
+                  "StopPointRef": 2400103070
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.258924,
+                        "Latitude": 51.134233
+                      },
+                      {
+                        "Longitude": 0.258737,
+                        "Latitude": 51.134135
+                      },
+                      {
+                        "Longitude": 0.258551,
+                        "Latitude": 51.134019
+                      },
+                      {
+                        "Longitude": 0.258422,
+                        "Latitude": 51.133938
+                      },
+                      {
+                        "Longitude": 0.258393,
+                        "Latitude": 51.133911
+                      },
+                      {
+                        "Longitude": 0.258321,
+                        "Latitude": 51.133858
+                      },
+                      {
+                        "Longitude": 0.258249,
+                        "Latitude": 51.133804
+                      },
+                      {
+                        "Longitude": 0.258105,
+                        "Latitude": 51.133714
+                      },
+                      {
+                        "Longitude": 0.258005,
+                        "Latitude": 51.133661
+                      },
+                      {
+                        "Longitude": 0.257618,
+                        "Latitude": 51.133446
+                      },
+                      {
+                        "Longitude": 0.257216,
+                        "Latitude": 51.133277
+                      },
+                      {
+                        "Longitude": 0.256858,
+                        "Latitude": 51.133125
+                      },
+                      {
+                        "Longitude": 0.256516,
+                        "Latitude": 51.133279
+                      },
+                      {
+                        "Longitude": 0.255875,
+                        "Latitude": 51.133559
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103070
+                },
+                "To": {
+                  "StopPointRef": 2400100164
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.255875,
+                        "Latitude": 51.133559
+                      },
+                      {
+                        "Longitude": 0.252984,
+                        "Latitude": 51.134818
+                      },
+                      {
+                        "Longitude": 0.252258,
+                        "Latitude": 51.135135
+                      },
+                      {
+                        "Longitude": 0.251602,
+                        "Latitude": 51.135415
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400100164
+                },
+                "To": {
+                  "StopPointRef": 2400100168
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.251602,
+                        "Latitude": 51.135415
+                      },
+                      {
+                        "Longitude": 0.25136,
+                        "Latitude": 51.135524
+                      },
+                      {
+                        "Longitude": 0.251204,
+                        "Latitude": 51.135587
+                      },
+                      {
+                        "Longitude": 0.248768,
+                        "Latitude": 51.136656
+                      },
+                      {
+                        "Longitude": 0.248583,
+                        "Latitude": 51.136692
+                      },
+                      {
+                        "Longitude": 0.24867,
+                        "Latitude": 51.136935
+                      },
+                      {
+                        "Longitude": 0.248728,
+                        "Latitude": 51.137096
+                      },
+                      {
+                        "Longitude": 0.248801,
+                        "Latitude": 51.137303
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400100168
+                },
+                "To": {
+                  "StopPointRef": "2400A072140A"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.248801,
+                        "Latitude": 51.137303
+                      },
+                      {
+                        "Longitude": 0.248918,
+                        "Latitude": 51.137626
+                      },
+                      {
+                        "Longitude": 0.248776,
+                        "Latitude": 51.137779
+                      },
+                      {
+                        "Longitude": 0.248563,
+                        "Latitude": 51.137852
+                      },
+                      {
+                        "Longitude": 0.24842,
+                        "Latitude": 51.137825
+                      },
+                      {
+                        "Longitude": 0.248406,
+                        "Latitude": 51.137987
+                      },
+                      {
+                        "Longitude": 0.248393,
+                        "Latitude": 51.138077
+                      },
+                      {
+                        "Longitude": 0.248509,
+                        "Latitude": 51.138338
+                      },
+                      {
+                        "Longitude": 0.248552,
+                        "Latitude": 51.138391
+                      },
+                      {
+                        "Longitude": 0.249216,
+                        "Latitude": 51.139208
+                      },
+                      {
+                        "Longitude": 0.249031,
+                        "Latitude": 51.139262
+                      },
+                      {
+                        "Longitude": 0.248916,
+                        "Latitude": 51.139271
+                      },
+                      {
+                        "Longitude": 0.247556,
+                        "Latitude": 51.138934
+                      },
+                      {
+                        "Longitude": 0.247312,
+                        "Latitude": 51.138809
+                      },
+                      {
+                        "Longitude": 0.246565,
+                        "Latitude": 51.13828
+                      },
+                      {
+                        "Longitude": 0.246508,
+                        "Latitude": 51.138254
+                      },
+                      {
+                        "Longitude": 0.246364,
+                        "Latitude": 51.138191
+                      },
+                      {
+                        "Longitude": 0.24625,
+                        "Latitude": 51.138138
+                      },
+                      {
+                        "Longitude": 0.245949,
+                        "Latitude": 51.138093
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A072140A"
+                },
+                "To": {
+                  "StopPointRef": "2400A072130A"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.245949,
+                        "Latitude": 51.138093
+                      },
+                      {
+                        "Longitude": 0.24625,
+                        "Latitude": 51.138138
+                      },
+                      {
+                        "Longitude": 0.246364,
+                        "Latitude": 51.138191
+                      },
+                      {
+                        "Longitude": 0.246407,
+                        "Latitude": 51.138209
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A072130A"
+                },
+                "To": {
+                  "StopPointRef": "2400A073090A"
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.246407,
+                        "Latitude": 51.138209
+                      },
+                      {
+                        "Longitude": 0.246508,
+                        "Latitude": 51.138254
+                      },
+                      {
+                        "Longitude": 0.246565,
+                        "Latitude": 51.13828
+                      },
+                      {
+                        "Longitude": 0.247312,
+                        "Latitude": 51.138809
+                      },
+                      {
+                        "Longitude": 0.247556,
+                        "Latitude": 51.138934
+                      },
+                      {
+                        "Longitude": 0.248616,
+                        "Latitude": 51.1392
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_10"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A073090A"
+                },
+                "To": {
+                  "StopPointRef": 2400103072
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.248616,
+                        "Latitude": 51.1392
+                      },
+                      {
+                        "Longitude": 0.248916,
+                        "Latitude": 51.139271
+                      },
+                      {
+                        "Longitude": 0.249031,
+                        "Latitude": 51.139262
+                      },
+                      {
+                        "Longitude": 0.249216,
+                        "Latitude": 51.139208
+                      },
+                      {
+                        "Longitude": 0.249951,
+                        "Latitude": 51.140024
+                      },
+                      {
+                        "Longitude": 0.250037,
+                        "Latitude": 51.140113
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_11"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103072
+                },
+                "To": {
+                  "StopPointRef": 2400103074
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.250037,
+                        "Latitude": 51.140113
+                      },
+                      {
+                        "Longitude": 0.2507,
+                        "Latitude": 51.140776
+                      },
+                      {
+                        "Longitude": 0.250829,
+                        "Latitude": 51.140875
+                      },
+                      {
+                        "Longitude": 0.251302,
+                        "Latitude": 51.14108
+                      },
+                      {
+                        "Longitude": 0.251804,
+                        "Latitude": 51.141268
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_12"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103074
+                },
+                "To": {
+                  "StopPointRef": 240097763
+                },
+                "Direction": "inbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.251804,
+                        "Latitude": 51.141268
+                      },
+                      {
+                        "Longitude": 0.252033,
+                        "Latitude": 51.141357
+                      },
+                      {
+                        "Longitude": 0.252306,
+                        "Latitude": 51.141437
+                      },
+                      {
+                        "Longitude": 0.252765,
+                        "Latitude": 51.141678
+                      },
+                      {
+                        "Longitude": 0.252865,
+                        "Latitude": 51.14175
+                      },
+                      {
+                        "Longitude": 0.253068,
+                        "Latitude": 51.142091
+                      },
+                      {
+                        "Longitude": 0.252726,
+                        "Latitude": 51.142155
+                      },
+                      {
+                        "Longitude": 0.251869,
+                        "Latitude": 51.142346
+                      },
+                      {
+                        "Longitude": 0.251171,
+                        "Latitude": 51.142627
+                      }
+                    ]
+                  }
+                },
+                "id": "i280_13"
+              }
+            ],
+            "id": "bQN_baZP"
+          },
+          {
+            "RouteLink": [
+              {
+                "From": {
+                  "StopPointRef": "2400A072130A"
+                },
+                "To": {
+                  "StopPointRef": "2400A073090A"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.246407,
+                        "Latitude": 51.138209
+                      },
+                      {
+                        "Longitude": 0.246508,
+                        "Latitude": 51.138254
+                      },
+                      {
+                        "Longitude": 0.246565,
+                        "Latitude": 51.13828
+                      },
+                      {
+                        "Longitude": 0.247312,
+                        "Latitude": 51.138809
+                      },
+                      {
+                        "Longitude": 0.247556,
+                        "Latitude": 51.138934
+                      },
+                      {
+                        "Longitude": 0.248616,
+                        "Latitude": 51.1392
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_1"
+              },
+              {
+                "From": {
+                  "StopPointRef": "2400A073090A"
+                },
+                "To": {
+                  "StopPointRef": 2400103072
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.248616,
+                        "Latitude": 51.1392
+                      },
+                      {
+                        "Longitude": 0.248916,
+                        "Latitude": 51.139271
+                      },
+                      {
+                        "Longitude": 0.249031,
+                        "Latitude": 51.139262
+                      },
+                      {
+                        "Longitude": 0.249216,
+                        "Latitude": 51.139208
+                      },
+                      {
+                        "Longitude": 0.249951,
+                        "Latitude": 51.140024
+                      },
+                      {
+                        "Longitude": 0.250037,
+                        "Latitude": 51.140113
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_2"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103072
+                },
+                "To": {
+                  "StopPointRef": 2400103074
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.250037,
+                        "Latitude": 51.140113
+                      },
+                      {
+                        "Longitude": 0.2507,
+                        "Latitude": 51.140776
+                      },
+                      {
+                        "Longitude": 0.250829,
+                        "Latitude": 51.140875
+                      },
+                      {
+                        "Longitude": 0.251302,
+                        "Latitude": 51.14108
+                      },
+                      {
+                        "Longitude": 0.251804,
+                        "Latitude": 51.141268
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_3"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103074
+                },
+                "To": {
+                  "StopPointRef": 2400103076
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.251804,
+                        "Latitude": 51.141268
+                      },
+                      {
+                        "Longitude": 0.252033,
+                        "Latitude": 51.141357
+                      },
+                      {
+                        "Longitude": 0.252306,
+                        "Latitude": 51.141437
+                      },
+                      {
+                        "Longitude": 0.252765,
+                        "Latitude": 51.141678
+                      },
+                      {
+                        "Longitude": 0.252865,
+                        "Latitude": 51.14175
+                      },
+                      {
+                        "Longitude": 0.253068,
+                        "Latitude": 51.142091
+                      },
+                      {
+                        "Longitude": 0.253111,
+                        "Latitude": 51.142154
+                      },
+                      {
+                        "Longitude": 0.25327,
+                        "Latitude": 51.142351
+                      },
+                      {
+                        "Longitude": 0.253443,
+                        "Latitude": 51.142476
+                      },
+                      {
+                        "Longitude": 0.2537,
+                        "Latitude": 51.142512
+                      },
+                      {
+                        "Longitude": 0.254128,
+                        "Latitude": 51.142402
+                      },
+                      {
+                        "Longitude": 0.254499,
+                        "Latitude": 51.142374
+                      },
+                      {
+                        "Longitude": 0.254925,
+                        "Latitude": 51.142013
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_4"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103076
+                },
+                "To": {
+                  "StopPointRef": 2400103062
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.254925,
+                        "Latitude": 51.142013
+                      },
+                      {
+                        "Longitude": 0.255364,
+                        "Latitude": 51.141437
+                      },
+                      {
+                        "Longitude": 0.255519,
+                        "Latitude": 51.141086
+                      },
+                      {
+                        "Longitude": 0.254259,
+                        "Latitude": 51.140847
+                      },
+                      {
+                        "Longitude": 0.253671,
+                        "Latitude": 51.140588
+                      },
+                      {
+                        "Longitude": 0.253398,
+                        "Latitude": 51.140391
+                      },
+                      {
+                        "Longitude": 0.253139,
+                        "Latitude": 51.140149
+                      },
+                      {
+                        "Longitude": 0.252994,
+                        "Latitude": 51.139906
+                      },
+                      {
+                        "Longitude": 0.252993,
+                        "Latitude": 51.139754
+                      },
+                      {
+                        "Longitude": 0.253049,
+                        "Latitude": 51.139655
+                      },
+                      {
+                        "Longitude": 0.253092,
+                        "Latitude": 51.139556
+                      },
+                      {
+                        "Longitude": 0.253162,
+                        "Latitude": 51.139438
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_5"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103062
+                },
+                "To": {
+                  "StopPointRef": 2400100549
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.253162,
+                        "Latitude": 51.139438
+                      },
+                      {
+                        "Longitude": 0.253232,
+                        "Latitude": 51.139294
+                      },
+                      {
+                        "Longitude": 0.253565,
+                        "Latitude": 51.137945
+                      },
+                      {
+                        "Longitude": 0.253579,
+                        "Latitude": 51.137891
+                      },
+                      {
+                        "Longitude": 0.253721,
+                        "Latitude": 51.1378
+                      },
+                      {
+                        "Longitude": 0.25375,
+                        "Latitude": 51.137782
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_6"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400100549
+                },
+                "To": {
+                  "StopPointRef": 2400103064
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.25375,
+                        "Latitude": 51.137782
+                      },
+                      {
+                        "Longitude": 0.254148,
+                        "Latitude": 51.137529
+                      },
+                      {
+                        "Longitude": 0.255698,
+                        "Latitude": 51.136509
+                      },
+                      {
+                        "Longitude": 0.256039,
+                        "Latitude": 51.136319
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_7"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103064
+                },
+                "To": {
+                  "StopPointRef": 2400103060
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.256039,
+                        "Latitude": 51.136319
+                      },
+                      {
+                        "Longitude": 0.258633,
+                        "Latitude": 51.135448
+                      },
+                      {
+                        "Longitude": 0.259474,
+                        "Latitude": 51.135158
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_8"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103060
+                },
+                "To": {
+                  "StopPointRef": 2400103188
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.259474,
+                        "Latitude": 51.135158
+                      },
+                      {
+                        "Longitude": 0.259973,
+                        "Latitude": 51.134985
+                      },
+                      {
+                        "Longitude": 0.260203,
+                        "Latitude": 51.135182
+                      },
+                      {
+                        "Longitude": 0.260376,
+                        "Latitude": 51.135344
+                      },
+                      {
+                        "Longitude": 0.260779,
+                        "Latitude": 51.135765
+                      },
+                      {
+                        "Longitude": 0.261054,
+                        "Latitude": 51.136223
+                      },
+                      {
+                        "Longitude": 0.261185,
+                        "Latitude": 51.13642
+                      },
+                      {
+                        "Longitude": 0.261344,
+                        "Latitude": 51.136689
+                      },
+                      {
+                        "Longitude": 0.261605,
+                        "Latitude": 51.137138
+                      },
+                      {
+                        "Longitude": 0.26159,
+                        "Latitude": 51.137156
+                      },
+                      {
+                        "Longitude": 0.261591,
+                        "Latitude": 51.137174
+                      },
+                      {
+                        "Longitude": 0.261605,
+                        "Latitude": 51.137183
+                      },
+                      {
+                        "Longitude": 0.261619,
+                        "Latitude": 51.137201
+                      },
+                      {
+                        "Longitude": 0.261648,
+                        "Latitude": 51.137201
+                      },
+                      {
+                        "Longitude": 0.261662,
+                        "Latitude": 51.13721
+                      },
+                      {
+                        "Longitude": 0.261677,
+                        "Latitude": 51.137201
+                      },
+                      {
+                        "Longitude": 0.261691,
+                        "Latitude": 51.137201
+                      },
+                      {
+                        "Longitude": 0.261705,
+                        "Latitude": 51.137192
+                      },
+                      {
+                        "Longitude": 0.261719,
+                        "Latitude": 51.137192
+                      },
+                      {
+                        "Longitude": 0.261719,
+                        "Latitude": 51.137183
+                      },
+                      {
+                        "Longitude": 0.261734,
+                        "Latitude": 51.137174
+                      },
+                      {
+                        "Longitude": 0.261733,
+                        "Latitude": 51.137165
+                      },
+                      {
+                        "Longitude": 0.261733,
+                        "Latitude": 51.137156
+                      },
+                      {
+                        "Longitude": 0.261719,
+                        "Latitude": 51.137147
+                      },
+                      {
+                        "Longitude": 0.261719,
+                        "Latitude": 51.137138
+                      },
+                      {
+                        "Longitude": 0.26179,
+                        "Latitude": 51.137066
+                      },
+                      {
+                        "Longitude": 0.261917,
+                        "Latitude": 51.136921
+                      },
+                      {
+                        "Longitude": 0.26196,
+                        "Latitude": 51.136876
+                      },
+                      {
+                        "Longitude": 0.262002,
+                        "Latitude": 51.136831
+                      },
+                      {
+                        "Longitude": 0.262045,
+                        "Latitude": 51.136777
+                      },
+                      {
+                        "Longitude": 0.262314,
+                        "Latitude": 51.136489
+                      },
+                      {
+                        "Longitude": 0.262526,
+                        "Latitude": 51.136155
+                      },
+                      {
+                        "Longitude": 0.262639,
+                        "Latitude": 51.135984
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_9"
+              },
+              {
+                "From": {
+                  "StopPointRef": 2400103188
+                },
+                "To": {
+                  "StopPointRef": "2400A073630A"
+                },
+                "Direction": "outbound",
+                "Track": {
+                  "Mapping": {
+                    "Location": [
+                      {
+                        "Longitude": 0.262639,
+                        "Latitude": 51.135984
+                      },
+                      {
+                        "Longitude": 0.262667,
+                        "Latitude": 51.13593
+                      },
+                      {
+                        "Longitude": 0.262794,
+                        "Latitude": 51.13575
+                      },
+                      {
+                        "Longitude": 0.262866,
+                        "Latitude": 51.13575
+                      },
+                      {
+                        "Longitude": 0.262994,
+                        "Latitude": 51.135758
+                      },
+                      {
+                        "Longitude": 0.263152,
+                        "Latitude": 51.135884
+                      },
+                      {
+                        "Longitude": 0.263426,
+                        "Latitude": 51.136188
+                      },
+                      {
+                        "Longitude": 0.263613,
+                        "Latitude": 51.13626
+                      },
+                      {
+                        "Longitude": 0.263756,
+                        "Latitude": 51.136277
+                      },
+                      {
+                        "Longitude": 0.263784,
+                        "Latitude": 51.136232
+                      },
+                      {
+                        "Longitude": 0.263841,
+                        "Latitude": 51.136169
+                      },
+                      {
+                        "Longitude": 0.264053,
+                        "Latitude": 51.135935
+                      },
+                      {
+                        "Longitude": 0.26428,
+                        "Latitude": 51.135682
+                      },
+                      {
+                        "Longitude": 0.264308,
+                        "Latitude": 51.135655
+                      },
+                      {
+                        "Longitude": 0.264308,
+                        "Latitude": 51.135619
+                      },
+                      {
+                        "Longitude": 0.264293,
+                        "Latitude": 51.135502
+                      },
+                      {
+                        "Longitude": 0.264107,
+                        "Latitude": 51.135458
+                      },
+                      {
+                        "Longitude": 0.263877,
+                        "Latitude": 51.135324
+                      },
+                      {
+                        "Longitude": 0.263518,
+                        "Latitude": 51.135118
+                      },
+                      {
+                        "Longitude": 0.263475,
+                        "Latitude": 51.1351
+                      },
+                      {
+                        "Longitude": 0.263431,
+                        "Latitude": 51.134948
+                      },
+                      {
+                        "Longitude": 0.263473,
+                        "Latitude": 51.134885
+                      },
+                      {
+                        "Longitude": 0.263785,
+                        "Latitude": 51.134506
+                      },
+                      {
+                        "Longitude": 0.263813,
+                        "Latitude": 51.134452
+                      },
+                      {
+                        "Longitude": 0.263812,
+                        "Latitude": 51.134362
+                      },
+                      {
+                        "Longitude": 0.263768,
+                        "Latitude": 51.134263
+                      },
+                      {
+                        "Longitude": 0.263739,
+                        "Latitude": 51.134192
+                      },
+                      {
+                        "Longitude": 0.26371,
+                        "Latitude": 51.13412
+                      }
+                    ]
+                  }
+                },
+                "id": "o280_10"
+              }
+            ],
+            "id": "Xj4-UwrD"
+          }
+        ]
+      }
+    ],
+    "Routes": [
+      {
+        "Route": [
+          {
+            "PrivateCode": "i280",
+            "Description": "Tunbridge Wells Station - Culverden Down",
+            "RouteSectionRef": "bQN_baZP",
+            "id": "64086"
+          },
+          {
+            "PrivateCode": "o280",
+            "Description": "Molyneux Park, Coniston Avenue - Tunbridge Wells",
+            "RouteSectionRef": "Xj4-UwrD",
+            "id": "64114"
+          }
+        ]
+      }
+    ],
+    "JourneyPatternSections": {
+      "JourneyPatternSection": [
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A013900A",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "2400A013940A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "i280_1",
+              "RunTime": "PT2M0S",
+              "id": "h1r12FNs"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A013940A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": 2400103192,
+                "TimingStatus": "PTP",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "i280_2",
+              "RunTime": "PT1M0S",
+              "id": "k.FNPAKA"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400103192,
+                "TimingStatus": "PTP",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": "2400A008110A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "i280_3",
+              "RunTime": "PT0M0S",
+              "id": "SFl-SJ24"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A008110A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": 2400104113,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "i280_4",
+              "RunTime": "PT2M0S",
+              "id": "zQS2k-B4"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400104113,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": 2400103070,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "i280_5",
+              "RunTime": "PT1M0S",
+              "id": "WLmkWYo:"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400103070,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": 2400100164,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "i280_6",
+              "RunTime": "PT1M0S",
+              "id": "rVB4SJMS"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400100164,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": 2400100168,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "i280_7",
+              "RunTime": "PT1M0S",
+              "id": "ACp_Kjqt"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400100168,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": "2400A072140A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "i280_8",
+              "RunTime": "PT1M0S",
+              "id": "WxNI_i44"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A072140A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": "2400A072130A",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "i280_9",
+              "RunTime": "PT1M0S",
+              "id": "GFjOp3NK"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A072130A",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "2400A073090A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "i280_10",
+              "RunTime": "PT0M0S",
+              "id": "nKcX21bk"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": "2400A073090A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "11"
+              },
+              "To": {
+                "StopPointRef": 2400103072,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "RouteLinkRef": "i280_11",
+              "RunTime": "PT0M0S",
+              "id": "ifhbP-dF"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400103072,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "12"
+              },
+              "To": {
+                "StopPointRef": 2400103074,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "13"
+              },
+              "RouteLinkRef": "i280_12",
+              "RunTime": "PT1M0S",
+              "id": "Uq87lsgZ"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Culverden Down",
+                "StopPointRef": 2400103074,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "13"
+              },
+              "To": {
+                "StopPointRef": 240097763,
+                "TimingStatus": "PTP",
+                "SequenceNumber": "14"
+              },
+              "RouteLinkRef": "i280_13",
+              "RunTime": "PT1M0S",
+              "id": "cwpUzy8h"
+            }
+          ],
+          "id": "123"
+        },
+        {
+          "JourneyPatternTimingLink": [
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "2400A072130A",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "1"
+              },
+              "To": {
+                "StopPointRef": "2400A073090A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "RouteLinkRef": "o280_1",
+              "RunTime": "PT0M0S",
+              "id": "f2DVWsxQ"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": "2400A073090A",
+                "TimingStatus": "OTH",
+                "SequenceNumber": "2"
+              },
+              "To": {
+                "StopPointRef": 2400103072,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "RouteLinkRef": "o280_2",
+              "RunTime": "PT0M0S",
+              "id": "Uz_Lxw9I"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103072,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "3"
+              },
+              "To": {
+                "StopPointRef": 2400103074,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "RouteLinkRef": "o280_3",
+              "RunTime": "PT0M0S",
+              "id": "coOComp5"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103074,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "4"
+              },
+              "To": {
+                "StopPointRef": 2400103076,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "RouteLinkRef": "o280_4",
+              "RunTime": "PT1M0S",
+              "id": "oVif3:F."
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103076,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "5"
+              },
+              "To": {
+                "StopPointRef": 2400103062,
+                "TimingStatus": "PTP",
+                "SequenceNumber": "6"
+              },
+              "RouteLinkRef": "o280_5",
+              "RunTime": "PT1M0S",
+              "id": "YGrzBObb"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103062,
+                "TimingStatus": "PTP",
+                "SequenceNumber": "6"
+              },
+              "To": {
+                "StopPointRef": 2400100549,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "RouteLinkRef": "o280_6",
+              "RunTime": "PT1M0S",
+              "id": "CRm_EIML"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400100549,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "7"
+              },
+              "To": {
+                "StopPointRef": 2400103064,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "RouteLinkRef": "o280_7",
+              "RunTime": "PT1M0S",
+              "id": "F8hh.PKX"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103064,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "8"
+              },
+              "To": {
+                "StopPointRef": 2400103060,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "RouteLinkRef": "o280_8",
+              "RunTime": "PT1M0S",
+              "id": "On_MbVrl"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103060,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "9"
+              },
+              "To": {
+                "StopPointRef": 2400103188,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "RouteLinkRef": "o280_9",
+              "RunTime": "PT3M0S",
+              "id": "KED9CiUh"
+            },
+            {
+              "From": {
+                "DynamicDestinationDisplay": "Town Centre",
+                "StopPointRef": 2400103188,
+                "TimingStatus": "OTH",
+                "SequenceNumber": "10"
+              },
+              "To": {
+                "StopPointRef": "2400A073630A",
+                "TimingStatus": "PTP",
+                "SequenceNumber": "11"
+              },
+              "RouteLinkRef": "o280_10",
+              "RunTime": "PT3M0S",
+              "id": "m66x9q.:"
+            }
+          ],
+          "id": "124"
+        }
+      ]
+    },
+    "Operators": [
+      {
+        "LicensedOperator": {
+          "OperatorCode": "MB",
+          "OperatorShortName": "Metrobus",
+          "OperatorNameOnLicence": "Metrobus",
+          "LicenceNumber": "PK0001213",
+          "LicenceClassification": "standardNational",
+          "EnquiryTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "ContactTelephoneNumber": {
+            "TelNationalNumber": "01293 449191"
+          },
+          "OperatorAddresses": {
+            "CorrespondenceAddress": {
+              "apd:Line": [
+                "Wheatstone Close",
+                "Crawley",
+                "West Sussex",
+                "RH10 9UA"
+              ]
+            }
+          },
+          "EmailAddress": "info@metrobus.co.uk",
+          "Garages": {
+            "Garage": [
+              {
+                "GarageCode": "CY",
+                "GarageName": "Crawley Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528686,
+                    "Northing": 139187,
+                    "Longitude": -0.161995,
+                    "Latitude": 51.137504
+                  },
+                  "id": "L1"
+                }
+              },
+              {
+                "GarageCode": "TLR",
+                "GarageName": "Tunbridge Wells, London Road A26 stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558171,
+                    "Northing": 139559,
+                    "Longitude": 0.25929,
+                    "Latitude": 51.133468
+                  },
+                  "id": "L2"
+                }
+              },
+              {
+                "GarageCode": "TWY",
+                "GarageName": "Tunbridge Wells, Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 557939,
+                    "Northing": 138477,
+                    "Longitude": 0.255514,
+                    "Latitude": 51.123806
+                  },
+                  "id": "L3"
+                }
+              },
+              {
+                "GarageCode": "HHH",
+                "GarageName": "Haywards Heath, Prin Roy Hosp",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 534059,
+                    "Northing": 123162,
+                    "Longitude": -0.091175,
+                    "Latitude": 50.992254
+                  },
+                  "id": "L4"
+                }
+              },
+              {
+                "GarageCode": "RMW",
+                "GarageName": "Redhill, Marketfield Way",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528018,
+                    "Northing": 150493,
+                    "Longitude": -0.16751,
+                    "Latitude": 51.239263
+                  },
+                  "id": "L5"
+                }
+              },
+              {
+                "GarageCode": "RPS",
+                "GarageName": "Redhill, Prezzo Stand",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527983,
+                    "Northing": 150810,
+                    "Longitude": -0.167901,
+                    "Latitude": 51.242122
+                  },
+                  "id": "L6"
+                }
+              },
+              {
+                "GarageCode": "CBS",
+                "GarageName": "Crawley Bus Stn layover",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 527023,
+                    "Northing": 136449,
+                    "Longitude": -0.186713,
+                    "Latitude": 51.113267
+                  },
+                  "id": "L7"
+                }
+              },
+              {
+                "GarageCode": "EPS",
+                "GarageName": "Epsom Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 520697,
+                    "Northing": 160871,
+                    "Longitude": -0.268824,
+                    "Latitude": 51.334133
+                  },
+                  "id": "L8"
+                }
+              },
+              {
+                "GarageCode": "MR",
+                "GarageName": "Gatwick Road North, Northbound Stop",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 528501,
+                    "Northing": 139279,
+                    "Longitude": -0.164611,
+                    "Latitude": 51.138374
+                  },
+                  "id": "L9"
+                }
+              },
+              {
+                "GarageCode": "CP",
+                "GarageName": "Copthorne Depot",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 533712,
+                    "Northing": 139410,
+                    "Longitude": -0.090113,
+                    "Latitude": 51.138358
+                  },
+                  "id": "L10"
+                }
+              },
+              {
+                "GarageCode": "OSW",
+                "GarageName": "Oxted, Station Road West",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539296,
+                    "Northing": 152868,
+                    "Longitude": -0.005129,
+                    "Latitude": 51.257967
+                  },
+                  "id": "L11"
+                }
+              },
+              {
+                "GarageCode": "RRC",
+                "GarageName": "Reigate, Red Cross",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 525074,
+                    "Northing": 150341,
+                    "Longitude": -0.209716,
+                    "Latitude": 51.238547
+                  },
+                  "id": "L12"
+                }
+              },
+              {
+                "GarageCode": "WHR",
+                "GarageName": "Westerham, Hartley Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 544807,
+                    "Northing": 154860,
+                    "Longitude": 0.074598,
+                    "Latitude": 51.274491
+                  },
+                  "id": "L13"
+                }
+              },
+              {
+                "GarageCode": "EGK",
+                "GarageName": "East Grinstead, King Street",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539417,
+                    "Northing": 138275,
+                    "Longitude": -0.009063,
+                    "Latitude": 51.126799
+                  },
+                  "id": "L14"
+                }
+              },
+              {
+                "GarageCode": "WMS",
+                "GarageName": "Warlingham Sainsburys",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 536476,
+                    "Northing": 158256,
+                    "Longitude": -0.043457,
+                    "Latitude": 51.30707
+                  },
+                  "id": "L15"
+                }
+              },
+              {
+                "GarageCode": "OCO",
+                "GarageName": "Oxted, Council Offices",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 539638,
+                    "Northing": 152752,
+                    "Longitude": -0.000274,
+                    "Latitude": 51.256839
+                  },
+                  "id": "L16"
+                }
+              },
+              {
+                "GarageCode": "LWM",
+                "GarageName": "Lingfield, War Memorial",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538707,
+                    "Northing": 143561,
+                    "Longitude": -0.017167,
+                    "Latitude": 51.174472
+                  },
+                  "id": "L17"
+                }
+              },
+              {
+                "GarageCode": "HBS",
+                "GarageName": "Horsham Bus Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 516934,
+                    "Northing": 130598,
+                    "Longitude": -0.332669,
+                    "Latitude": 51.062823
+                  },
+                  "id": "L18"
+                }
+              },
+              {
+                "GarageCode": "EGS",
+                "GarageName": "East Grinstead Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 538859,
+                    "Northing": 138237,
+                    "Longitude": -0.01705,
+                    "Latitude": 51.126589
+                  },
+                  "id": "L19"
+                }
+              },
+              {
+                "GarageCode": "DS",
+                "GarageName": "Dorking Station",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 517030,
+                    "Northing": 150395,
+                    "Longitude": -0.324877,
+                    "Latitude": 51.240742
+                  },
+                  "id": "L20"
+                }
+              },
+              {
+                "GarageCode": "TMR",
+                "GarageName": "Tunbridge Wells, Meadow Road",
+                "Location": {
+                  "Translation": {
+                    "GridType": "UKOS",
+                    "Easting": 558498,
+                    "Northing": 139844,
+                    "Longitude": 0.264096,
+                    "Latitude": 51.135935
+                  },
+                  "id": "L21"
+                }
+              }
+            ]
+          },
+          "id": "MB"
+        }
+      }
+    ],
+    "Services": [
+      {
+        "Service": {
+          "ServiceCode": "SER280",
+          "Lines": {
+            "Line": {
+              "LineName": 280,
+              "id": "HPBHL2LP"
+            }
+          },
+          "OperatingPeriod": {
+            "StartDate": "2025-03-01",
+            "EndDate": "2025-05-30"
+          },
+          "ServiceClassification": {
+            "NormalStopping": ""
+          },
+          "RegisteredOperatorRef": "MB",
+          "StopRequirements": {
+            "NoNewStopsRequired": ""
+          },
+          "Description": "Tunbridge Wells Station - Culverden Down",
+          "StandardService": {
+            "Origin": "Tunbridge Wells Station",
+            "Destination": "Culverden Down, Bennett Sch",
+            "UseAllStopPoints": true,
+            "JourneyPattern": [
+              {
+                "DestinationDisplay": "Culverden Down, Bennett Sch",
+                "Direction": "inbound",
+                "Description": "Tunbridge Wells Station - Culverden Down",
+                "RouteRef": 64086,
+                "JourneyPatternSectionRefs": 123,
+                "id": "64086:3057:843:720:123"
+              },
+              {
+                "DestinationDisplay": "Tunbridge Wells, Royal Vic Place",
+                "Direction": "outbound",
+                "Description": "Molyneux Park, Coniston Avenue - Tunbridge Wells",
+                "RouteRef": 64114,
+                "JourneyPatternSectionRefs": 124,
+                "id": "64114:1944:3053:660:124"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "VehicleJourneys": {
+      "VehicleJourney": [
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 224
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 280,
+              "JourneyCode": 1
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "189168.224.v",
+          "ServiceRef": "SER280",
+          "LineRef": "HPBHL2LP",
+          "JourneyPatternRef": [
+            "64086:3057:843:720:123"
+          ],
+          "StartDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT1H0M0S",
+              "From": {
+                "GarageRef": "CY"
+              },
+              "To": {
+                "StopPointRef": "2400A013900A"
+              }
+            }
+          },
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT10M0S",
+              "From": {
+                "StopPointRef": 240097763
+              },
+              "To": {
+                "StopPointRef": "2400A013940A"
+              }
+            }
+          },
+          "DepartureTime": "15:32:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 224
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 280,
+              "JourneyCode": 1
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "189168.224.w",
+          "ServiceRef": "SER280",
+          "LineRef": "HPBHL2LP",
+          "JourneyPatternRef": [
+            "64086:3057:843:720:123"
+          ],
+          "StartDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT1H0M0S",
+              "From": {
+                "GarageRef": "CY"
+              },
+              "To": {
+                "StopPointRef": "2400A013900A"
+              }
+            }
+          },
+          "EndDeadRun": {
+            "PositioningLink": {
+              "RunTime": "PT10M0S",
+              "From": {
+                "StopPointRef": 240097763
+              },
+              "To": {
+                "StopPointRef": "2400A013940A"
+              }
+            }
+          },
+          "DepartureTime": "15:32:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "v/0111110",
+              "BlockNumber": 225
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 280,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "ServicedOrganisationDayType": {
+              "DaysOfNonOperation": {
+                "WorkingDays": {
+                  "ServicedOrganisationRef": "Sch"
+                }
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-03-03",
+                    "EndDate": "2025-03-07"
+                  },
+                  {
+                    "StartDate": "2025-03-10",
+                    "EndDate": "2025-03-14"
+                  },
+                  {
+                    "StartDate": "2025-03-17",
+                    "EndDate": "2025-03-21"
+                  },
+                  {
+                    "StartDate": "2025-03-24",
+                    "EndDate": "2025-03-28"
+                  },
+                  {
+                    "StartDate": "2025-03-31",
+                    "EndDate": "2025-04-04"
+                  },
+                  {
+                    "StartDate": "2025-04-18",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-25"
+                  },
+                  {
+                    "StartDate": "2025-04-28",
+                    "EndDate": "2025-05-02"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-09"
+                  },
+                  {
+                    "StartDate": "2025-05-12",
+                    "EndDate": "2025-05-16"
+                  },
+                  {
+                    "StartDate": "2025-05-19",
+                    "EndDate": "2025-05-23"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-26"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "406133.225.v",
+          "ServiceRef": "SER280",
+          "LineRef": "HPBHL2LP",
+          "JourneyPatternRef": [
+            "64114:1944:3053:660:124"
+          ],
+          "DepartureTime": "08:48:00",
+          "SequenceNumber": "1"
+        },
+        {
+          "Operational": {
+            "Block": {
+              "Description": "w/0111110",
+              "BlockNumber": 225
+            },
+            "TicketMachine": {
+              "TicketMachineServiceCode": 280,
+              "JourneyCode": 2
+            }
+          },
+          "OperatingProfile": {
+            "RegularDayType": {
+              "DaysOfWeek": {
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": ""
+              }
+            },
+            "SpecialDaysOperation": {
+              "DaysOfNonOperation": {
+                "DateRange": [
+                  {
+                    "StartDate": "2025-04-07",
+                    "EndDate": "2025-04-11"
+                  },
+                  {
+                    "StartDate": "2025-04-14",
+                    "EndDate": "2025-04-18"
+                  },
+                  {
+                    "StartDate": "2025-04-21",
+                    "EndDate": "2025-04-21"
+                  },
+                  {
+                    "StartDate": "2025-05-05",
+                    "EndDate": "2025-05-05"
+                  },
+                  {
+                    "StartDate": "2025-05-26",
+                    "EndDate": "2025-05-30"
+                  }
+                ]
+              }
+            },
+            "BankHolidayOperation": {
+              "DaysOfNonOperation": {
+                "ChristmasDay": "",
+                "BoxingDay": "",
+                "GoodFriday": "",
+                "NewYearsDay": "",
+                "LateSummerBankHolidayNotScotland": "",
+                "MayDay": "",
+                "EasterMonday": "",
+                "SpringBank": "",
+                "ChristmasDayHoliday": "",
+                "BoxingDayHoliday": "",
+                "NewYearsDayHoliday": "",
+                "ChristmasEve": "",
+                "NewYearsEve": ""
+              }
+            }
+          },
+          "GarageRef": "CY",
+          "VehicleJourneyCode": "406133.225.w",
+          "ServiceRef": "SER280",
+          "LineRef": "HPBHL2LP",
+          "JourneyPatternRef": [
+            "64114:1944:3053:660:124"
+          ],
+          "DepartureTime": "08:48:00",
+          "SequenceNumber": "1"
+        }
+      ]
+    },
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xml:lang": "en",
+    "xsi:schemaLocation": "http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.4/TransXChange_general.xsd",
+    "xmlns:apd": "http://www.govtalk.gov.uk/people/AddressAndPersonalDetails",
+    "ModificationDateTime": "2025-02-27T17:35:43+00:00",
+    "FileName": "metrobus-280.xml",
+    "RevisionNumber": "0",
+    "RegistrationDocument": "false",
+    "xmlns": "http://www.transxchange.org.uk/",
+    "Modification": "new",
+    "CreationDateTime": "2025-02-27T17:35:43+00:00",
+    "SchemaVersion": "2.4"
+  }
+}
