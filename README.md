@@ -124,6 +124,4 @@ The converter specifically treats the following elements as arrays:
 - stoppoints
 - operators
 - servicecodelist
-
-If you need a different JSON structure, you can modify these options in the script. # bus-website
 # bus-website
